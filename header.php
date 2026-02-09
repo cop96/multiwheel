@@ -136,14 +136,9 @@
         <div class="container mx-auto px-4">
             <div class="flex justify-between items-center py-4">
                 <!-- Logo -->
-                <a href="index.php" class="flex items-center gap-3">
-                    <div class="w-12 h-12 bg-multiwheel-blue rounded flex items-center justify-center">
-                        <span class="text-white font-rajdhani font-bold text-xl">MW</span>
-                    </div>
-                    <div class="hidden sm:block">
-                        <span class="font-rajdhani font-bold text-2xl text-multiwheel-blue">MULTIWHEEL</span>
-                        <p class="text-xs text-steel-gray">Desde 2011 / Equipamiento Profesional</p>
-                    </div>
+                <a href="index.php" class="flex items-center">
+                    <img src="logo550_nuevo.png" alt="Multiwheel - Equipamiento Profesional"
+                        class="h-10 md:h-12 w-auto object-contain">
                 </a>
 
                 <!-- Desktop Navigation -->
@@ -190,11 +185,8 @@
             class="mobile-menu hidden lg:hidden fixed top-0 left-0 w-80 h-full bg-white z-50 shadow-2xl">
             <div class="p-4">
                 <div class="flex justify-between items-center mb-6 pb-4 border-b">
-                    <div class="flex items-center gap-3">
-                        <div class="w-10 h-10 bg-multiwheel-blue rounded flex items-center justify-center">
-                            <span class="text-white font-rajdhani font-bold">MW</span>
-                        </div>
-                        <span class="font-rajdhani font-bold text-xl text-multiwheel-blue">MULTIWHEEL</span>
+                    <div class="flex items-center">
+                        <img src="logo550_nuevo.png" alt="Multiwheel" class="h-8 w-auto">
                     </div>
                     <button id="mobile-menu-close" class="p-2 text-steel-gray hover:text-multiwheel-red transition">
                         <i class="fas fa-times text-xl"></i>

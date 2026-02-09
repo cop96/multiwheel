@@ -11,6 +11,10 @@ if (!file_exists($tcpdf_path)) {
     die('Error: TCPDF no encontrado en ' . $tcpdf_path);
 }
 
+// Suppress deprecation warnings for TCPDF compatibility with PHP 8.5
+error_reporting(E_ALL & ~E_DEPRECATED);
+ini_set('display_errors', 0);
+
 require_once($tcpdf_path);
 
 if (!class_exists('TCPDF')) {
@@ -51,10 +55,18 @@ $pdf->AddPage();
 // Brand Header
 $pdf->SetFillColor(30, 58, 95); // multiwheel-blue
 $pdf->Rect(0, 0, 210, 25, 'F');
-$pdf->SetXY(20, 8);
-$pdf->SetFont('helvetica', 'B', 14);
+
+// Logo in header
+$logo_path = __DIR__ . '/../logo550_nuevo.png';
+if (file_exists($logo_path)) {
+    // Position: X=20, Y=5, Width=auto, Height=15
+    $pdf->Image($logo_path, 20, 5, 0, 15, 'PNG', '', 'T', false, 300, '', false, false, 0, false, false, false);
+}
+
+$pdf->SetXY(85, 8); // Move text to the right of the logo
+$pdf->SetFont('helvetica', 'B', 12);
 $pdf->SetTextColor(255, 255, 255);
-$pdf->Cell(0, 10, 'MULTIWHEEL - EQUIPAMIENTO PROFESIONAL', 0, 1, 'L');
+$pdf->Cell(0, 10, 'EQUIPAMIENTO PROFESIONAL DE VEHÍCULOS', 0, 1, 'L');
 
 // 1. PRODUCT TITLE (Centered)
 $pdf->SetY(35);

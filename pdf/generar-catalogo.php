@@ -7,7 +7,12 @@ $base_dir = dirname(__DIR__);
 $tcpdf_path = $base_dir . '/inc/tcpdf/tcpdf.php';
 if (!file_exists($tcpdf_path))
     die('Error: TCPDF no encontrado en ' . $tcpdf_path);
+// Suppress deprecation warnings for TCPDF compatibility with PHP 8.5
+error_reporting(E_ALL & ~E_DEPRECATED);
+ini_set('display_errors', 0);
+
 require_once($tcpdf_path);
+require_once(__DIR__ . '/../inc/wp-compat.php');
 if (!class_exists('TCPDF'))
     die('Error: La clase TCPDF no se cargó correctamente.');
 
@@ -44,8 +49,15 @@ foreach ($products_data['productos'] as $producto) {
     // Header
     $pdf->SetFillColor(30, 58, 95);
     $pdf->Rect(0, 0, 210, 20, 'F');
-    $pdf->SetXY(20, 6);
-    $pdf->SetFont('helvetica', 'B', 10);
+
+    // Logo in header
+    $logo_path = __DIR__ . '/../logo550_nuevo.png';
+    if (file_exists($logo_path)) {
+        $pdf->Image($logo_path, 15, 3, 0, 14, 'PNG', '', 'T', false, 300, '', false, false, 0, false, false, false);
+    }
+
+    $pdf->SetXY(75, 6);
+    $pdf->SetFont('helvetica', 'B', 9);
     $pdf->SetTextColor(255, 255, 255);
     $pdf->Cell(0, 8, 'CATÁLOGO MULTIWHEEL - ' . strtoupper($producto['categoria_display'] ?? 'Accesorio'), 0, 1, 'L');
 
