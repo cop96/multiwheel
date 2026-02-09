@@ -1,0 +1,6 @@
+.DS_Store
+.vscode/
+*.log
+.env
+uploads/
+inc/tcpdf/

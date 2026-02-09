@@ -1,0 +1,357 @@
+{
+  "productos": [
+    {
+      "id": "EST-001",
+      "nombre": "Estantería Modular Lateral Derecha",
+      "slug": "estanteria-modular-lateral",
+      "categoria": "estanterias",
+      "categoria_display": "Estanterías y Almacenaje",
+      "descripcion_corta": "Estructura metálica con 5 baldas ajustables para instalación lateral en furgonetas profesionales",
+      "descripcion_larga": "Estantería modular fabricada en acero galvanizado de alta resistencia. Diseñada específicamente para instalación en lateral derecho de furgonetas comerciales. Sistema de baldas ajustables en altura mediante clips metálicos. Acabado galvanizado anticorrosión. Montaje mediante anclajes al piso y paneles laterales del vehículo. Incluye kit de tornillería y anclajes de seguridad.",
+      "caracteristicas_tecnicas": [
+        "Material: Acero galvanizado 1,5mm",
+        "Baldas ajustables: 5 unidades",
+        "Capacidad por balda: 30kg",
+        "Capacidad total: 150kg",
+        "Acabado: Galvanizado anticorrosión",
+        "Sistema de fijación: Anclajes al suelo y panel lateral"
+      ],
+      "especificaciones": {
+        "alto": "1800mm",
+        "ancho": "400mm",
+        "profundidad": "350mm",
+        "peso": "28kg",
+        "material": "Acero galvanizado",
+        "color": "Gris metálico",
+        "carga_maxima": "150kg"
+      },
+      "aplicaciones": [
+        "Furgonetas taller electricista",
+        "Furgonetas fontanería",
+        "Vehículos servicios técnicos",
+        "Talleres móviles multisector"
+      ],
+      "compatibilidad_vehiculos": [
+        "Mercedes Sprinter (todas las versiones)",
+        "Volkswagen Crafter",
+        "Ford Transit L2-L3-L4",
+        "Renault Master",
+        "Iveco Daily",
+        "Fiat Ducato L2-L3"
+      ],
+      "incluye": [
+        "Estructura completa estantería",
+        "5 baldas metálicas ajustables",
+        "Kit de tornillería completo",
+        "Anclajes de seguridad al suelo",
+        "Instrucciones de montaje"
+      ],
+      "certificaciones": [
+        "Homologación según normativa ITV",
+        "Certificado de carga EN 12195",
+        "Resistencia estructural testada"
+      ],
+      "opciones_personalizacion": [
+        "Altura personalizada según modelo vehículo",
+        "Acabado en pintura epoxi color cliente",
+        "Baldas adicionales (bajo pedido)",
+        "Cajones extraíbles integrados (opcional)"
+      ],
+      "plazo_entrega": "5-7 días laborables",
+      "instalacion_incluida": true,
+      "garantia": "2 años",
+      "precio": {
+        "base": "450.00",
+        "moneda": "EUR",
+        "iva_incluido": false,
+        "nota_precio": "Precio sin IVA. Instalación incluida en Sevilla y provincia."
+      },
+      "imagenes": [
+        "imagen-principal.jpg",
+        "imagen-detalle-1.jpg",
+        "imagen-detalle-2.jpg"
+      ],
+      "destacado": true,
+      "nuevo": false,
+      "stock": "disponible",
+      "meta_seo": {
+        "title": "Estantería Modular Lateral para Furgonetas | Multiwheel",
+        "description": "Estantería metálica profesional con 5 baldas ajustables. Capacidad 150kg. Instalación incluida. Homologada ITV. Ideal para talleres móviles."
+      },
+      "relacionados": ["EST-002", "BAN-001", "ACC-015"]
+    },
+    {
+      "id": "BAN-001",
+      "nombre": "Banco de Trabajo Plegable",
+      "slug": "banco-trabajo-plegable",
+      "categoria": "bancos-trabajo",
+      "categoria_display": "Bancos de Trabajo",
+      "descripcion_corta": "Banco de trabajo con superficie metálica y cajones extraíbles. Sistema de plegado vertical",
+      "descripcion_larga": "Banco de trabajo profesional diseñado para furgonetas y vehículos comerciales. Superficie de trabajo metálica resistente con rebordes de seguridad. Sistema de plegado vertical que permite optimizar el espacio cuando no está en uso. Incluye 5 cajones extraíbles con cerradura y bandejas organizadoras. Patas regulables en altura para nivelación en superficies irregulares.",
+      "caracteristicas_tecnicas": [
+        "Superficie metálica de 1200x600mm",
+        "5 cajones extraíbles con guías telescópicas",
+        "Sistema de plegado vertical",
+        "Patas regulables en altura",
+        "Capacidad de carga: 150kg",
+        "Peso: 45kg"
+      ],
+      "especificaciones": {
+        "alto": "900mm (desplegado)",
+        "ancho": "1200mm",
+        "profundidad": "600mm",
+        "peso": "45kg",
+        "material": "Acero estructural",
+        "acabado": "Pintura epoxi azul"
+      },
+      "aplicaciones": [
+        "Talleres móviles electricistas",
+        "Fontaneros",
+        "Herreros",
+        "Servicios técnicos"
+      ],
+      "compatibilidad_vehiculos": [
+        "Furgonetas medianas y grandes",
+        "Vehículos con espacio de carga > 1.5m"
+      ],
+      "incluye": [
+        "Banco completo con estructura",
+        "5 cajones con llaves",
+        "Kit de anclaje al vehículo",
+        "Instrucciones de montaje"
+      ],
+      "certificaciones": [
+        "Homologación para transporte",
+        "Certificado de carga"
+      ],
+      "opciones_personalizacion": [
+        "Dimensiones personalizadas",
+        "Color según carta RAL",
+        "Accesorios adicionales"
+      ],
+      "plazo_entrega": "7-10 días laborables",
+      "instalacion_incluida": true,
+      "garantia": "2 años",
+      "precio": {
+        "base": "680.00",
+        "moneda": "EUR",
+        "iva_incluido": false,
+        "nota_precio": "Precio sin IVA. Installation included in Sevilla province."
+      },
+      "imagenes": ["imagen-principal.jpg"],
+      "destacado": true,
+      "nuevo": false,
+      "stock": "disponible"
+    },
+    {
+      "id": "ILU-001",
+      "nombre": "Kit LED Autónomo 12V/24V",
+      "slug": "kit-led-autonomo",
+      "categoria": "iluminacion",
+      "categoria_display": "Iluminación",
+      "descripcion_corta": "Sistema de iluminación LED profesional con sensor de movimiento y batería auxiliar",
+      "descripcion_larga": "Sistema de iluminación LED autónomo diseñado para furgonetas y vehículos comerciales. Incluye paneles LED de alta luminosidad con difusor para luz homogénea. Batería auxiliar de litio con autonomía de 8 horas. Sensor de movimiento integrado para encendido automático. Compatible con sistemas 12V y 24V. Instalación plug&play con conexión al sistema eléctrico del vehículo.",
+      "caracteristicas_tecnicas": [
+        "Potencia: 36W (equivalente a 180W incandescentes)",
+        "Luminosidad: 3600 lúmenes",
+        "Temperatura color: 4000K (luz neutra)",
+        "Autonomía batería: 8 horas",
+        "Sensor de movimiento PIR",
+        "Grado protección: IP44"
+      ],
+      "especificaciones": {
+        "alto_panel": "40mm",
+        "ancho_panel": "600mm",
+        "profundidad_panel": "300mm",
+        "peso_kit": "3.5kg",
+        "voltaje": "12V/24V compatible",
+        "bateria": "Litio 12V 20Ah"
+      },
+      "aplicaciones": [
+        "Iluminación interior furgonetas",
+        "Talleres móviles",
+        "Vehículos de servicio técnico",
+        "Ambientes de trabajo con luz natural"
+      ],
+      "compatibilidad_vehiculos": [
+        "Universal 12V",
+        "Universal 24V",
+        "Camiones y furgonetas"
+      ],
+      "incluye": [
+        "2 Paneles LED 600mm",
+        "Batería auxiliar litio",
+        "Cableado completo",
+        "Soportes de montaje",
+        "Instrucciones instalación"
+      ],
+      "certificaciones": [
+        "CE RoHS",
+        "Homologación vehicular"
+      ],
+      "opciones_personalizacion": [
+        "Temperatura color (3000K/5000K/6000K)",
+        "Número de paneles",
+        "Capacidad batería adicional"
+      ],
+      "plazo_entrega": "3-5 días laborables",
+      "instalacion_incluida": true,
+      "garantia": "3 años",
+      "precio": {
+        "base": "290.00",
+        "moneda": "EUR",
+        "iva_incluido": false,
+        "nota_precio": "Precio sin IVA. Instalación básica incluida."
+      },
+      "imagenes": ["imagen-principal.jpg"],
+      "destacado": false,
+      "nuevo": true,
+      "stock": "disponible"
+    },
+    {
+      "id": "GEN-001",
+      "nombre": "Generador Eléctrico Portátil 2000W",
+      "slug": "generador-portatil-2000w",
+      "categoria": "generadores",
+      "categoria_display": "Generadores",
+      "descripcion_corta": "Generador inverter silencioso con tomas Schuko y USB. Ideal para herramientas eléctricas",
+      "descripcion_larga": "Generador inverter portátil de 2000W de potencia máxima, ideal para proporcionar energía autónoma en furgonetas y vehículos de trabajo. Tecnología inverter que proporciona corriente estable y segura para equipos electrónicos sensibles. Funcionamiento silencioso con solo 58dB. Tanque de combustible con autonomía de 6 horas al 50% de carga. Incluye toma Schuko 230V y puertos USB para cargar dispositivos.",
+      "caracteristicas_tecnicas": [
+        "Potencia máxima: 2000W",
+        "Potencia nominal: 1600W",
+        "Tecnología: Inverter",
+        "Nivel sonoro: 58dB",
+        "Autonomía: 6 horas (50% carga)",
+        "Combustible: Gasolina 95"
+      ],
+      "especificaciones": {
+        "largo": "510mm",
+        "ancho": "290mm",
+        "alto": "425mm",
+        "peso": "22kg",
+        "deposito": "4 litros",
+        "salida": "1x Schuko 230V + 2x USB 5V"
+      },
+      "aplicaciones": [
+        "Herramientas eléctricas",
+        "Iluminación autónoma",
+        "Carga de baterías",
+        "Electrodomésticos pequeños"
+      ],
+      "compatibilidad_vehiculos": [
+        "Universal - instalación externa",
+        "Con soporte antivibraciones"
+      ],
+      "incluye": [
+        "Generador completo",
+        "Manual usuario",
+        "Kit herramientas mantenimiento",
+        "Embudo combustibles"
+      ],
+      "certificaciones": [
+        "CE",
+        "Homologación emisiones Euro 5"
+      ],
+      "opciones_personalizacion": [
+        "Modelo 3000W mayor potencia",
+        "Kit instalación fija vehículo",
+        "Panel control remoto"
+      ],
+      "plazo_entrega": "5-7 días laborables",
+      "instalacion_incluida": false,
+      "garantia": "2 años",
+      "precio": {
+        "base": "550.00",
+        "moneda": "EUR",
+        "iva_incluido": false,
+        "nota_precio": "Precio sin IVA. Instalación no incluida."
+      },
+      "imagenes": ["imagen-principal.jpg"],
+      "destacado": false,
+      "nuevo": false,
+      "stock": "bajo_pedido"
+    },
+    {
+      "id": "RES-001",
+      "nombre": "Winche Eléctrico Profesional 4500lbs",
+      "slug": "winche-electrico-4500lbs",
+      "categoria": "sistemas-rescate",
+      "categoria_display": "Sistemas de Rescate",
+      "descripcion_corta": "Cabrestante eléctrico con mando a distancia inalámbrico. Cable de acero galvanizado",
+      "descripcion_larga": "Winche eléctrico profesional de 4500lbs (2041kg) de capacidad de tracción. Diseñado para vehículos de auxílio en carretera y servicios de rescate. Motor de alta potencia con transmisión de engranajes planetary para máximo rendimiento. Cable de acero galvanizado de 25 metros con gancho de liberación rápida. Mando a distancia inalámbrico con alcance de 50 metros. Incluye guías de cable y placa de montaje universal.",
+      "caracteristicas_tecnicas": [
+        "Capacidad tracción: 4500lbs (2041kg)",
+        "Motor: 1.4HP DC motor",
+        "Reducción: Planetary 265:1",
+        "Cable: Acero galvanizado 8mm x 25m",
+        "Control: Inalámbrico + cableado",
+        "Grado protección motor: IP67"
+      ],
+      "especificaciones": {
+        "largo": "346mm",
+        "ancho": "114mm",
+        "alto": "143mm",
+        "peso": "18kg",
+        "voltaje": "12V DC",
+        "traccion_linea": "2041kg (1ª capa)"
+      },
+      "aplicaciones": [
+        "Grúas de auxílio",
+        "Vehículos de rescate",
+        "Recuperación de vehículos",
+        "Servicios de emergencia"
+      ],
+      "compatibilidad_vehiculos": [
+        "Vehículos 4x4",
+        "Furgonetas pesado",
+        "Camiones ligeros",
+        "Grúas móviles"
+      ],
+      "incluye": [
+        "Winche completo",
+        "Cable acerado 25m",
+        "Gancho con anilla",
+        "Mando inalámbrico + cableado",
+        "Guías de cable",
+        "Placa montaje",
+        "Kit tornillería"
+      ],
+      "certificaciones": [
+        "CE",
+        "Normativa VMRS 41"
+      ],
+      "opciones_personalizacion": [
+        "Capacidad 6000lbs",
+        "Cable sintético (más ligero)",
+        "Kit inalámbrico extra"
+      ],
+      "plazo_entrega": "5-7 días laborables",
+      "instalacion_incluida": true,
+      "garantia": "2 años",
+      "precio": {
+        "base": "420.00",
+        "moneda": "EUR",
+        "iva_incluido": false,
+        "nota_precio": "Precio sin IVA. Instalación homologada incluida."
+      },
+      "imagenes": ["imagen-principal.jpg"],
+      "destacado": true,
+      "nuevo": false,
+      "stock": "disponible"
+    }
+  ],
+  "categorias": [
+    {"id": "estanterias", "nombre": "Estanterías y Almacenaje", "icono": "fa-pallet"},
+    {"id": "bancos-trabajo", "nombre": "Bancos de Trabajo", "icono": "fa-tools"},
+    {"id": "iluminacion", "nombre": "Iluminación", "icono": "fa-lightbulb"},
+    {"id": "generadores", "nombre": "Generadores", "icono": "fa-bolt"},
+    {"id": "sistemas-rescate", "nombre": "Sistemas de Rescate", "icono": "fa-truck-pickup"},
+    {"id": "anclajes", "nombre": "Anclajes", "icono": "fa-lock"},
+    {"id": "accesorios", "nombre": "Accesorios", "icono": "fa-cogs"}
+  ],
+  "meta": {
+    "version": "1.0",
+    "ultima_actualizacion": "2024-01-01",
+    "total_productos": 5
+  }
+}
