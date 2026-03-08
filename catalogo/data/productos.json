@@ -137,6 +137,33 @@
                 "TUBO 4.jpeg",
                 "TUBO 5.jpeg"
             ]
+        },
+        {
+            "id": "EST-001",
+            "nombre": "Estantería Modular Lateral Derecha",
+            "slug": "estanteria-modular-lateral",
+            "categoria": "estanterias",
+            "categoria_display": "Estanterías y Almacenaje",
+            "descripcion_corta": "Estructura metálica con 5 baldas ajustables para instalación lateral en furgonetas profesionales",
+            "descripcion_larga": "Estantería modular fabricada en acero galvanizado de alta resistencia. Diseñada específicamente para instalación en lateral derecho de furgonetas comerciales.",
+            "stock": "disponible",
+            "plazo_entrega": "5-7 días laborables",
+            "instalacion_incluida": true,
+            "garantia": "2 años",
+            "precio": {
+                "base": "450.00",
+                "moneda": "EUR"
+            },
+            "especificaciones": {
+                "Material": "Acero galvanizado 1,5mm",
+                "Baldas ajustables": "5 unidades",
+                "Alto": "1800mm",
+                "Ancho": "400mm"
+            },
+            "relacionados": [],
+            "imagenes": [
+                "imagen-1.png"
+            ]
         }
     ],
     "categorias": [
@@ -158,7 +185,7 @@
     ],
     "meta": {
         "version": "1.0",
-        "ultima_actualizacion": "2026-02-09 11:12:03",
-        "total_productos": 5
+        "ultima_actualizacion": "2026-03-08 18:09:31",
+        "total_productos": 6
     }
 }
