@@ -269,6 +269,139 @@
             },
             "relacionados": [],
             "imagenes": []
+        },
+        {
+            "id": "REAL-NEW-TOPE-D-50",
+            "nombre": "TOPE DE RUEDA PARA GRUAS",
+            "slug": "tope-de-rueda-para-gruas",
+            "categoria": "sistemas-de-amarre",
+            "categoria_display": "Sistemas De Amarre",
+            "descripcion_corta": "TOPE DE RUEDA PARA GRUAS de alta resistencia industrial.",
+            "descripcion_larga": "Descripción completa para TOPE DE RUEDA PARA GRUAS. Equipamiento profesional de alta calidad.",
+            "stock": "disponible",
+            "plazo_entrega": "5-7 días",
+            "instalacion_incluida": false,
+            "garantia": "2 años",
+            "precio": {
+                "base": "Consultar",
+                "moneda": "EUR"
+            },
+            "especificaciones": {
+                "Material": "Acero",
+                "Tipo": "Profesional"
+            },
+            "relacionados": [],
+            "imagenes": [
+                "TOPE DE RUEDA PARA GRUAS.JPEG"
+            ]
+        },
+        {
+            "id": "REAL-NEW-TOPE-D-50",
+            "nombre": "TOPE DE RUEDA PARA GONDALAS – PORTAMAQUINAS",
+            "slug": "tope-de-rueda-para-gondalas-portamaquinas",
+            "categoria": "sistemas-de-amarre",
+            "categoria_display": "Sistemas De Amarre",
+            "descripcion_corta": "TOPE DE RUEDA PARA GONDALAS – PORTAMAQUINAS de alta resistencia industrial.",
+            "descripcion_larga": "Descripción completa para TOPE DE RUEDA PARA GONDALAS – PORTAMAQUINAS. Equipamiento profesional de alta calidad.",
+            "stock": "disponible",
+            "plazo_entrega": "5-7 días",
+            "instalacion_incluida": false,
+            "garantia": "2 años",
+            "precio": {
+                "base": "Consultar",
+                "moneda": "EUR"
+            },
+            "especificaciones": {
+                "Material": "Acero",
+                "Tipo": "Profesional"
+            },
+            "relacionados": [],
+            "imagenes": [
+                "TOPE DE RUEDA PARA GONDALAS – PORTAMAQUINAS 2.jpg",
+                "TOPE DE RUEDA PARA GONDALAS – PORTAMAQUINAS 3.jpg",
+                "TOPE DE RUEDA PARA GONDALAS – PORTAMAQUINAS 1.jpg"
+            ]
+        },
+        {
+            "id": "REAL-NEW-GUIAS--50",
+            "nombre": "GUIAS RODILLOS PARA CABRESTANTES",
+            "slug": "guias-rodillos-para-cabrestantes",
+            "categoria": "sistemas-de-amarre",
+            "categoria_display": "Sistemas De Amarre",
+            "descripcion_corta": "GUIAS RODILLOS PARA CABRESTANTES de alta resistencia industrial.",
+            "descripcion_larga": "Descripción completa para GUIAS RODILLOS PARA CABRESTANTES. Equipamiento profesional de alta calidad.",
+            "stock": "disponible",
+            "plazo_entrega": "5-7 días",
+            "instalacion_incluida": false,
+            "garantia": "2 años",
+            "precio": {
+                "base": "Consultar",
+                "moneda": "EUR"
+            },
+            "especificaciones": {
+                "Material": "Acero",
+                "Tipo": "Profesional"
+            },
+            "relacionados": [],
+            "imagenes": [
+                "GUIAS RODILLOS PARA CABRESTANTES.JPG"
+            ]
+        },
+        {
+            "id": "REAL-NEW-PLACA--50",
+            "nombre": "PLACA DE RESCATE",
+            "slug": "placa-de-rescate",
+            "categoria": "u-til-rescate-pesados",
+            "categoria_display": "U Til Rescate Pesados",
+            "descripcion_corta": "PLACA DE RESCATE de alta resistencia industrial.",
+            "descripcion_larga": "Descripción completa para PLACA DE RESCATE. Equipamiento profesional de alta calidad.",
+            "stock": "disponible",
+            "plazo_entrega": "5-7 días",
+            "instalacion_incluida": false,
+            "garantia": "2 años",
+            "precio": {
+                "base": "Consultar",
+                "moneda": "EUR"
+            },
+            "especificaciones": {
+                "Material": "Acero",
+                "Tipo": "Profesional"
+            },
+            "relacionados": [],
+            "imagenes": [
+                "PLACA DE RESCATE 1.jpeg",
+                "PLACA DE RESCATE 2.jpeg"
+            ]
+        },
+        {
+            "id": "REAL-NEW-SISTEM-50",
+            "nombre": "SISTEMA DE RESCATE PARA VEHICULOS INDUSTRIALES",
+            "slug": "sistema-de-rescate-para-vehiculos-industriales",
+            "categoria": "u-til-rescate-pesados",
+            "categoria_display": "U Til Rescate Pesados",
+            "descripcion_corta": "SISTEMA DE RESCATE PARA VEHICULOS INDUSTRIALES de alta resistencia industrial.",
+            "descripcion_larga": "Descripción completa para SISTEMA DE RESCATE PARA VEHICULOS INDUSTRIALES. Equipamiento profesional de alta calidad.",
+            "stock": "disponible",
+            "plazo_entrega": "5-7 días",
+            "instalacion_incluida": false,
+            "garantia": "2 años",
+            "precio": {
+                "base": "Consultar",
+                "moneda": "EUR"
+            },
+            "especificaciones": {
+                "Material": "Acero",
+                "Tipo": "Profesional"
+            },
+            "relacionados": [],
+            "imagenes": [
+                "SISTEMA DE RESCATE PARA VEHICULOS INDUSTRIALES 6.jpeg",
+                "SISTEMA DE RESCATE PARA VEHICULOS INDUSTRIALES 1.JPEG",
+                "SISTEMA DE RESCATE PARA VEHICULOS INDUSTRIALES 3.jpeg",
+                "SISTEMA DE RESCATE PARA VEHICULOS INDUSTRIALES 2.JPEG",
+                "SISTEMA DE RESCATE PARA VEHICULOS INDUSTRIALES 5.jpeg",
+                "SISTEMA DE RESCATE PARA VEHICULOS INDUSTRIALES 4.jpeg"
+            ]
         }
     ],
     "categorias": [
@@ -286,11 +419,21 @@
             "id": "rescate",
             "nombre": "Rescate",
             "icono": "fa-truck-pickup"
+        },
+        {
+            "id": "sistemas-de-amarre",
+            "nombre": "Sistemas De Amarre",
+            "icono": "fa-folder-open"
+        },
+        {
+            "id": "u-til-rescate-pesados",
+            "nombre": "U Til Rescate Pesados",
+            "icono": "fa-folder-open"
         }
     ],
     "meta": {
         "version": "1.0",
-        "ultima_actualizacion": "2026-03-08 18:44:03",
-        "total_productos": 10
+        "ultima_actualizacion": "2026-03-08 19:03:50",
+        "total_productos": 15
     }
 }
