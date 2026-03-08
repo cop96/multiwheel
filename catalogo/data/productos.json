@@ -169,8 +169,8 @@
             "id": "REAL-NEW-POLEA--05",
             "nombre": "POLEA REENVIO 2 TN",
             "slug": "polea-reenvio-2-tn",
-            "categoria": "sistemas de amarre",
-            "categoria_display": "Sistemas de amarre",
+            "categoria": "sistemas-de-amarre",
+            "categoria_display": "Sistemas De Amarre",
             "descripcion_corta": "POLEA REENVIO 2 TN de alta resistencia.",
             "descripcion_larga": "Descripción para POLEA REENVIO 2 TN (pendiente extraer de docx)",
             "stock": "disponible",
@@ -196,8 +196,8 @@
             "id": "REAL-NEW-POLEA--05",
             "nombre": "POLEA REENVIO TRASERO",
             "slug": "polea-reenvio-trasero",
-            "categoria": "sistemas de amarre",
-            "categoria_display": "Sistemas de amarre",
+            "categoria": "sistemas-de-amarre",
+            "categoria_display": "Sistemas De Amarre",
             "descripcion_corta": "POLEA REENVIO TRASERO de alta resistencia.",
             "descripcion_larga": "Descripción para POLEA REENVIO TRASERO (pendiente extraer de docx)",
             "stock": "disponible",
@@ -214,17 +214,17 @@
             },
             "relacionados": [],
             "imagenes": [
+                "POLEA REENVIO TRASERO 2.jpeg",
                 "POLEA REENVIO TRASERO 1.jpeg",
-                "POLEA REENVIO TRASERO 3.jpeg",
-                "POLEA REENVIO TRASERO 2.jpeg"
+                "POLEA REENVIO TRASERO 3.jpeg"
             ]
         },
         {
             "id": "REAL-NEW-POLEA--05",
             "nombre": "POLEA REENVIO VMS",
             "slug": "polea-reenvio-vms",
-            "categoria": "sistemas de amarre",
-            "categoria_display": "Sistemas de amarre",
+            "categoria": "sistemas-de-amarre",
+            "categoria_display": "Sistemas De Amarre",
             "descripcion_corta": "POLEA REENVIO VMS de alta resistencia.",
             "descripcion_larga": "Descripción para POLEA REENVIO VMS (pendiente extraer de docx)",
             "stock": "disponible",
@@ -242,8 +242,8 @@
             "relacionados": [],
             "imagenes": [
                 "POLEA REENVIO VMS 4.JPG",
-                "POLEA REENVIO VMS 1.JPG",
                 "POLEA REENVIO VMS 2.JPG",
+                "POLEA REENVIO VMS 1.JPG",
                 "POLEA REENVIO VMS 3.JPG"
             ]
         },
@@ -251,8 +251,8 @@
             "id": "REAL-NEW-POLEA--05",
             "nombre": "POLEA REENVIO 17 TN",
             "slug": "polea-reenvio-17-tn",
-            "categoria": "sistemas de amarre",
-            "categoria_display": "Sistemas de amarre",
+            "categoria": "sistemas-de-amarre",
+            "categoria_display": "Sistemas De Amarre",
             "descripcion_corta": "POLEA REENVIO 17 TN de alta resistencia.",
             "descripcion_larga": "Polea de reenvío profesional con capacidad de 17 toneladas. Construcción robusta para operaciones de rescate pesado.",
             "stock": "disponible",
@@ -268,7 +268,12 @@
                 "Tipo": "Rescate"
             },
             "relacionados": [],
-            "imagenes": []
+            "imagenes": [
+                "POLEA 17 TN 3.jpeg",
+                "POLEA 17 TN 1.jpeg",
+                "POLEA 17 TN 4.jpeg",
+                "POLEA 17 TN 2.jpeg"
+            ]
         },
         {
             "id": "REAL-NEW-TOPE-D-50",
@@ -369,8 +374,8 @@
             },
             "relacionados": [],
             "imagenes": [
-                "PLACA DE RESCATE 1.jpeg",
-                "PLACA DE RESCATE 2.jpeg"
+                "PLACA DE RESCATE 2.jpeg",
+                "PLACA DE RESCATE 1.jpeg"
             ]
         },
         {
@@ -395,12 +400,12 @@
             },
             "relacionados": [],
             "imagenes": [
-                "SISTEMA DE RESCATE PARA VEHICULOS INDUSTRIALES 6.jpeg",
+                "SISTEMA DE RESCATE PARA VEHICULOS INDUSTRIALES 5.jpeg",
+                "SISTEMA DE RESCATE PARA VEHICULOS INDUSTRIALES 2.JPEG",
+                "SISTEMA DE RESCATE PARA VEHICULOS INDUSTRIALES 4.jpeg",
                 "SISTEMA DE RESCATE PARA VEHICULOS INDUSTRIALES 1.JPEG",
                 "SISTEMA DE RESCATE PARA VEHICULOS INDUSTRIALES 3.jpeg",
-                "SISTEMA DE RESCATE PARA VEHICULOS INDUSTRIALES 2.JPEG",
-                "SISTEMA DE RESCATE PARA VEHICULOS INDUSTRIALES 5.jpeg",
-                "SISTEMA DE RESCATE PARA VEHICULOS INDUSTRIALES 4.jpeg"
+                "SISTEMA DE RESCATE PARA VEHICULOS INDUSTRIALES 6.jpeg"
             ]
         }
     ],
@@ -433,7 +438,7 @@
     ],
     "meta": {
         "version": "1.0",
-        "ultima_actualizacion": "2026-03-08 19:18:54",
+        "ultima_actualizacion": "2026-03-08 19:19:35",
         "total_productos": 15
     }
 }
