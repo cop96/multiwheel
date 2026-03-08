@@ -6,8 +6,8 @@
             "slug": "cun-a-de-carga",
             "categoria": "accesorios",
             "categoria_display": "Accesorios",
-            "descripcion_corta": "\rCUÑA DE CARGA- SISTEMA DE RAMPA PARA LA CARGA DE CARROS DE RESCATE EN PORTACOCHES.- FABRICADO EN ACERO AL CARBONO DE 4 M\/M.- CON REFUERZO INFERIOR...",
-            "descripcion_larga": "\rCUÑA DE CARGA- SISTEMA DE RAMPA PARA LA CARGA DE CARROS DE RESCATE EN PORTACOCHES.- FABRICADO EN ACERO AL CARBONO DE 4 M\/M.- CON REFUERZO INFERIOR.(TE ADJUNTO LA FOTO “MEDIDAS CUÑA DE CARGA” PARA HACERLE A LAS FOTOS NUEVAS LO MISMO DE LA MEDIDA DE 70 CMS) ",
+            "descripcion_corta": "\rCUÑA DE CARGA- SISTEMA DE RAMPA PARA LA CARGA DE CARROS DE RESCATE EN PORTACOCHES.- FABRICADO EN ACERO AL CARBONO DE 4 M/M.- CON REFUERZO INFERIOR...",
+            "descripcion_larga": "\rCUÑA DE CARGA- SISTEMA DE RAMPA PARA LA CARGA DE CARROS DE RESCATE EN PORTACOCHES.- FABRICADO EN ACERO AL CARBONO DE 4 M/M.- CON REFUERZO INFERIOR.(TE ADJUNTO LA FOTO “MEDIDAS CUÑA DE CARGA” PARA HACERLE A LAS FOTOS NUEVAS LO MISMO DE LA MEDIDA DE 70 CMS) ",
             "stock": "disponible",
             "plazo_entrega": "5-7 días",
             "instalacion_incluida": false,
@@ -164,6 +164,111 @@
             "imagenes": [
                 "imagen-1.png"
             ]
+        },
+        {
+            "id": "REAL-NEW-POLEA--05",
+            "nombre": "POLEA REENVIO 2 TN",
+            "slug": "polea-reenvio-2-tn",
+            "categoria": "accesorios",
+            "categoria_display": "Accesorios",
+            "descripcion_corta": "POLEA REENVIO 2 TN de alta resistencia.",
+            "descripcion_larga": "Descripción para POLEA REENVIO 2 TN (pendiente extraer de docx)",
+            "stock": "disponible",
+            "plazo_entrega": "5-7 días",
+            "instalacion_incluida": false,
+            "garantia": "2 años",
+            "precio": {
+                "base": "Consultar",
+                "moneda": "EUR"
+            },
+            "especificaciones": {
+                "Material": "Acero",
+                "Tipo": "Rescate"
+            },
+            "relacionados": [],
+            "imagenes": [
+                "POLEA REENVIO 2 TN 2.jpeg",
+                "POLEA REENVIO 2 TN 3.jpeg",
+                "POLEA REENVIO 2 TN 1.jpeg"
+            ]
+        },
+        {
+            "id": "REAL-NEW-POLEA--05",
+            "nombre": "POLEA REENVIO TRASERO",
+            "slug": "polea-reenvio-trasero",
+            "categoria": "accesorios",
+            "categoria_display": "Accesorios",
+            "descripcion_corta": "POLEA REENVIO TRASERO de alta resistencia.",
+            "descripcion_larga": "Descripción para POLEA REENVIO TRASERO (pendiente extraer de docx)",
+            "stock": "disponible",
+            "plazo_entrega": "5-7 días",
+            "instalacion_incluida": false,
+            "garantia": "2 años",
+            "precio": {
+                "base": "Consultar",
+                "moneda": "EUR"
+            },
+            "especificaciones": {
+                "Material": "Acero",
+                "Tipo": "Rescate"
+            },
+            "relacionados": [],
+            "imagenes": [
+                "POLEA REENVIO TRASERO 1.jpeg",
+                "POLEA REENVIO TRASERO 3.jpeg",
+                "POLEA REENVIO TRASERO 2.jpeg"
+            ]
+        },
+        {
+            "id": "REAL-NEW-POLEA--05",
+            "nombre": "POLEA REENVIO VMS",
+            "slug": "polea-reenvio-vms",
+            "categoria": "accesorios",
+            "categoria_display": "Accesorios",
+            "descripcion_corta": "POLEA REENVIO VMS de alta resistencia.",
+            "descripcion_larga": "Descripción para POLEA REENVIO VMS (pendiente extraer de docx)",
+            "stock": "disponible",
+            "plazo_entrega": "5-7 días",
+            "instalacion_incluida": false,
+            "garantia": "2 años",
+            "precio": {
+                "base": "Consultar",
+                "moneda": "EUR"
+            },
+            "especificaciones": {
+                "Material": "Acero",
+                "Tipo": "Rescate"
+            },
+            "relacionados": [],
+            "imagenes": [
+                "POLEA REENVIO VMS 4.JPG",
+                "POLEA REENVIO VMS 1.JPG",
+                "POLEA REENVIO VMS 2.JPG",
+                "POLEA REENVIO VMS 3.JPG"
+            ]
+        },
+        {
+            "id": "REAL-NEW-POLEA--05",
+            "nombre": "POLEA REENVIO 17 TN",
+            "slug": "polea-reenvio-17-tn",
+            "categoria": "accesorios",
+            "categoria_display": "Accesorios",
+            "descripcion_corta": "POLEA REENVIO 17 TN de alta resistencia.",
+            "descripcion_larga": "Polea de reenvío profesional con capacidad de 17 toneladas. Construcción robusta para operaciones de rescate pesado.",
+            "stock": "disponible",
+            "plazo_entrega": "5-7 días",
+            "instalacion_incluida": false,
+            "garantia": "2 años",
+            "precio": {
+                "base": "Consultar",
+                "moneda": "EUR"
+            },
+            "especificaciones": {
+                "Material": "Acero",
+                "Tipo": "Rescate"
+            },
+            "relacionados": [],
+            "imagenes": []
         }
     ],
     "categorias": [
@@ -185,7 +290,7 @@
     ],
     "meta": {
         "version": "1.0",
-        "ultima_actualizacion": "2026-03-08 18:09:31",
-        "total_productos": 6
+        "ultima_actualizacion": "2026-03-08 18:35:16",
+        "total_productos": 10
     }
 }
