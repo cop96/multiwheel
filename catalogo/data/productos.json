@@ -402,6 +402,62 @@
                 "SISTEMA DE RESCATE PARA VEHICULOS INDUSTRIALES 5.jpeg",
                 "SISTEMA DE RESCATE PARA VEHICULOS INDUSTRIALES 4.jpeg"
             ]
+        },
+        {
+            "id": "REAL-NEW-TEMP-P-31",
+            "nombre": "_temp_PLACA DE RESCATE",
+            "slug": "temp-placa-de-rescate",
+            "categoria": "u-til-rescate-pesados",
+            "categoria_display": "U Til Rescate Pesados",
+            "descripcion_corta": "_temp_PLACA DE RESCATE de alta resistencia industrial.",
+            "descripcion_larga": "Descripción completa para _temp_PLACA DE RESCATE. Equipamiento profesional de alta calidad.",
+            "stock": "disponible",
+            "plazo_entrega": "5-7 días",
+            "instalacion_incluida": false,
+            "garantia": "2 años",
+            "precio": {
+                "base": "Consultar",
+                "moneda": "EUR"
+            },
+            "especificaciones": {
+                "Material": "Acero",
+                "Tipo": "Profesional"
+            },
+            "relacionados": [],
+            "imagenes": [
+                "PLACA DE RESCATE 1.jpeg",
+                "PLACA DE RESCATE 2.jpeg"
+            ]
+        },
+        {
+            "id": "REAL-NEW-TEMP-S-31",
+            "nombre": "_temp_SISTEMA DE RESCATE PARA VEHICULOS INDUSTRIALES",
+            "slug": "temp-sistema-de-rescate-para-vehiculos-industriales",
+            "categoria": "u-til-rescate-pesados",
+            "categoria_display": "U Til Rescate Pesados",
+            "descripcion_corta": "_temp_SISTEMA DE RESCATE PARA VEHICULOS INDUSTRIALES de alta resistencia industrial.",
+            "descripcion_larga": "Descripción completa para _temp_SISTEMA DE RESCATE PARA VEHICULOS INDUSTRIALES. Equipamiento profesional de alta calidad.",
+            "stock": "disponible",
+            "plazo_entrega": "5-7 días",
+            "instalacion_incluida": false,
+            "garantia": "2 años",
+            "precio": {
+                "base": "Consultar",
+                "moneda": "EUR"
+            },
+            "especificaciones": {
+                "Material": "Acero",
+                "Tipo": "Profesional"
+            },
+            "relacionados": [],
+            "imagenes": [
+                "SISTEMA DE RESCATE PARA VEHICULOS INDUSTRIALES 6.jpeg",
+                "SISTEMA DE RESCATE PARA VEHICULOS INDUSTRIALES 1.JPEG",
+                "SISTEMA DE RESCATE PARA VEHICULOS INDUSTRIALES 3.jpeg",
+                "SISTEMA DE RESCATE PARA VEHICULOS INDUSTRIALES 2.JPEG",
+                "SISTEMA DE RESCATE PARA VEHICULOS INDUSTRIALES 5.jpeg",
+                "SISTEMA DE RESCATE PARA VEHICULOS INDUSTRIALES 4.jpeg"
+            ]
         }
     ],
     "categorias": [
@@ -433,7 +489,7 @@
     ],
     "meta": {
         "version": "1.0",
-        "ultima_actualizacion": "2026-03-08 19:03:50",
-        "total_productos": 15
+        "ultima_actualizacion": "2026-03-08 19:04:31",
+        "total_productos": 17
     }
 }
