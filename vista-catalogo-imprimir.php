@@ -98,16 +98,18 @@ $products_data = json_decode(file_get_contents($products_file), true);
 
 <body class="py-8">
 
-    <!-- Floating Toolbar -->
-    <div class="no-print fixed top-6 right-6 z-50 flex flex-col gap-3">
-        <button onclick="window.print()"
-            class="bg-blue-600 hover:bg-blue-700 text-white px-6 py-3 rounded-full shadow-2xl font-bold transition flex items-center gap-2">
-            <i class="fas fa-print text-xl"></i> IMPRIMIR / GUARDAR TODO EL CATÁLOGO
-        </button>
-        <a href="catalogo.php"
-            class="bg-white hover:bg-gray-100 text-multiwheel-blue px-6 py-3 rounded-full shadow-lg font-bold transition text-center border border-gray-200">
-            <i class="fas fa-arrow-left"></i> Volver al Catálogo
-        </a>
+    <!-- Navigation Bar (Hidden on Print) -->
+    <div class="no-print bg-white border-b border-gray-200 py-4 mb-8 sticky top-0 z-50 shadow-sm">
+        <div class="container mx-auto max-w-5xl px-4 flex justify-between items-center">
+            <a href="catalogo.php"
+                class="text-multiwheel-blue hover:text-blue-700 font-bold flex items-center gap-2 transition">
+                <i class="fas fa-arrow-left"></i> Volver al Catálogo
+            </a>
+            <button onclick="window.print()"
+                class="bg-blue-600 hover:bg-blue-700 text-white px-6 py-2 rounded-full font-bold transition flex items-center gap-2 shadow-lg">
+                <i class="fas fa-print"></i> IMPRIMIR / GUARDAR PDF
+            </button>
+        </div>
     </div>
 
     <div class="catalog-container container mx-auto max-w-5xl px-4">
