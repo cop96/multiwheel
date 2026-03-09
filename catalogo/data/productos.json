@@ -215,8 +215,8 @@
             "relacionados": [],
             "imagenes": [
                 "POLEA REENVIO TRASERO 3.jpeg",
-                "POLEA REENVIO TRASERO 1.jpeg",
-                "POLEA REENVIO TRASERO 2.jpeg"
+                "POLEA REENVIO TRASERO 2.jpeg",
+                "POLEA REENVIO TRASERO 1.jpeg"
             ]
         },
         {
@@ -241,10 +241,10 @@
             },
             "relacionados": [],
             "imagenes": [
-                "POLEA REENVIO VMS 3.JPG",
+                "POLEA REENVIO VMS 2.JPG",
                 "POLEA REENVIO VMS 1.JPG",
-                "POLEA REENVIO VMS 4.JPG",
-                "POLEA REENVIO VMS 2.JPG"
+                "POLEA REENVIO VMS 3.JPG",
+                "POLEA REENVIO VMS 4.JPG"
             ]
         },
         {
@@ -269,10 +269,10 @@
             },
             "relacionados": [],
             "imagenes": [
-                "POLEA 17 TN 3.jpeg",
                 "POLEA 17 TN 2.jpeg",
                 "POLEA 17 TN 4.jpeg",
-                "POLEA 17 TN 1.jpeg"
+                "POLEA 17 TN 1.jpeg",
+                "POLEA 17 TN 3.jpeg"
             ]
         },
         {
@@ -323,8 +323,8 @@
             "relacionados": [],
             "imagenes": [
                 "TOPE DE RUEDA PARA GONDALAS – PORTAMAQUINAS 1.jpg",
-                "TOPE DE RUEDA PARA GONDALAS – PORTAMAQUINAS 3.jpg",
-                "TOPE DE RUEDA PARA GONDALAS – PORTAMAQUINAS 2.jpg"
+                "TOPE DE RUEDA PARA GONDALAS – PORTAMAQUINAS 2.jpg",
+                "TOPE DE RUEDA PARA GONDALAS – PORTAMAQUINAS 3.jpg"
             ]
         },
         {
@@ -374,8 +374,8 @@
             },
             "relacionados": [],
             "imagenes": [
-                "PLACA DE RESCATE 1.jpeg",
-                "PLACA DE RESCATE 2.jpeg"
+                "PLACA DE RESCATE 2.jpeg",
+                "PLACA DE RESCATE 1.jpeg"
             ]
         },
         {
@@ -400,12 +400,12 @@
             },
             "relacionados": [],
             "imagenes": [
-                "SISTEMA DE RESCATE PARA VEHICULOS INDUSTRIALES 4.jpeg",
-                "SISTEMA DE RESCATE PARA VEHICULOS INDUSTRIALES 6.jpeg",
                 "SISTEMA DE RESCATE PARA VEHICULOS INDUSTRIALES 5.jpeg",
-                "SISTEMA DE RESCATE PARA VEHICULOS INDUSTRIALES 3.jpeg",
+                "SISTEMA DE RESCATE PARA VEHICULOS INDUSTRIALES 4.jpeg",
                 "SISTEMA DE RESCATE PARA VEHICULOS INDUSTRIALES 1.JPEG",
-                "SISTEMA DE RESCATE PARA VEHICULOS INDUSTRIALES 2.JPEG"
+                "SISTEMA DE RESCATE PARA VEHICULOS INDUSTRIALES 2.JPEG",
+                "SISTEMA DE RESCATE PARA VEHICULOS INDUSTRIALES 3.jpeg",
+                "SISTEMA DE RESCATE PARA VEHICULOS INDUSTRIALES 6.jpeg"
             ]
         },
         {
@@ -455,8 +455,8 @@
             },
             "relacionados": [],
             "imagenes": [
-                "CONJUNTO ESLINGA GRAN TONELAJE 1.jpg",
-                "CONJUNTO ESLINGA GRAN TONELAJE 2.jpg"
+                "CONJUNTO ESLINGA GRAN TONELAJE 2.jpg",
+                "CONJUNTO ESLINGA GRAN TONELAJE 1.jpg"
             ]
         },
         {
@@ -506,9 +506,9 @@
             },
             "relacionados": [],
             "imagenes": [
+                "ESLINGA AMARRE MAQUINARIA 3.jpg",
                 "ESLINGA AMARRE MAQUINARIA 1.jpg",
-                "ESLINGA AMARRE MAQUINARIA 2.jpg",
-                "ESLINGA AMARRE MAQUINARIA 3.jpg"
+                "ESLINGA AMARRE MAQUINARIA 2.jpg"
             ]
         },
         {
@@ -534,8 +534,8 @@
             "relacionados": [],
             "imagenes": [
                 "CONJUNTO ESLINGA REMOLCADOR SIMPLE 1.jpg",
-                "CONJUNTO ESLINGA REMOLCADOR SIMPLE 3.jpg",
-                "CONJUNTO ESLINGA REMOLCADOR SIMPLE 2.jpg"
+                "CONJUNTO ESLINGA REMOLCADOR SIMPLE 2.jpg",
+                "CONJUNTO ESLINGA REMOLCADOR SIMPLE 3.jpg"
             ]
         },
         {
@@ -662,8 +662,8 @@
             "imagenes": [
                 "CONJUNTO ESLINGA REMOLCADOR 1.jpg",
                 "CONJUNTO ESLINGA REMOLCADOR 3.png",
-                "CONJUNTO ESLINGA REMOLCADOR 2.jpg",
-                "CONJUNTO ESLINGA REMOLCADOR 4.jpg"
+                "CONJUNTO ESLINGA REMOLCADOR 4.jpg",
+                "CONJUNTO ESLINGA REMOLCADOR 2.jpg"
             ]
         },
         {
@@ -763,8 +763,8 @@
             },
             "relacionados": [],
             "imagenes": [
-                "CONJUNTO ESLINGA MOTOS 1.jpeg",
-                "CONJUNTO ESLINGA MOTO 2.jpg"
+                "CONJUNTO ESLINGA MOTO 2.jpg",
+                "CONJUNTO ESLINGA MOTOS 1.jpeg"
             ]
         },
         {
@@ -865,9 +865,9 @@
             },
             "relacionados": [],
             "imagenes": [
-                "SOPORTE DE LUCES TRASERAS LED PARA  REMOLCADORES 4.jpeg",
-                "SOPORTE DE LUCES TRASERAS LED PARA  REMOLCADORES 2.jpeg",
                 "SOPORTE DE LUCES TRASERAS LED PARA  REMOLCADORES 3.jpeg",
+                "SOPORTE DE LUCES TRASERAS LED PARA  REMOLCADORES 2.jpeg",
+                "SOPORTE DE LUCES TRASERAS LED PARA  REMOLCADORES 4.jpeg",
                 "SOPORTE DE LUCES TRASERAS LED PARA  REMOLCADORES.jpeg"
             ]
         },
@@ -897,6 +897,231 @@
                 "SOPORTE DE LUCES LED PARA PALAS TRASERAS 2.JPG",
                 "SOPORTE DE LUCES LED PARA PALAS TRASERAS 4.JPG",
                 "SOPORTE DE LUCES LED PARA PALAS TRASERAS.JPG"
+            ]
+        },
+        {
+            "id": "REAL-NEW-TENSOR-20",
+            "nombre": "TENSORES",
+            "slug": "tensores",
+            "categoria": "sistemas-de-amarre",
+            "categoria_display": "Sistemas De Amarre",
+            "descripcion_corta": "TENSORES de alta resistencia industrial.",
+            "descripcion_larga": "Descripción completa para TENSORES. Equipamiento profesional de alta calidad.",
+            "stock": "disponible",
+            "plazo_entrega": "5-7 días",
+            "instalacion_incluida": false,
+            "garantia": "2 años",
+            "precio": {
+                "base": "Consultar",
+                "moneda": "EUR"
+            },
+            "especificaciones": {
+                "Material": "Acero",
+                "Tipo": "Profesional"
+            },
+            "relacionados": [],
+            "imagenes": [
+                "TENSORES.png"
+            ]
+        },
+        {
+            "id": "REAL-NEW-CADENA-20",
+            "nombre": "CADENA GRADO 80",
+            "slug": "cadena-grado-80",
+            "categoria": "sistemas-de-amarre",
+            "categoria_display": "Sistemas De Amarre",
+            "descripcion_corta": "CADENA GRADO 80 de alta resistencia industrial.",
+            "descripcion_larga": "Descripción completa para CADENA GRADO 80. Equipamiento profesional de alta calidad.",
+            "stock": "disponible",
+            "plazo_entrega": "5-7 días",
+            "instalacion_incluida": false,
+            "garantia": "2 años",
+            "precio": {
+                "base": "Consultar",
+                "moneda": "EUR"
+            },
+            "especificaciones": {
+                "Material": "Acero",
+                "Tipo": "Profesional"
+            },
+            "relacionados": [],
+            "imagenes": [
+                "CADENA GRADO 80.jpg"
+            ]
+        },
+        {
+            "id": "REAL-NEW-UNIO-N-20",
+            "nombre": "UNIÓN DOBLE CADENA",
+            "slug": "unio-n-doble-cadena",
+            "categoria": "sistemas-de-amarre",
+            "categoria_display": "Sistemas De Amarre",
+            "descripcion_corta": "UNIÓN DOBLE CADENA de alta resistencia industrial.",
+            "descripcion_larga": "Descripción completa para UNIÓN DOBLE CADENA. Equipamiento profesional de alta calidad.",
+            "stock": "disponible",
+            "plazo_entrega": "5-7 días",
+            "instalacion_incluida": false,
+            "garantia": "2 años",
+            "precio": {
+                "base": "Consultar",
+                "moneda": "EUR"
+            },
+            "especificaciones": {
+                "Material": "Acero",
+                "Tipo": "Profesional"
+            },
+            "relacionados": [],
+            "imagenes": [
+                "UNIÓN DOBLE CADENA.png"
+            ]
+        },
+        {
+            "id": "REAL-NEW-GANCHO-20",
+            "nombre": "GANCHO ACORTADOR",
+            "slug": "gancho-acortador",
+            "categoria": "sistemas-de-amarre",
+            "categoria_display": "Sistemas De Amarre",
+            "descripcion_corta": "GANCHO ACORTADOR de alta resistencia industrial.",
+            "descripcion_larga": "Descripción completa para GANCHO ACORTADOR. Equipamiento profesional de alta calidad.",
+            "stock": "disponible",
+            "plazo_entrega": "5-7 días",
+            "instalacion_incluida": false,
+            "garantia": "2 años",
+            "precio": {
+                "base": "Consultar",
+                "moneda": "EUR"
+            },
+            "especificaciones": {
+                "Material": "Acero",
+                "Tipo": "Profesional"
+            },
+            "relacionados": [],
+            "imagenes": [
+                "GANCHO ACORTADOR.png"
+            ]
+        },
+        {
+            "id": "REAL-NEW-BOCAS--20",
+            "nombre": "BOCAS DESMONTADORAS 2",
+            "slug": "bocas-desmontadoras-2",
+            "categoria": "bocas-desmontadoras",
+            "categoria_display": "Bocas Desmontadoras",
+            "descripcion_corta": "BOCAS DESMONTADORAS 2 de alta resistencia industrial.",
+            "descripcion_larga": "Descripción completa para BOCAS DESMONTADORAS 2. Equipamiento profesional de alta calidad.",
+            "stock": "disponible",
+            "plazo_entrega": "5-7 días",
+            "instalacion_incluida": false,
+            "garantia": "2 años",
+            "precio": {
+                "base": "Consultar",
+                "moneda": "EUR"
+            },
+            "especificaciones": {
+                "Material": "Acero",
+                "Tipo": "Profesional"
+            },
+            "relacionados": [],
+            "imagenes": [
+                "BOCAS DESMONTADORAS 2.png"
+            ]
+        },
+        {
+            "id": "REAL-NEW-BOCAS--20",
+            "nombre": "BOCAS DESMONTADORAS",
+            "slug": "bocas-desmontadoras",
+            "categoria": "bocas-desmontadoras",
+            "categoria_display": "Bocas Desmontadoras",
+            "descripcion_corta": "BOCAS DESMONTADORAS de alta resistencia industrial.",
+            "descripcion_larga": "Descripción completa para BOCAS DESMONTADORAS. Equipamiento profesional de alta calidad.",
+            "stock": "disponible",
+            "plazo_entrega": "5-7 días",
+            "instalacion_incluida": false,
+            "garantia": "2 años",
+            "precio": {
+                "base": "Consultar",
+                "moneda": "EUR"
+            },
+            "especificaciones": {
+                "Material": "Acero",
+                "Tipo": "Profesional"
+            },
+            "relacionados": [],
+            "imagenes": [
+                "BOCAS DESMONTADORAS.jpg"
+            ]
+        },
+        {
+            "id": "REAL-NEW-GATO-A-20",
+            "nombre": "GATO ALUMINIO 1,5 TN",
+            "slug": "gato-aluminio-1-5-tn",
+            "categoria": "gato-alumino-1-5-tn",
+            "categoria_display": "Gato Alumino 1 5 Tn",
+            "descripcion_corta": "GATO ALUMINIO 1,5 TN de alta resistencia industrial.",
+            "descripcion_larga": "Descripción completa para GATO ALUMINIO 1,5 TN. Equipamiento profesional de alta calidad.",
+            "stock": "disponible",
+            "plazo_entrega": "5-7 días",
+            "instalacion_incluida": false,
+            "garantia": "2 años",
+            "precio": {
+                "base": "Consultar",
+                "moneda": "EUR"
+            },
+            "especificaciones": {
+                "Material": "Acero",
+                "Tipo": "Profesional"
+            },
+            "relacionados": [],
+            "imagenes": [
+                "GATO ALUMINIO 1,5 TN.png"
+            ]
+        },
+        {
+            "id": "REAL-NEW-KIT-RE-20",
+            "nombre": "KIT REPARAPINCHAZOS RI 70",
+            "slug": "kit-reparapinchazos-ri-70",
+            "categoria": "kit-reparapinchazos-ri-70",
+            "categoria_display": "Kit Reparapinchazos Ri 70",
+            "descripcion_corta": "KIT REPARAPINCHAZOS RI 70 de alta resistencia industrial.",
+            "descripcion_larga": "Descripción completa para KIT REPARAPINCHAZOS RI 70. Equipamiento profesional de alta calidad.",
+            "stock": "disponible",
+            "plazo_entrega": "5-7 días",
+            "instalacion_incluida": false,
+            "garantia": "2 años",
+            "precio": {
+                "base": "Consultar",
+                "moneda": "EUR"
+            },
+            "especificaciones": {
+                "Material": "Acero",
+                "Tipo": "Profesional"
+            },
+            "relacionados": [],
+            "imagenes": [
+                "KIT REPARAPINCHAZOS RI 70.JPG"
+            ]
+        },
+        {
+            "id": "REAL-NEW-GATO-3-20",
+            "nombre": "GATO 3 TN",
+            "slug": "gato-3-tn",
+            "categoria": "gato-3-tn",
+            "categoria_display": "Gato 3 Tn",
+            "descripcion_corta": "GATO 3 TN de alta resistencia industrial.",
+            "descripcion_larga": "Descripción completa para GATO 3 TN. Equipamiento profesional de alta calidad.",
+            "stock": "disponible",
+            "plazo_entrega": "5-7 días",
+            "instalacion_incluida": false,
+            "garantia": "2 años",
+            "precio": {
+                "base": "Consultar",
+                "moneda": "EUR"
+            },
+            "especificaciones": {
+                "Material": "Acero",
+                "Tipo": "Profesional"
+            },
+            "relacionados": [],
+            "imagenes": [
+                "GATO 3 TN.png"
             ]
         }
     ],
@@ -930,11 +1155,31 @@
             "id": "soporte-de-luces-traseras",
             "nombre": "Soporte De Luces Traseras",
             "icono": "fa-folder-open"
+        },
+        {
+            "id": "bocas-desmontadoras",
+            "nombre": "Bocas Desmontadoras",
+            "icono": "fa-folder-open"
+        },
+        {
+            "id": "gato-alumino-1-5-tn",
+            "nombre": "Gato Alumino 1 5 Tn",
+            "icono": "fa-folder-open"
+        },
+        {
+            "id": "kit-reparapinchazos-ri-70",
+            "nombre": "Kit Reparapinchazos Ri 70",
+            "icono": "fa-folder-open"
+        },
+        {
+            "id": "gato-3-tn",
+            "nombre": "Gato 3 Tn",
+            "icono": "fa-folder-open"
         }
     ],
     "meta": {
         "version": "1.0",
-        "ultima_actualizacion": "2026-03-09 10:55:15",
-        "total_productos": 34
+        "ultima_actualizacion": "2026-03-09 11:19:20",
+        "total_productos": 43
     }
 }
