@@ -12,18 +12,6 @@ function generar_html_producto($producto, $is_pdf = false)
     $text_gray = '#3a3a3a';
     $light_bg = '#f9fafb';
 
-    // Construir ruta de imagen
-    $img_url = '';
-    if (!empty($producto['imagenes'])) {
-        $relative_path = 'catalogo/productos/' . $producto['categoria'] . '/' . $producto['slug'] . '/images/' . $producto['imagenes'][0];
-        if ($is_pdf) {
-            $img_url = dirname(__DIR__) . '/' . $relative_path;
-        }
-        else {
-            $img_url = $relative_path;
-        }
-    }
-
     $logo_url = $logo_path;
     if ($is_pdf) {
         $logo_url = dirname(__DIR__) . '/' . $logo_path;
@@ -34,18 +22,15 @@ function generar_html_producto($producto, $is_pdf = false)
         .pdf-container {
             font-family: helvetica, sans-serif;
             color: ' . $text_gray . ';
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 20px;
         }
         .header-table {
             width: 100%;
             border-bottom: 2px solid ' . $primary_blue . ';
-            padding-bottom: 10px;
-            margin-bottom: 30px;
+            padding-bottom: 15px;
+            margin-bottom: 20px;
         }
         .logo-img {
-            height: 60px;
+            width: 180px;
         }
         .brand-text {
             text-align: right;
@@ -55,48 +40,36 @@ function generar_html_producto($producto, $is_pdf = false)
         }
         .product-title {
             color: ' . $primary_blue . ';
-            font-size: 24pt;
-            margin-bottom: 5px;
+            font-size: 22pt;
+            font-weight: bold;
             text-transform: uppercase;
         }
         .category-tag {
             color: ' . $primary_orange . ';
             font-weight: bold;
             font-size: 12pt;
-            margin-bottom: 20px;
-        }
-        .main-content {
-            width: 100%;
-            margin-top: 20px;
-        }
-        .product-image {
-            width: 100%;
-            max-width: 400px;
-            border-radius: 8px;
-            margin: 0 auto 30px;
-            display: block;
         }
         .section-title {
             color: ' . $primary_blue . ';
-            border-bottom: 1px solid #e5e7eb;
+            border-bottom: 1px solid #eeeeee;
             padding-bottom: 5px;
-            margin-top: 25px;
-            margin-bottom: 15px;
-            font-size: 16pt;
+            margin-top: 20px;
+            margin-bottom: 10px;
+            font-size: 15pt;
+            font-weight: bold;
         }
         .description-list {
-            line-height: 1.6;
-            font-size: 11pt;
-            padding-left: 20px;
+            line-height: 1.5;
+            font-size: 10pt;
         }
         .specs-table {
             width: 100%;
             border-collapse: collapse;
-            margin-top: 10px;
         }
         .specs-table td {
-            padding: 10px;
+            padding: 8px;
             border-bottom: 1px solid #eeeeee;
+            font-size: 10pt;
         }
         .spec-label {
             font-weight: bold;
@@ -105,23 +78,21 @@ function generar_html_producto($producto, $is_pdf = false)
         }
         .price-box {
             background-color: ' . $primary_blue . ';
-            color: white;
-            padding: 20px;
+            color: #ffffff;
+            padding: 15px;
             text-align: center;
-            border-radius: 8px;
-            margin-top: 30px;
         }
         .price-value {
-            font-size: 20pt;
+            font-size: 18pt;
             font-weight: bold;
         }
         .footer-info {
             text-align: center;
-            font-size: 9pt;
-            color: #999999;
-            margin-top: 50px;
+            font-size: 8pt;
+            color: #888888;
+            margin-top: 30px;
             border-top: 1px solid #eeeeee;
-            padding-top: 20px;
+            padding-top: 15px;
         }
     </style>
 
@@ -130,7 +101,7 @@ function generar_html_producto($producto, $is_pdf = false)
         <table class="header-table">
             <tr>
                 <td width="50%">
-                    <img src="' . $logo_path . '" class="logo-img">
+                    <img src="' . $logo_url . '" class="logo-img">
                 </td>
                 <td width="50%" class="brand-text">
                     EQUIPAMIENTO PROFESIONAL<br>DE VEHÍCULOS
@@ -139,26 +110,28 @@ function generar_html_producto($producto, $is_pdf = false)
         </table>
 
         <!-- Title & Category -->
-        <div style="text-align: center;">
+        <div style="text-align: center; margin-bottom: 20px;">
             <h1 class="product-title">' . htmlspecialchars($producto['nombre']) . '</h1>
             <div class="category-tag">' . htmlspecialchars($producto['categoria_display'] ?? 'Accesorio') . '</div>
             <div style="color: #666; font-size: 10pt;">Ref: ' . htmlspecialchars($producto['id']) . '</div>
         </div>
 
-        <!-- Images Gallery -->
-<?php if (!empty($producto['imagenes'])): ?>
-        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 mb-8">
-            <?php foreach ($producto['imagenes'] as $index => $img_name): 
-                $relative_img_path = 'catalogo/productos/' . $producto['categoria'] . '/' . $producto['slug'] . '/images/' . $img_name;
-                $current_img_url = $is_pdf ? dirname(__DIR__) . '/' . $relative_img_path : $relative_img_path;
-            ?>
-            <div class="bg-gray-50 rounded-lg overflow-hidden flex items-center justify-center p-2 border border-gray-100 min-h-[200px]">
-                <img src="<?php echo $current_img_url; ?>" class="max-w-full max-h-48 object-contain">
-            </div>
-            <?php endforeach; ?>
-        </div>
-<?php endif; ?>
+        <!-- Images Gallery -->';
 
+    if (!empty($producto['imagenes'])) {
+        $html .= '<div style="width: 100%; display: block; margin-bottom: 30px; text-align: center;">';
+        foreach ($producto['imagenes'] as $img_name) {
+            $relative_img_path = 'catalogo/productos/' . $producto['categoria'] . '/' . $producto['slug'] . '/images/' . $img_name;
+            $current_img_url = $is_pdf ? dirname(__DIR__) . '/' . $relative_img_path : $relative_img_path;
+
+            $html .= '<div style="display: inline-block; width: 30%; margin: 1%; background-color: #f9f9f9; padding: 5px; border: 1px solid #eee; vertical-align: top;">
+                <img src="' . $current_img_url . '" style="width: 100%; height: auto; max-height: 150px;">
+            </div>';
+        }
+        $html .= '</div>';
+    }
+
+    $html .= '
         <!-- Description -->
         <h2 class="section-title">Descripción</h2>
         <div class="description-list">';
@@ -166,8 +139,9 @@ function generar_html_producto($producto, $is_pdf = false)
     $lines = explode("\n", $producto['descripcion_larga'] ?? $producto['descripcion_corta'] ?? '');
     $html .= '<ul>';
     foreach ($lines as $line) {
-        if (!empty(trim($line))) {
-            $html .= '<li>' . htmlspecialchars(trim($line)) . '</li>';
+        $trimmed = trim($line);
+        if (!empty($trimmed)) {
+            $html .= '<li>' . htmlspecialchars($trimmed) . '</li>';
         }
     }
     $html .= '</ul></div>';
@@ -187,7 +161,7 @@ function generar_html_producto($producto, $is_pdf = false)
 
     // Price & Commercial Info
     $html .= '
-        <div class="price-box">
+        <div class="price-box" style="margin-top: 30px;">
             <div style="font-size: 10pt; margin-bottom: 5px; opacity: 0.9;">PRECIO RECOMENDADO</div>
             <div class="price-value">' . ($producto['precio']['base'] ?? 'Consultar') . ' ' . ($producto['precio']['moneda'] ?? 'EUR') . '</div>
             <div style="font-size: 9pt; margin-top: 10px; opacity: 0.8;">

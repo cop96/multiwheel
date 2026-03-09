@@ -3,6 +3,8 @@
  * Generar PDF del Catálogo Completo - Multiwheel
  */
 
+set_time_limit(0);
+ini_set('memory_limit', '1024M'); // TCPDF is very memory intensive for large HTML
 $base_dir = dirname(__DIR__);
 $tcpdf_path = $base_dir . '/inc/tcpdf/tcpdf.php';
 if (!file_exists($tcpdf_path))
