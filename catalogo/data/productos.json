@@ -187,9 +187,9 @@
             },
             "relacionados": [],
             "imagenes": [
+                "POLEA REENVIO 2 TN 1.jpeg",
                 "POLEA REENVIO 2 TN 2.jpeg",
-                "POLEA REENVIO 2 TN 3.jpeg",
-                "POLEA REENVIO 2 TN 1.jpeg"
+                "POLEA REENVIO 2 TN 3.jpeg"
             ]
         },
         {
@@ -214,9 +214,9 @@
             },
             "relacionados": [],
             "imagenes": [
-                "POLEA REENVIO TRASERO 2.jpeg",
+                "POLEA REENVIO TRASERO 3.jpeg",
                 "POLEA REENVIO TRASERO 1.jpeg",
-                "POLEA REENVIO TRASERO 3.jpeg"
+                "POLEA REENVIO TRASERO 2.jpeg"
             ]
         },
         {
@@ -241,10 +241,10 @@
             },
             "relacionados": [],
             "imagenes": [
-                "POLEA REENVIO VMS 4.JPG",
-                "POLEA REENVIO VMS 2.JPG",
+                "POLEA REENVIO VMS 3.JPG",
                 "POLEA REENVIO VMS 1.JPG",
-                "POLEA REENVIO VMS 3.JPG"
+                "POLEA REENVIO VMS 4.JPG",
+                "POLEA REENVIO VMS 2.JPG"
             ]
         },
         {
@@ -270,9 +270,9 @@
             "relacionados": [],
             "imagenes": [
                 "POLEA 17 TN 3.jpeg",
-                "POLEA 17 TN 1.jpeg",
+                "POLEA 17 TN 2.jpeg",
                 "POLEA 17 TN 4.jpeg",
-                "POLEA 17 TN 2.jpeg"
+                "POLEA 17 TN 1.jpeg"
             ]
         },
         {
@@ -322,9 +322,9 @@
             },
             "relacionados": [],
             "imagenes": [
-                "TOPE DE RUEDA PARA GONDALAS – PORTAMAQUINAS 2.jpg",
+                "TOPE DE RUEDA PARA GONDALAS – PORTAMAQUINAS 1.jpg",
                 "TOPE DE RUEDA PARA GONDALAS – PORTAMAQUINAS 3.jpg",
-                "TOPE DE RUEDA PARA GONDALAS – PORTAMAQUINAS 1.jpg"
+                "TOPE DE RUEDA PARA GONDALAS – PORTAMAQUINAS 2.jpg"
             ]
         },
         {
@@ -374,8 +374,8 @@
             },
             "relacionados": [],
             "imagenes": [
-                "PLACA DE RESCATE 2.jpeg",
-                "PLACA DE RESCATE 1.jpeg"
+                "PLACA DE RESCATE 1.jpeg",
+                "PLACA DE RESCATE 2.jpeg"
             ]
         },
         {
@@ -400,12 +400,503 @@
             },
             "relacionados": [],
             "imagenes": [
-                "SISTEMA DE RESCATE PARA VEHICULOS INDUSTRIALES 5.jpeg",
-                "SISTEMA DE RESCATE PARA VEHICULOS INDUSTRIALES 2.JPEG",
                 "SISTEMA DE RESCATE PARA VEHICULOS INDUSTRIALES 4.jpeg",
-                "SISTEMA DE RESCATE PARA VEHICULOS INDUSTRIALES 1.JPEG",
+                "SISTEMA DE RESCATE PARA VEHICULOS INDUSTRIALES 6.jpeg",
+                "SISTEMA DE RESCATE PARA VEHICULOS INDUSTRIALES 5.jpeg",
                 "SISTEMA DE RESCATE PARA VEHICULOS INDUSTRIALES 3.jpeg",
-                "SISTEMA DE RESCATE PARA VEHICULOS INDUSTRIALES 6.jpeg"
+                "SISTEMA DE RESCATE PARA VEHICULOS INDUSTRIALES 1.JPEG",
+                "SISTEMA DE RESCATE PARA VEHICULOS INDUSTRIALES 2.JPEG"
+            ]
+        },
+        {
+            "id": "REAL-NEW-TENSOR-15",
+            "nombre": "TENSOR MANGO ANCHO 50 MM",
+            "slug": "tensor-mango-ancho-50-mm",
+            "categoria": "sistemas-de-amarre",
+            "categoria_display": "Sistemas De Amarre",
+            "descripcion_corta": "TENSOR MANGO ANCHO 50 MM de alta resistencia industrial.",
+            "descripcion_larga": "Descripción completa para TENSOR MANGO ANCHO 50 MM. Equipamiento profesional de alta calidad.",
+            "stock": "disponible",
+            "plazo_entrega": "5-7 días",
+            "instalacion_incluida": false,
+            "garantia": "2 años",
+            "precio": {
+                "base": "Consultar",
+                "moneda": "EUR"
+            },
+            "especificaciones": {
+                "Material": "Acero",
+                "Tipo": "Profesional"
+            },
+            "relacionados": [],
+            "imagenes": [
+                "TENSOR MANGO ANCHO 50 MM.jpg"
+            ]
+        },
+        {
+            "id": "REAL-NEW-CONJUN-15",
+            "nombre": "CONJUNTO ESLINGA GRAN TONELAJE",
+            "slug": "conjunto-eslinga-gran-tonelaje",
+            "categoria": "sistemas-de-amarre",
+            "categoria_display": "Sistemas De Amarre",
+            "descripcion_corta": "CONJUNTO ESLINGA GRAN TONELAJE de alta resistencia industrial.",
+            "descripcion_larga": "Descripción completa para CONJUNTO ESLINGA GRAN TONELAJE. Equipamiento profesional de alta calidad.",
+            "stock": "disponible",
+            "plazo_entrega": "5-7 días",
+            "instalacion_incluida": false,
+            "garantia": "2 años",
+            "precio": {
+                "base": "Consultar",
+                "moneda": "EUR"
+            },
+            "especificaciones": {
+                "Material": "Acero",
+                "Tipo": "Profesional"
+            },
+            "relacionados": [],
+            "imagenes": [
+                "CONJUNTO ESLINGA GRAN TONELAJE 1.jpg",
+                "CONJUNTO ESLINGA GRAN TONELAJE 2.jpg"
+            ]
+        },
+        {
+            "id": "REAL-NEW-PETACA-15",
+            "nombre": "PETACA 50MM X 5OCM",
+            "slug": "petaca-50mm-x-5ocm",
+            "categoria": "sistemas-de-amarre",
+            "categoria_display": "Sistemas De Amarre",
+            "descripcion_corta": "PETACA 50MM X 5OCM de alta resistencia industrial.",
+            "descripcion_larga": "Descripción completa para PETACA 50MM X 5OCM. Equipamiento profesional de alta calidad.",
+            "stock": "disponible",
+            "plazo_entrega": "5-7 días",
+            "instalacion_incluida": false,
+            "garantia": "2 años",
+            "precio": {
+                "base": "Consultar",
+                "moneda": "EUR"
+            },
+            "especificaciones": {
+                "Material": "Acero",
+                "Tipo": "Profesional"
+            },
+            "relacionados": [],
+            "imagenes": [
+                "PETACA 50 MM X 50 CMS.jpg"
+            ]
+        },
+        {
+            "id": "REAL-NEW-ESLING-15",
+            "nombre": "ESLINGA AMARRE MAQUINARIA ",
+            "slug": "eslinga-amarre-maquinaria",
+            "categoria": "sistemas-de-amarre",
+            "categoria_display": "Sistemas De Amarre",
+            "descripcion_corta": "ESLINGA AMARRE MAQUINARIA  de alta resistencia industrial.",
+            "descripcion_larga": "Descripción completa para ESLINGA AMARRE MAQUINARIA . Equipamiento profesional de alta calidad.",
+            "stock": "disponible",
+            "plazo_entrega": "5-7 días",
+            "instalacion_incluida": false,
+            "garantia": "2 años",
+            "precio": {
+                "base": "Consultar",
+                "moneda": "EUR"
+            },
+            "especificaciones": {
+                "Material": "Acero",
+                "Tipo": "Profesional"
+            },
+            "relacionados": [],
+            "imagenes": [
+                "ESLINGA AMARRE MAQUINARIA 1.jpg",
+                "ESLINGA AMARRE MAQUINARIA 2.jpg",
+                "ESLINGA AMARRE MAQUINARIA 3.jpg"
+            ]
+        },
+        {
+            "id": "REAL-NEW-CONJUN-15",
+            "nombre": "CONJUNTO ESLINGA REMOLCADOR SIMPLE",
+            "slug": "conjunto-eslinga-remolcador-simple",
+            "categoria": "sistemas-de-amarre",
+            "categoria_display": "Sistemas De Amarre",
+            "descripcion_corta": "CONJUNTO ESLINGA REMOLCADOR SIMPLE de alta resistencia industrial.",
+            "descripcion_larga": "Descripción completa para CONJUNTO ESLINGA REMOLCADOR SIMPLE. Equipamiento profesional de alta calidad.",
+            "stock": "disponible",
+            "plazo_entrega": "5-7 días",
+            "instalacion_incluida": false,
+            "garantia": "2 años",
+            "precio": {
+                "base": "Consultar",
+                "moneda": "EUR"
+            },
+            "especificaciones": {
+                "Material": "Acero",
+                "Tipo": "Profesional"
+            },
+            "relacionados": [],
+            "imagenes": [
+                "CONJUNTO ESLINGA REMOLCADOR SIMPLE 1.jpg",
+                "CONJUNTO ESLINGA REMOLCADOR SIMPLE 3.jpg",
+                "CONJUNTO ESLINGA REMOLCADOR SIMPLE 2.jpg"
+            ]
+        },
+        {
+            "id": "REAL-NEW-GANCHO-15",
+            "nombre": "GANCHO GIRATORIO 50 MM",
+            "slug": "gancho-giratorio-50-mm",
+            "categoria": "sistemas-de-amarre",
+            "categoria_display": "Sistemas De Amarre",
+            "descripcion_corta": "GANCHO GIRATORIO 50 MM de alta resistencia industrial.",
+            "descripcion_larga": "Descripción completa para GANCHO GIRATORIO 50 MM. Equipamiento profesional de alta calidad.",
+            "stock": "disponible",
+            "plazo_entrega": "5-7 días",
+            "instalacion_incluida": false,
+            "garantia": "2 años",
+            "precio": {
+                "base": "Consultar",
+                "moneda": "EUR"
+            },
+            "especificaciones": {
+                "Material": "Acero",
+                "Tipo": "Profesional"
+            },
+            "relacionados": [],
+            "imagenes": [
+                "GANCHO GIRATORIO 50 MM.png"
+            ]
+        },
+        {
+            "id": "REAL-NEW-TACO-5-15",
+            "nombre": "TACO 50 MM",
+            "slug": "taco-50-mm",
+            "categoria": "sistemas-de-amarre",
+            "categoria_display": "Sistemas De Amarre",
+            "descripcion_corta": "TACO 50 MM de alta resistencia industrial.",
+            "descripcion_larga": "Descripción completa para TACO 50 MM. Equipamiento profesional de alta calidad.",
+            "stock": "disponible",
+            "plazo_entrega": "5-7 días",
+            "instalacion_incluida": false,
+            "garantia": "2 años",
+            "precio": {
+                "base": "Consultar",
+                "moneda": "EUR"
+            },
+            "especificaciones": {
+                "Material": "Acero",
+                "Tipo": "Profesional"
+            },
+            "relacionados": [],
+            "imagenes": [
+                "TACO 50 MM.png"
+            ]
+        },
+        {
+            "id": "REAL-NEW-GANCHO-15",
+            "nombre": "GANCHO REDUCTOR",
+            "slug": "gancho-reductor",
+            "categoria": "sistemas-de-amarre",
+            "categoria_display": "Sistemas De Amarre",
+            "descripcion_corta": "GANCHO REDUCTOR de alta resistencia industrial.",
+            "descripcion_larga": "Descripción completa para GANCHO REDUCTOR. Equipamiento profesional de alta calidad.",
+            "stock": "disponible",
+            "plazo_entrega": "5-7 días",
+            "instalacion_incluida": false,
+            "garantia": "2 años",
+            "precio": {
+                "base": "Consultar",
+                "moneda": "EUR"
+            },
+            "especificaciones": {
+                "Material": "Acero",
+                "Tipo": "Profesional"
+            },
+            "relacionados": [],
+            "imagenes": [
+                "GANCHO REDUCTOR.jpg"
+            ]
+        },
+        {
+            "id": "REAL-NEW-CONJUN-15",
+            "nombre": "CONJUNTO AMARRE PALAS",
+            "slug": "conjunto-amarre-palas",
+            "categoria": "sistemas-de-amarre",
+            "categoria_display": "Sistemas De Amarre",
+            "descripcion_corta": "CONJUNTO AMARRE PALAS de alta resistencia industrial.",
+            "descripcion_larga": "Descripción completa para CONJUNTO AMARRE PALAS. Equipamiento profesional de alta calidad.",
+            "stock": "disponible",
+            "plazo_entrega": "5-7 días",
+            "instalacion_incluida": false,
+            "garantia": "2 años",
+            "precio": {
+                "base": "Consultar",
+                "moneda": "EUR"
+            },
+            "especificaciones": {
+                "Material": "Acero",
+                "Tipo": "Profesional"
+            },
+            "relacionados": [],
+            "imagenes": [
+                "CONJUNTO AMARRE PALAS.jpg"
+            ]
+        },
+        {
+            "id": "REAL-NEW-CONJUN-15",
+            "nombre": "CONJUNTO ESLINGA REMOLCADOR",
+            "slug": "conjunto-eslinga-remolcador",
+            "categoria": "sistemas-de-amarre",
+            "categoria_display": "Sistemas De Amarre",
+            "descripcion_corta": "CONJUNTO ESLINGA REMOLCADOR de alta resistencia industrial.",
+            "descripcion_larga": "Descripción completa para CONJUNTO ESLINGA REMOLCADOR. Equipamiento profesional de alta calidad.",
+            "stock": "disponible",
+            "plazo_entrega": "5-7 días",
+            "instalacion_incluida": false,
+            "garantia": "2 años",
+            "precio": {
+                "base": "Consultar",
+                "moneda": "EUR"
+            },
+            "especificaciones": {
+                "Material": "Acero",
+                "Tipo": "Profesional"
+            },
+            "relacionados": [],
+            "imagenes": [
+                "CONJUNTO ESLINGA REMOLCADOR 1.jpg",
+                "CONJUNTO ESLINGA REMOLCADOR 3.png",
+                "CONJUNTO ESLINGA REMOLCADOR 2.jpg",
+                "CONJUNTO ESLINGA REMOLCADOR 4.jpg"
+            ]
+        },
+        {
+            "id": "REAL-NEW-TENSOR-15",
+            "nombre": "TENSOR MANGO ERGONÓMICO 50 MM",
+            "slug": "tensor-mango-ergono-mico-50-mm",
+            "categoria": "sistemas-de-amarre",
+            "categoria_display": "Sistemas De Amarre",
+            "descripcion_corta": "TENSOR MANGO ERGONÓMICO 50 MM de alta resistencia industrial.",
+            "descripcion_larga": "Descripción completa para TENSOR MANGO ERGONÓMICO 50 MM. Equipamiento profesional de alta calidad.",
+            "stock": "disponible",
+            "plazo_entrega": "5-7 días",
+            "instalacion_incluida": false,
+            "garantia": "2 años",
+            "precio": {
+                "base": "Consultar",
+                "moneda": "EUR"
+            },
+            "especificaciones": {
+                "Material": "Acero",
+                "Tipo": "Profesional"
+            },
+            "relacionados": [],
+            "imagenes": [
+                "TENSOR MANGO ERGONOMICO 50 MM.jpg"
+            ]
+        },
+        {
+            "id": "REAL-NEW-PULPO--15",
+            "nombre": "PULPO DE RESCATE",
+            "slug": "pulpo-de-rescate",
+            "categoria": "sistemas-de-amarre",
+            "categoria_display": "Sistemas De Amarre",
+            "descripcion_corta": "PULPO DE RESCATE de alta resistencia industrial.",
+            "descripcion_larga": "Descripción completa para PULPO DE RESCATE. Equipamiento profesional de alta calidad.",
+            "stock": "disponible",
+            "plazo_entrega": "5-7 días",
+            "instalacion_incluida": false,
+            "garantia": "2 años",
+            "precio": {
+                "base": "Consultar",
+                "moneda": "EUR"
+            },
+            "especificaciones": {
+                "Material": "Acero",
+                "Tipo": "Profesional"
+            },
+            "relacionados": [],
+            "imagenes": [
+                "PULPO RESCATE.jpg"
+            ]
+        },
+        {
+            "id": "REAL-NEW-ESLING-15",
+            "nombre": "ESLINGAS DOBLE OJAL",
+            "slug": "eslingas-doble-ojal",
+            "categoria": "sistemas-de-amarre",
+            "categoria_display": "Sistemas De Amarre",
+            "descripcion_corta": "ESLINGAS DOBLE OJAL de alta resistencia industrial.",
+            "descripcion_larga": "Descripción completa para ESLINGAS DOBLE OJAL. Equipamiento profesional de alta calidad.",
+            "stock": "disponible",
+            "plazo_entrega": "5-7 días",
+            "instalacion_incluida": false,
+            "garantia": "2 años",
+            "precio": {
+                "base": "Consultar",
+                "moneda": "EUR"
+            },
+            "especificaciones": {
+                "Material": "Acero",
+                "Tipo": "Profesional"
+            },
+            "relacionados": [],
+            "imagenes": [
+                "ESLINGA DOBLE OJAL.jpg"
+            ]
+        },
+        {
+            "id": "REAL-NEW-CONJUN-15",
+            "nombre": "CONJUNTO ESLINGA MOTOS",
+            "slug": "conjunto-eslinga-motos",
+            "categoria": "sistemas-de-amarre",
+            "categoria_display": "Sistemas De Amarre",
+            "descripcion_corta": "CONJUNTO ESLINGA MOTOS de alta resistencia industrial.",
+            "descripcion_larga": "Descripción completa para CONJUNTO ESLINGA MOTOS. Equipamiento profesional de alta calidad.",
+            "stock": "disponible",
+            "plazo_entrega": "5-7 días",
+            "instalacion_incluida": false,
+            "garantia": "2 años",
+            "precio": {
+                "base": "Consultar",
+                "moneda": "EUR"
+            },
+            "especificaciones": {
+                "Material": "Acero",
+                "Tipo": "Profesional"
+            },
+            "relacionados": [],
+            "imagenes": [
+                "CONJUNTO ESLINGA MOTOS 1.jpeg",
+                "CONJUNTO ESLINGA MOTO 2.jpg"
+            ]
+        },
+        {
+            "id": "REAL-NEW-CABLES-15",
+            "nombre": "CABLES DE ACERO",
+            "slug": "cables-de-acero",
+            "categoria": "sistemas-de-amarre",
+            "categoria_display": "Sistemas De Amarre",
+            "descripcion_corta": "CABLES DE ACERO de alta resistencia industrial.",
+            "descripcion_larga": "Descripción completa para CABLES DE ACERO. Equipamiento profesional de alta calidad.",
+            "stock": "disponible",
+            "plazo_entrega": "5-7 días",
+            "instalacion_incluida": false,
+            "garantia": "2 años",
+            "precio": {
+                "base": "Consultar",
+                "moneda": "EUR"
+            },
+            "especificaciones": {
+                "Material": "Acero",
+                "Tipo": "Profesional"
+            },
+            "relacionados": [],
+            "imagenes": [
+                "CABLES DE ACERO.JPG"
+            ]
+        },
+        {
+            "id": "REAL-NEW-ESLING-15",
+            "nombre": "ESLINGA HT MOTOS PAREJA",
+            "slug": "eslinga-ht-motos-pareja",
+            "categoria": "sistemas-de-amarre",
+            "categoria_display": "Sistemas De Amarre",
+            "descripcion_corta": "ESLINGA HT MOTOS PAREJA de alta resistencia industrial.",
+            "descripcion_larga": "Descripción completa para ESLINGA HT MOTOS PAREJA. Equipamiento profesional de alta calidad.",
+            "stock": "disponible",
+            "plazo_entrega": "5-7 días",
+            "instalacion_incluida": false,
+            "garantia": "2 años",
+            "precio": {
+                "base": "Consultar",
+                "moneda": "EUR"
+            },
+            "especificaciones": {
+                "Material": "Acero",
+                "Tipo": "Profesional"
+            },
+            "relacionados": [],
+            "imagenes": [
+                "ESLINGA HT MOTO PAREJA.jpg"
+            ]
+        },
+        {
+            "id": "REAL-NEW-CONJUN-15",
+            "nombre": "CONJUNTO ESLINGA COCHES",
+            "slug": "conjunto-eslinga-coches",
+            "categoria": "sistemas-de-amarre",
+            "categoria_display": "Sistemas De Amarre",
+            "descripcion_corta": "CONJUNTO ESLINGA COCHES de alta resistencia industrial.",
+            "descripcion_larga": "Descripción completa para CONJUNTO ESLINGA COCHES. Equipamiento profesional de alta calidad.",
+            "stock": "disponible",
+            "plazo_entrega": "5-7 días",
+            "instalacion_incluida": false,
+            "garantia": "2 años",
+            "precio": {
+                "base": "Consultar",
+                "moneda": "EUR"
+            },
+            "especificaciones": {
+                "Material": "Acero",
+                "Tipo": "Profesional"
+            },
+            "relacionados": [],
+            "imagenes": [
+                "CONJUNTO ESLINGA COCHES 2.jpg",
+                "CONJUNTO ESLINGA COCHES 1.jpg"
+            ]
+        },
+        {
+            "id": "REAL-NEW-SOPORT-15",
+            "nombre": "SOPORTE DE LUCES TRASERAS LED PARA  REMOLCADORES",
+            "slug": "soporte-de-luces-traseras-led-para-remolcadores",
+            "categoria": "u-til-rescate-pesados",
+            "categoria_display": "U Til Rescate Pesados",
+            "descripcion_corta": "SOPORTE DE LUCES TRASERAS LED PARA  REMOLCADORES de alta resistencia industrial.",
+            "descripcion_larga": "Descripción completa para SOPORTE DE LUCES TRASERAS LED PARA  REMOLCADORES. Equipamiento profesional de alta calidad.",
+            "stock": "disponible",
+            "plazo_entrega": "5-7 días",
+            "instalacion_incluida": false,
+            "garantia": "2 años",
+            "precio": {
+                "base": "Consultar",
+                "moneda": "EUR"
+            },
+            "especificaciones": {
+                "Material": "Acero",
+                "Tipo": "Profesional"
+            },
+            "relacionados": [],
+            "imagenes": [
+                "SOPORTE DE LUCES TRASERAS LED PARA  REMOLCADORES 4.jpeg",
+                "SOPORTE DE LUCES TRASERAS LED PARA  REMOLCADORES 2.jpeg",
+                "SOPORTE DE LUCES TRASERAS LED PARA  REMOLCADORES 3.jpeg",
+                "SOPORTE DE LUCES TRASERAS LED PARA  REMOLCADORES.jpeg"
+            ]
+        },
+        {
+            "id": "REAL-NEW-SOPORT-15",
+            "nombre": "SOPORTE DE LUCES LED PARA PALAS TRASERAS",
+            "slug": "soporte-de-luces-led-para-palas-traseras",
+            "categoria": "u-til-rescate-pesados",
+            "categoria_display": "U Til Rescate Pesados",
+            "descripcion_corta": "SOPORTE DE LUCES LED PARA PALAS TRASERAS de alta resistencia industrial.",
+            "descripcion_larga": "Descripción completa para SOPORTE DE LUCES LED PARA PALAS TRASERAS. Equipamiento profesional de alta calidad.",
+            "stock": "disponible",
+            "plazo_entrega": "5-7 días",
+            "instalacion_incluida": false,
+            "garantia": "2 años",
+            "precio": {
+                "base": "Consultar",
+                "moneda": "EUR"
+            },
+            "especificaciones": {
+                "Material": "Acero",
+                "Tipo": "Profesional"
+            },
+            "relacionados": [],
+            "imagenes": [
+                "SOPORTE DE LUCES LED PARA PALAS TRASERAS 3.JPG",
+                "SOPORTE DE LUCES LED PARA PALAS TRASERAS 2.JPG",
+                "SOPORTE DE LUCES LED PARA PALAS TRASERAS 4.JPG",
+                "SOPORTE DE LUCES LED PARA PALAS TRASERAS.JPG"
             ]
         }
     ],
@@ -434,11 +925,16 @@
             "id": "u-til-rescate-pesados",
             "nombre": "U Til Rescate Pesados",
             "icono": "fa-folder-open"
+        },
+        {
+            "id": "soporte-de-luces-traseras",
+            "nombre": "Soporte De Luces Traseras",
+            "icono": "fa-folder-open"
         }
     ],
     "meta": {
         "version": "1.0",
-        "ultima_actualizacion": "2026-03-08 19:19:35",
-        "total_productos": 15
+        "ultima_actualizacion": "2026-03-09 10:55:15",
+        "total_productos": 34
     }
 }
