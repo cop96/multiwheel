@@ -145,8 +145,19 @@ function generar_html_producto($producto, $is_pdf = false)
             <div style="color: #666; font-size: 10pt;">Ref: ' . htmlspecialchars($producto['id']) . '</div>
         </div>
 
-        <!-- Image -->
-        ' . ($img_url ? '<div style="text-align: center; margin: 30px 0;"><img src="' . $img_url . '" class="product-image"></div>' : '') . '
+        <!-- Images Gallery -->
+<?php if (!empty($producto['imagenes'])): ?>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 mb-8">
+            <?php foreach ($producto['imagenes'] as $index => $img_name): 
+                $relative_img_path = 'catalogo/productos/' . $producto['categoria'] . '/' . $producto['slug'] . '/images/' . $img_name;
+                $current_img_url = $is_pdf ? dirname(__DIR__) . '/' . $relative_img_path : $relative_img_path;
+            ?>
+            <div class="bg-gray-50 rounded-lg overflow-hidden flex items-center justify-center p-2 border border-gray-100 min-h-[200px]">
+                <img src="<?php echo $current_img_url; ?>" class="max-w-full max-h-48 object-contain">
+            </div>
+            <?php endforeach; ?>
+        </div>
+<?php endif; ?>
 
         <!-- Description -->
         <h2 class="section-title">Descripción</h2>
