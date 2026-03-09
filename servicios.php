@@ -22,8 +22,8 @@
                 <!-- Imagen Izquierda -->
                 <div class="relative order-2 lg:order-1">
                     <div class="relative overflow-hidden rounded-lg shadow-xl">
-                        <img src="https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=800&q=80"
-                            alt="Interior de furgoneta equipada" class="w-full h-auto">
+                        <img src="images/servicios-taller.jpg" alt="Interior de furgoneta equipada"
+                            class="w-full h-auto">
                     </div>
                     <!-- Decorative Number -->
                     <div
@@ -195,8 +195,8 @@
                 <!-- Imagen Derecha -->
                 <div class="relative">
                     <div class="relative overflow-hidden rounded-lg shadow-xl">
-                        <img src="https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&q=80&w=800"
-                            alt="Reparación especializada de grúas" class="w-full h-auto">
+                        <img src="images/servicios-gruas.jpeg" alt="Reparación especializada de grúas"
+                            class="w-full h-auto">
                     </div>
                     <!-- Decorative Number -->
                     <div
