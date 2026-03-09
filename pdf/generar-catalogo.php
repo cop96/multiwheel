@@ -8,8 +8,9 @@ $tcpdf_path = $base_dir . '/inc/tcpdf/tcpdf.php';
 if (!file_exists($tcpdf_path))
     die('Error: TCPDF no encontrado en ' . $tcpdf_path);
 // Suppress deprecation warnings for TCPDF compatibility with PHP 8.5
-error_reporting(E_ALL & ~E_DEPRECATED);
-ini_set('display_errors', 0);
+// Enable error reporting for debugging
+error_reporting(E_ALL);
+ini_set('display_errors', 1);
 
 require_once($tcpdf_path);
 require_once(__DIR__ . '/../inc/wp-compat.php');

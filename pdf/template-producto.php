@@ -15,7 +15,18 @@ function generar_html_producto($producto, $is_pdf = false)
     // Construir ruta de imagen
     $img_url = '';
     if (!empty($producto['imagenes'])) {
-        $img_url = 'catalogo/productos/' . $producto['categoria'] . '/' . $producto['slug'] . '/images/' . $producto['imagenes'][0];
+        $relative_path = 'catalogo/productos/' . $producto['categoria'] . '/' . $producto['slug'] . '/images/' . $producto['imagenes'][0];
+        if ($is_pdf) {
+            $img_url = dirname(__DIR__) . '/' . $relative_path;
+        }
+        else {
+            $img_url = $relative_path;
+        }
+    }
+
+    $logo_url = $logo_path;
+    if ($is_pdf) {
+        $logo_url = dirname(__DIR__) . '/' . $logo_path;
     }
 
     $html = '
@@ -170,17 +181,4 @@ function generar_html_producto($producto, $is_pdf = false)
             <div class="price-value">' . ($producto['precio']['base'] ?? 'Consultar') . ' ' . ($producto['precio']['moneda'] ?? 'EUR') . '</div>
             <div style="font-size: 9pt; margin-top: 10px; opacity: 0.8;">
                 IVA no incluido | Plazo de entrega: ' . ($producto['plazo_entrega'] ?? 'Consultar') . '
-            </div>
-        </div>
-
-        <!-- Footer -->
-        <div class="footer-info">
-            <p><strong>MULTIWHEEL EQUIPOS Y SISTEMAS S.L.</strong></p>
-            <p>Pol. Ind. La Red, C/ 12 - Nave 14 | 41500 Alcalá de Guadaíra, Sevilla</p>
-            <p>Telf: 620 531 511 | Email: info@multiwheel.es | www.multiwheel.es</p>
-            <p style="margin-top: 10px;">Generado automáticamente - ' . date('d/m/Y') . '</p>
-        </div>
-    </div>';
-
-    return $html;
-}
+ 

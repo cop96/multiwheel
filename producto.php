@@ -165,12 +165,16 @@ endif; ?>
                     </div>
                 </div>
 
-                <!-- Download PDF -->
-                <div class="mt-6 pt-6 border-t">
+                <div class="mt-6 pt-6 border-t flex flex-wrap gap-4">
                     <a href="pdf/generar-pdf-producto.php?slug=<?php echo $producto['slug']; ?>" target="_blank"
                         class="inline-flex items-center gap-2 text-multiwheel-blue hover:text-blue-700 font-semibold transition">
                         <i class="fas fa-file-pdf text-xl"></i>
                         Descargar ficha técnica PDF
+                    </a>
+                    <a href="vista-producto-imprimir.php?slug=<?php echo $producto['slug']; ?>" target="_blank"
+                        class="inline-flex items-center gap-2 text-steel-gray hover:text-multiwheel-orange font-semibold transition">
+                        <i class="fas fa-print text-xl"></i>
+                        Vista para imprimir
                     </a>
                 </div>
             </div>
