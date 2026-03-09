@@ -123,11 +123,11 @@
         <div class="bg-multiwheel-blue text-white py-2 hidden lg:block">
             <div class="container mx-auto px-4 flex justify-between items-center text-sm">
                 <div class="flex items-center gap-4">
-                    <span><i class="fas fa-map-marker-alt mr-2"></i>Pol. Ind. La Red, Calle 12 Nave 14, 41500 Alcalá de
-                        Guadaíra, Sevilla</span>
+                    <span><i class="fas fa-map-marker-alt mr-2"></i>POLIGONO INDUSTRIAL LA RED, CALLE 12 –NAVE 14,
+                        Alcalá de Guadaíra, Sevilla</span>
                 </div>
                 <div class="flex items-center gap-4">
-                    <span><i class="fas fa-clock mr-2"></i>Lun-Vie 8:00-18:00h / Sáb 9:00-14:00h</span>
+                    <span><i class="fas fa-clock mr-2"></i>Lun-Vie 8:00-18:00h / Sáb y Dom: Cerrado</span>
                     <a href="tel:+34620531511" class="hover:text-multiwheel-orange transition"><i
                             class="fas fa-phone mr-2"></i>620 531 511</a>
                 </div>
@@ -231,7 +231,7 @@
                     </div>
                     <div class="flex items-center gap-3 text-steel-gray">
                         <i class="fas fa-clock w-6"></i>
-                        <span class="text-sm">Lun-Vie 8:00-18:00h / Sáb 9:00-14:00h</span>
+                        <span class="text-sm">Lun-Vie 8:00-18:00h / Sáb y Dom: Cerrado</span>
                     </div>
                 </div>
 
