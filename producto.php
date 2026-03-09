@@ -165,16 +165,11 @@ endif; ?>
                     </div>
                 </div>
 
-                <div class="mt-6 pt-6 border-t flex flex-wrap gap-4">
-                    <a href="pdf/generar-pdf-producto.php?slug=<?php echo $producto['slug']; ?>" target="_blank"
-                        class="inline-flex items-center gap-2 text-multiwheel-blue hover:text-blue-700 font-semibold transition">
-                        <i class="fas fa-file-pdf text-xl"></i>
-                        Descargar ficha técnica PDF
-                    </a>
+                <div class="mt-6 pt-6 border-t">
                     <a href="vista-producto-imprimir.php?slug=<?php echo $producto['slug']; ?>" target="_blank"
-                        class="inline-flex items-center gap-2 text-steel-gray hover:text-multiwheel-orange font-semibold transition">
-                        <i class="fas fa-print text-xl"></i>
-                        Vista para imprimir
+                        class="inline-flex items-center gap-2 bg-gray-100 hover:bg-gray-200 text-multiwheel-blue px-6 py-3 rounded font-semibold transition shadow-sm group">
+                        <i class="fas fa-file-pdf text-xl group-hover:scale-110 transition"></i>
+                        Descargar Ficha Técnica
                     </a>
                 </div>
             </div>
