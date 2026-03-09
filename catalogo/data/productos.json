@@ -35,6 +35,247 @@
             ]
         },
         {
+            "id": "PFP-1000",
+            "nombre": "ARRANCADOR PFP 1000",
+            "slug": "arrancador-pfp-1000",
+            "categoria": "arrancadores-y-baterias",
+            "categoria_display": "Arrancadores y Baterías",
+            "descripcion_corta": "Arrancador profesional de alta potencia 12V.",
+            "descripcion_larga": "ARRANCADOR PFP 1000 profesional para vehículos de 12V.\n- Batería: 26ah/ EP26 HAWKER-GENESIS U.S.A\n- Amp.Arranque: 1000ah (5 seg.)\n- Amp.Máximos: 2400ah\n- Pinzas de 1000ah\n- Cable de 25mm flexible\n- Avisador de cambio de polaridad\n- Protector de picos de corriente\n- Comprobador de batería interna\n- Indicador de funcionamiento del alternador del vehículo\n- Cargador de 3.6 a/h 5 etapas\n- Peso: 13kg\n- Dimensiones: Largo 275mm, Ancho 145mm, Alto 320mm\n- Temperatura de trabajo: -40ºC/+45ºC",
+            "stock": "disponible",
+            "plazo_entrega": "Consultar",
+            "instalacion_incluida": false,
+            "garantia": "2 años",
+            "precio": {
+                "base": "Consultar",
+                "moneda": "EUR"
+            },
+            "especificaciones": {
+                "Tensión": "12V",
+                "Batería": "26ah Hawker-Genesis",
+                "Amp. Arranque": "1000ah",
+                "Peso": "13kg"
+            },
+            "relacionados": [],
+            "imagenes": [
+                "1.jpg"
+            ]
+        },
+        {
+            "id": "PFP-1224-1100",
+            "nombre": "ARRANCADOR PFP 12-24 -1100",
+            "slug": "arrancador-pfp-12-24-1100",
+            "categoria": "arrancadores-y-baterias",
+            "categoria_display": "Arrancadores y Baterías",
+            "descripcion_corta": "Arrancador profesional bitensión 12V/24V de gran capacidad.",
+            "descripcion_larga": "ARRANCADOR PFP 12-24 -1100 para uso intensivo profesional.\n- Batería: 2x26ah/ EP26 HAWKER-GENESIS U.S.A\n- Amp.Arranque: 12V: 1850ah (5 seg.) / 24V: 925ah (5 seg.)\n- Amp.Máximos: 2400ah\n- Pinzas de 1000ah\n- Cable de 25mm flexible\n- Avisador de cambio de polaridad\n- Protector de picos de corriente\n- Comprobador de batería interna\n- 2x cargador de 3.6 a/h 5 etapas\n- Peso: 27kg\n- Dimensiones: Largo 390mm, Ancho 140mm, Alto 320mm\n- Temperatura de trabajo: -40ºC/+45ºC",
+            "stock": "disponible",
+            "plazo_entrega": "Consultar",
+            "instalacion_incluida": false,
+            "garantia": "2 años",
+            "precio": {
+                "base": "Consultar",
+                "moneda": "EUR"
+            },
+            "especificaciones": {
+                "Tensión": "12V / 24V",
+                "Batería": "2x26ah Hawker-Genesis",
+                "Amp. Arranque": "1850ah (12V) / 925ah (24V)",
+                "Peso": "27kg"
+            },
+            "relacionados": [],
+            "imagenes": [
+                "1.jpg"
+            ]
+        },
+        {
+            "id": "PFP-1250",
+            "nombre": "ARRANCADOR PFP 1250",
+            "slug": "arrancador-pfp-1250",
+            "categoria": "arrancadores-y-baterias",
+            "categoria_display": "Arrancadores y Baterías",
+            "descripcion_corta": "Arrancador profesional compacto de alta eficiencia.",
+            "descripcion_larga": "ARRANCADOR PFP 1250 con batería de alto rendimiento.\n- Batería: 2x16ah/ EP16 HAWKER-GENESIS U.S.A\n- Amp.Arranque: 1250ah (5 seg.)\n- Amp.Máximos: 1800ah\n- Pinzas de 1000ah\n- Cable de 25mm flexible\n- Avisador de cambio de polaridad\n- Protector de picos de corriente\n- Comprobador de batería interna\n- Indicador de funcionamiento del alternador del vehículo\n- 2x cargador de 1.8 a/h automático\n- Peso: 16kg\n- Dimensiones: Largo 390mm, Ancho 110mm, Alto 320mm\n- Temperatura de trabajo: -40ºC/+45ºC",
+            "stock": "disponible",
+            "plazo_entrega": "Consultar",
+            "instalacion_incluida": false,
+            "garantia": "2 años",
+            "precio": {
+                "base": "Consultar",
+                "moneda": "EUR"
+            },
+            "especificaciones": {
+                "Tensión": "12V",
+                "Batería": "2x16ah Hawker-Genesis",
+                "Amp. Arranque": "1250ah",
+                "Peso": "16kg"
+            },
+            "relacionados": [],
+            "imagenes": [
+                "1.jpg"
+            ]
+        },
+        {
+            "id": "PFP-1224-1300",
+            "nombre": "ARRANCADOR PFP 12/24-1300",
+            "slug": "arrancador-pfp-12-24-1300",
+            "categoria": "arrancadores-y-baterias",
+            "categoria_display": "Arrancadores y Baterías",
+            "descripcion_corta": "Arrancador industrial de alta resistencia 12V/24V.",
+            "descripcion_larga": "ARRANCADOR PFP 12/24-1300 para flota pesada.\n- Tensión: 12V y 24V\n- Batería: 2x34ah / PC950 HAWKER-GENESIS U.S.A\n- Amp.Arranque: 12V: 1950ah (5 seg.) / 24V: 950ah\n- Amp.Máximos: 1700ah\n- Pinzas: 2000ah\n- Cable: 50mm flexible\n- Avisador cambio polaridad: Sonoro\n- Protector de picos de corriente\n- Comprobador de carga de batería interna\n- Cargador de 3.6 ah/h automático por etapas x 2\n- Peso: 36kg\n- Temperatura de trabajo: -40ºC/+45ºC",
+            "stock": "disponible",
+            "plazo_entrega": "Consultar",
+            "instalacion_incluida": false,
+            "garantia": "2 años",
+            "precio": {
+                "base": "Consultar",
+                "moneda": "EUR"
+            },
+            "especificaciones": {
+                "Tensión": "12V / 24V",
+                "Batería": "2x34ah Hawker-Genesis",
+                "Amp. Arranque": "1950ah (12V) / 950ah (24V)",
+                "Peso": "36kg"
+            },
+            "relacionados": [],
+            "imagenes": [
+                "1.jpg"
+            ]
+        },
+        {
+            "id": "PFP-1224-1500",
+            "nombre": "ARRANCADOR PFP 12/24-1500",
+            "slug": "arrancador-pfp-12-24-1500",
+            "categoria": "arrancadores-y-baterias",
+            "categoria_display": "Arrancadores y Baterías",
+            "descripcion_corta": "El arrancador más potente de la serie PFP para camiones y maquinaria.",
+            "descripcion_larga": "ARRANCADOR PFP 12/24-1500 de máxima potencia industrial.\n- Tensión: 12V y 24V\n- Batería: 2x45ah / PC1100 HAWKER-GENESIS U.S.A\n- Amp.Arranque: 12V: 2200ah (5 seg.) / 24V: 1100ah\n- Amp.Máximos: 2450ah\n- Pinzas: 2000ah\n- Cable: 50mm flexible\n- Avisador cambio polaridad: Sonoro\n- Protector de picos de corriente\n- Comprobador de carga de batería interna\n- Cargador de 3.6 ah/h automático por etapas x 2\n- Peso: 36kg\n- Temperatura de trabajo: -40ºC/+45ºC",
+            "stock": "disponible",
+            "plazo_entrega": "Consultar",
+            "instalacion_incluida": false,
+            "garantia": "2 años",
+            "precio": {
+                "base": "Consultar",
+                "moneda": "EUR"
+            },
+            "especificaciones": {
+                "Tensión": "12V / 24V",
+                "Batería": "2x45ah Hawker-Genesis",
+                "Amp. Arranque": "2200ah (12V) / 1100ah (24V)",
+                "Peso": "36kg"
+            },
+            "relacionados": [],
+            "imagenes": [
+                "1.jpg"
+            ]
+        },
+        {
+            "id": "PFP-1224-680",
+            "nombre": "ARRANCADOR PFP 12/24-680",
+            "slug": "arrancador-pfp-12-24-680",
+            "categoria": "arrancadores-y-baterias",
+            "categoria_display": "Arrancadores y Baterías",
+            "descripcion_corta": "Arrancador bitensión compacto para flotas mixtas.",
+            "descripcion_larga": "ARRANCADOR PFP 12/24-680 robusto y transportable.\n- Batería: 2x16ah/ EP16 HAWKER-GENESIS U.S.A\n- Amp.Arranque 24V: 680ah (5 seg.)\n- Amp.Máximos: 1800ah\n- Pinzas de 1000ah\n- Cable de 25mm flexible\n- Avisador de cambio de polaridad\n- Protector de picos de corriente\n- Comprobador de batería interna\n- 2x cargador de 1.8 a/h automático\n- Peso: 19kg\n- Dimensiones: Largo 390mm, Ancho 110mm, Alto 320mm\n- Temperatura de trabajo: -40ºC/+45ºC",
+            "stock": "disponible",
+            "plazo_entrega": "Consultar",
+            "instalacion_incluida": false,
+            "garantia": "2 años",
+            "precio": {
+                "base": "Consultar",
+                "moneda": "EUR"
+            },
+            "especificaciones": {
+                "Tensión": "12V / 24V",
+                "Batería": "2x16ah Hawker-Genesis",
+                "Amp. Arranque": "680ah (24V)",
+                "Peso": "19kg"
+            },
+            "relacionados": [],
+            "imagenes": [
+                "1.jpg"
+            ]
+        },
+        {
+            "id": "PFP-680",
+            "nombre": "ARRANCADOR PFP 680",
+            "slug": "arrancador-pfp-680",
+            "categoria": "arrancadores-y-baterias",
+            "categoria_display": "Arrancadores y Baterías",
+            "descripcion_corta": "Arrancador ligero para vehículos ligeros y furgonetas.",
+            "descripcion_larga": "ARRANCADOR PFP 680 ultra compacto.\n- Batería: 16ah/ EP16 HAWKER-GENESIS U.S.A\n- Amp.Arranque: 680ah (5 seg.)\n- Amp.Máximos: 1800ah\n- Pinzas de 1000ah\n- Cable de 25mm flexible\n- Avisador de cambio de polaridad\n- Protector de picos de corriente\n- Comprobador de batería interna\n- Indicador de funcionamiento del alternador del vehículo\n- Cargador de 1.8 a/h automático\n- Peso: 9.5kg\n- Dimensiones: Largo 275mm, Ancho 83mm, Alto 230mm\n- Temperatura de trabajo: -40ºC/+45ºC",
+            "stock": "disponible",
+            "plazo_entrega": "Consultar",
+            "instalacion_incluida": false,
+            "garantia": "2 años",
+            "precio": {
+                "base": "Consultar",
+                "moneda": "EUR"
+            },
+            "especificaciones": {
+                "Tensión": "12V",
+                "Batería": "16ah Hawker-Genesis",
+                "Amp. Arranque": "680ah",
+                "Peso": "9.5kg"
+            },
+            "relacionados": [],
+            "imagenes": [
+                "1.jpg"
+            ]
+        },
+        {
+            "id": "GEN-EP16",
+            "nombre": "BATERIA GENESIS EP-16",
+            "slug": "bateria-genesis-ep-16",
+            "categoria": "arrancadores-y-baterias",
+            "categoria_display": "Arrancadores y Baterías",
+            "descripcion_corta": "Batería de repuesto Genesis EP-16 para arrancadores profesionales.",
+            "descripcion_larga": "BATERIA GENESIS EP-16 de alta descarga.\n- Arranque: 680amp / Pico: 1800\n- Medidas: 181x76X16\n- Válida para el 90% de los arrancadores PFP-680-1/24 - 680, Wurth, Benner, Cem, Irimo, Sos Booster, J.Ncarny, etc.",
+            "stock": "disponible",
+            "plazo_entrega": "Consultar",
+            "instalacion_incluida": false,
+            "garantia": "2 años",
+            "precio": {
+                "base": "Consultar",
+                "moneda": "EUR"
+            },
+            "especificaciones": {
+                "Modelo": "EP-16",
+                "Amp. Arranque": "680amp",
+                "Medidas": "181x76x167mm"
+            },
+            "relacionados": [],
+            "imagenes": [
+                "1.jpg"
+            ]
+        },
+        {
+            "id": "GEN-EP26",
+            "nombre": "BATERIA GENESIS EP-26",
+            "slug": "bateria-genesis-ep-26",
+            "categoria": "arrancadores-y-baterias",
+            "categoria_display": "Arrancadores y Baterías",
+            "descripcion_corta": "Batería de repuesto Genesis EP-26 para arrancadores de alta potencia.",
+            "descripcion_larga": "BATERIA GENESIS EP-26 de máxima calidad U.S.A.\n- Arranque: 950amp / Pico: 2400\n- Medidas: 177x175X125\n- Válida para Ferve 2001, iriumo, red flash, power start, etc.",
+            "stock": "disponible",
+            "plazo_entrega": "Consultar",
+            "instalacion_incluida": false,
+            "garantia": "2 años",
+            "precio": {
+                "base": "Consultar",
+                "moneda": "EUR"
+            },
+            "especificaciones": {
+                "Modelo": "EP-26",
+                "Amp. Arranque": "950amp",
+                "Medidas": "177x175x125mm"
+            },
+            "relacionados": [],
+            "imagenes": [
+                "1.jpg"
+            ]
+        },
+        {
             "id": "REAL-CUN957",
             "nombre": "Cuña de carga",
             "slug": "cun-a-de-carga",
@@ -2055,6 +2296,11 @@
             "icono": "fa-folder-open"
         },
         {
+            "id": "arrancadores-y-baterias",
+            "nombre": "Arrancadores y Baterías",
+            "icono": "fa-bolt"
+        },
+        {
             "id": "u-til-rescate-pesados",
             "nombre": "Útil Rescate Pesados",
             "icono": "fa-folder-open"
@@ -2103,6 +2349,6 @@
     "meta": {
         "version": "1.0",
         "ultima_actualizacion": "2026-03-09 13:07:14",
-        "total_productos": 77
+        "total_productos": 86
     }
 }
