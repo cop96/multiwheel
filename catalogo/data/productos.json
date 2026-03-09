@@ -187,9 +187,9 @@
             },
             "relacionados": [],
             "imagenes": [
+                "polea-reenvio-2-tn-1.jpg",
                 "polea-reenvio-2-tn-3.jpg",
-                "polea-reenvio-2-tn-2.jpg",
-                "polea-reenvio-2-tn-1.jpg"
+                "polea-reenvio-2-tn-2.jpg"
             ]
         },
         {
@@ -241,10 +241,10 @@
             },
             "relacionados": [],
             "imagenes": [
-                "polea-reenvio-vms-4.jpg",
+                "polea-reenvio-vms-2.jpg",
                 "polea-reenvio-vms-3.jpg",
                 "polea-reenvio-vms-1.jpg",
-                "polea-reenvio-vms-2.jpg"
+                "polea-reenvio-vms-4.jpg"
             ]
         },
         {
@@ -322,8 +322,8 @@
             },
             "relacionados": [],
             "imagenes": [
-                "tope-de-rueda-para-gondalas-portamaquinas-2.jpg",
                 "tope-de-rueda-para-gondalas-portamaquinas-1.jpg",
+                "tope-de-rueda-para-gondalas-portamaquinas-2.jpg",
                 "tope-de-rueda-para-gondalas-portamaquinas-3.jpg"
             ]
         },
@@ -374,8 +374,8 @@
             },
             "relacionados": [],
             "imagenes": [
-                "placa-de-rescate-2.jpg",
-                "placa-de-rescate-1.jpg"
+                "placa-de-rescate-1.jpg",
+                "placa-de-rescate-2.jpg"
             ]
         },
         {
@@ -400,12 +400,12 @@
             },
             "relacionados": [],
             "imagenes": [
-                "sistema-de-rescate-para-vehiculos-industriales-5.jpg",
-                "sistema-de-rescate-para-vehiculos-industriales-1.jpg",
+                "sistema-de-rescate-para-vehiculos-industriales-2.jpg",
                 "sistema-de-rescate-para-vehiculos-industriales-4.jpg",
-                "sistema-de-rescate-para-vehiculos-industriales-3.jpg",
                 "sistema-de-rescate-para-vehiculos-industriales-6.jpg",
-                "sistema-de-rescate-para-vehiculos-industriales-2.jpg"
+                "sistema-de-rescate-para-vehiculos-industriales-1.jpg",
+                "sistema-de-rescate-para-vehiculos-industriales-3.jpg",
+                "sistema-de-rescate-para-vehiculos-industriales-5.jpg"
             ]
         },
         {
@@ -455,8 +455,8 @@
             },
             "relacionados": [],
             "imagenes": [
-                "conjunto-eslinga-gran-tonelaje-1.jpg",
-                "conjunto-eslinga-gran-tonelaje-2.jpg"
+                "conjunto-eslinga-gran-tonelaje-2.jpg",
+                "conjunto-eslinga-gran-tonelaje-1.jpg"
             ]
         },
         {
@@ -506,8 +506,8 @@
             },
             "relacionados": [],
             "imagenes": [
-                "eslinga-amarre-maquinaria-2.jpg",
                 "eslinga-amarre-maquinaria-3.jpg",
+                "eslinga-amarre-maquinaria-2.jpg",
                 "eslinga-amarre-maquinaria-1.jpg"
             ]
         },
@@ -660,9 +660,9 @@
             },
             "relacionados": [],
             "imagenes": [
+                "conjunto-eslinga-remolcador-1.jpg",
                 "conjunto-eslinga-remolcador-4.jpg",
                 "conjunto-eslinga-remolcador-3.png",
-                "conjunto-eslinga-remolcador-1.jpg",
                 "conjunto-eslinga-remolcador-2.jpg"
             ]
         },
@@ -866,9 +866,9 @@
             "relacionados": [],
             "imagenes": [
                 "soporte-de-luces-traseras-led-para-remolcadores-4.jpg",
-                "soporte-de-luces-traseras-led-para-remolcadores-3.jpg",
+                "soporte-de-luces-traseras-led-para-remolcadores-2.jpg",
                 "soporte-de-luces-traseras-led-para-remolcadores.jpg",
-                "soporte-de-luces-traseras-led-para-remolcadores-2.jpg"
+                "soporte-de-luces-traseras-led-para-remolcadores-3.jpg"
             ]
         },
         {
@@ -893,10 +893,10 @@
             },
             "relacionados": [],
             "imagenes": [
+                "soporte-de-luces-led-para-palas-traseras-2.jpg",
                 "soporte-de-luces-led-para-palas-traseras-4.jpg",
                 "soporte-de-luces-led-para-palas-traseras-3.jpg",
-                "soporte-de-luces-led-para-palas-traseras.jpg",
-                "soporte-de-luces-led-para-palas-traseras-2.jpg"
+                "soporte-de-luces-led-para-palas-traseras.jpg"
             ]
         },
         {
@@ -1472,9 +1472,9 @@
             },
             "relacionados": [],
             "imagenes": [
-                "barras-direccionales-3.jpg",
                 "barras-direccionales-2.jpg",
-                "barras-direccionales.jpg"
+                "barras-direccionales.jpg",
+                "barras-direccionales-3.jpg"
             ]
         },
         {
@@ -1649,8 +1649,8 @@
             },
             "relacionados": [],
             "imagenes": [
-                "puente-de-luces-1.jpg",
-                "puente-de-luces-2.jpg"
+                "puente-de-luces-2.jpg",
+                "puente-de-luces-1.jpg"
             ]
         },
         {
@@ -1700,9 +1700,9 @@
             },
             "relacionados": [],
             "imagenes": [
-                "medidor-de-galibo-3.jpg",
                 "medidor-de-galibo-2.jpg",
-                "medidor-de-galibo.jpg"
+                "medidor-de-galibo.jpg",
+                "medidor-de-galibo-3.jpg"
             ]
         },
         {
@@ -1727,11 +1727,47 @@
             },
             "relacionados": [],
             "imagenes": [
-                "cabrestantes-5.jpg",
-                "cabrestantes-4.jpg",
                 "cabrestantes-1.jpg",
-                "cabrestantes-3.jpg",
-                "cabrestantes-2.jpg"
+                "cabrestantes-2.jpg",
+                "cabrestantes-4.jpg",
+                "cabrestantes-5.jpg",
+                "cabrestantes-3.jpg"
+            ]
+        },
+        {
+            "id": "REAL-NEW-REPARA-21",
+            "nombre": "REPARACIÓN DE GRÚAS Y GONDOLAS",
+            "slug": "reparacio-n-de-gru-as-y-gondolas",
+            "categoria": "reparacio-n-de-gru-as-y-go-ndolas",
+            "categoria_display": "Reparacio N De Gru As Y Go Ndolas",
+            "descripcion_corta": "REPARACIÓN DE GRÚAS Y GONDOLAS de alta resistencia industrial.",
+            "descripcion_larga": "Descripción completa para REPARACIÓN DE GRÚAS Y GONDOLAS. Equipamiento profesional de alta calidad.",
+            "stock": "disponible",
+            "plazo_entrega": "5-7 días",
+            "instalacion_incluida": false,
+            "garantia": "2 años",
+            "precio": {
+                "base": "Consultar",
+                "moneda": "EUR"
+            },
+            "especificaciones": {
+                "Material": "Acero",
+                "Tipo": "Profesional"
+            },
+            "relacionados": [],
+            "imagenes": [
+                "reparacio-n-de-gru-as-y-gondolas-7.jpg",
+                "reparacio-n-de-gru-as-y-gondolas-12.jpg",
+                "reparacio-n-de-gru-as-y-gondolas-6.jpg",
+                "reparacio-n-de-gru-as-y-gondolas-3.jpg",
+                "reparacio-n-de-gru-as-y-gondolas-2.jpg",
+                "reparacio-n-de-gru-as-y-gondolas-10.jpg",
+                "reparacio-n-de-gru-as-y-gondolas-5.jpg",
+                "reparacio-n-de-gru-as-y-gondolas-9.jpg",
+                "reparacio-n-de-gru-as-y-gondolas.jpg",
+                "reparacio-n-de-gru-as-y-gondolas-8.jpg",
+                "reparacio-n-de-gru-as-y-gondolas-4.jpg",
+                "reparacio-n-de-gru-as-y-gondolas-11.jpg"
             ]
         }
     ],
@@ -1785,11 +1821,16 @@
             "id": "cabestrantes",
             "nombre": "Cabestrantes",
             "icono": "fa-folder-open"
+        },
+        {
+            "id": "reparacio-n-de-gru-as-y-go-ndolas",
+            "nombre": "Reparacio N De Gru As Y Go Ndolas",
+            "icono": "fa-folder-open"
         }
     ],
     "meta": {
         "version": "1.0",
-        "ultima_actualizacion": "2026-03-09 12:25:15",
-        "total_productos": 67
+        "ultima_actualizacion": "2026-03-09 12:32:21",
+        "total_productos": 68
     }
 }
