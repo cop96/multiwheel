@@ -202,26 +202,46 @@
 
 <!-- JavaScript for Mobile Menu -->
 <script>
-      nt.addEventListener('DOMContentLoaded', function () {
-              ileMenuBtn = document.getElementById('mobile-menu-btn');
-        c        enuClose = document.getElementById('mobile-menu-close');
-        const        = document.getElementById('mobile-menu');
-        const mob        ay = document.getElementById('mobile-menu-overlay');
+    document.addEventListener('DOMContentLoaded', function () {
+        const mobileMenuBtn = document.getElementById('mobile-menu-btn');
+        const mobileMenuClose = document.getElementById('mobile-menu-close');
+        const mobileMenu = document.getElementById('mobile-menu');
+        const mobileMenuOverlay = document.getElementById('mobile-menu-overlay');
 
-        function ope)           mobileMenu.classList.remo                      mobileMenu.classList.add('vis                mobileMenuOverlay.classList.remov                     document.body.style.overflow = 'hidde                   function closeMobileMenu() {
-             eMt        ');
-            mobileMenu.cl            visible');
-            mobileMenuOve            dd('hidden');
-            document.body.             '';
+        function openMobileMenu() {
+            mobileMenu.classList.remove('hidden');
+            setTimeout(() => {
+                mobileMenu.classList.add('visible');
+            }, 10);
+            mobileMenuOverlay.classList.remove('hidden');
+            document.body.style.overflow = 'hidden';
         }
 
-        if (mobileMenuBtn)             bileMenuBtn.addEventListener('click        eM         if (mobileMenuClose)             bileMenuClose.addEventListener('click', closeMobileMenu);          b        ay) {
-            mobil            EventListener('click', closeMobileMenu);
+        function closeMobileMenu() {
+            mobileMenu.classList.remove('visible');
+            mobileMenuOverlay.classList.add('hidden');
+            setTimeout(() => {
+                mobileMenu.classList.add('hidden');
+            }, 300);
+            document.body.style.overflow = '';
         }
 
-                u k        st mobileLinks = mobileMe            All('a');
+        if (mobileMenuBtn) {
+            mobileMenuBtn.addEventListener('click', openMobileMenu);
+        }
+
+        if (mobileMenuClose) {
+            mobileMenuClose.addEventListener('click', closeMobileMenu);
+        }
+
+        if (mobileMenuOverlay) {
+            mobileMenuOverlay.addEventListener('click', closeMobileMenu);
+        }
+
+        // Close menu when clicking on a link
+        const mobileLinks = mobileMenu.querySelectorAll('a');
         mobileLinks.forEach(function (link) {
-              ddr    oseMobileMenu);
+            link.addEventListener('click', closeMobileMenu);
         });
     });
 </script>
