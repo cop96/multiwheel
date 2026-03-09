@@ -1736,12 +1736,12 @@
         },
         {
             "id": "REAL-NEW-REPARA-21",
-            "nombre": "REPARACIÓN DE GRÚAS Y GONDOLAS",
+            "nombre": "REPARACIÓN DE GRÚAS Y GÓNDOLAS",
             "slug": "reparacio-n-de-gru-as-y-gondolas",
             "categoria": "reparacio-n-de-gru-as-y-go-ndolas",
-            "categoria_display": "Reparacio N De Gru As Y Go Ndolas",
-            "descripcion_corta": "REPARACIÓN DE GRÚAS Y GONDOLAS de alta resistencia industrial.",
-            "descripcion_larga": "Descripción completa para REPARACIÓN DE GRÚAS Y GONDOLAS. Equipamiento profesional de alta calidad.",
+            "categoria_display": "Reparación de Grúas y Góndolas",
+            "descripcion_corta": "EN MULTIWHEEL SOMOS ESPECIALISTAS EN LA REPARACIÓN DE CARROCERÍAS PORTA-VEHÍCULOS.",
+            "descripcion_larga": "EN MULTIWHEEL SOMOS ESPECIALISTAS EN LA REPARACIÓN DE CARROCERÍAS PORTA-VEHÍCULOS.\nCARROCERÍA-ELECTRICIDAD-HIDRAÚLICA-NEUMATICA-LATIGUILLOS-BOMBAS-TOMAS DE FUERZA.",
             "stock": "disponible",
             "plazo_entrega": "5-7 días",
             "instalacion_incluida": false,
@@ -1814,7 +1814,7 @@
         },
         {
             "id": "galibo",
-            "nombre": "Galibo",
+            "nombre": "Medidor de Gálibo",
             "icono": "fa-folder-open"
         },
         {
@@ -1824,7 +1824,7 @@
         },
         {
             "id": "reparacio-n-de-gru-as-y-go-ndolas",
-            "nombre": "Reparacio N De Gru As Y Go Ndolas",
+            "nombre": "Reparación de Grúas y Góndolas",
             "icono": "fa-folder-open"
         }
     ],
