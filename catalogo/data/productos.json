@@ -170,7 +170,7 @@
             "nombre": "POLEA REENVIO 2 TN",
             "slug": "polea-reenvio-2-tn",
             "categoria": "sistemas-de-amarre",
-            "categoria_display": "Sistemas De Amarre",
+            "categoria_display": "Sistemas de Amarre",
             "descripcion_corta": "POLEA REENVIO 2 TN de alta resistencia.",
             "descripcion_larga": "Descripción para POLEA REENVIO 2 TN (pendiente extraer de docx)",
             "stock": "disponible",
@@ -187,9 +187,9 @@
             },
             "relacionados": [],
             "imagenes": [
+                "polea-reenvio-2-tn-2.jpg",
                 "polea-reenvio-2-tn-1.jpg",
-                "polea-reenvio-2-tn-3.jpg",
-                "polea-reenvio-2-tn-2.jpg"
+                "polea-reenvio-2-tn-3.jpg"
             ]
         },
         {
@@ -197,7 +197,7 @@
             "nombre": "POLEA REENVIO TRASERO",
             "slug": "polea-reenvio-trasero",
             "categoria": "sistemas-de-amarre",
-            "categoria_display": "Sistemas De Amarre",
+            "categoria_display": "Sistemas de Amarre",
             "descripcion_corta": "POLEA REENVIO TRASERO de alta resistencia.",
             "descripcion_larga": "Descripción para POLEA REENVIO TRASERO (pendiente extraer de docx)",
             "stock": "disponible",
@@ -214,8 +214,8 @@
             },
             "relacionados": [],
             "imagenes": [
-                "polea-reenvio-trasero-2.jpg",
                 "polea-reenvio-trasero-1.jpg",
+                "polea-reenvio-trasero-2.jpg",
                 "polea-reenvio-trasero-3.jpg"
             ]
         },
@@ -224,7 +224,7 @@
             "nombre": "POLEA REENVIO VMS",
             "slug": "polea-reenvio-vms",
             "categoria": "sistemas-de-amarre",
-            "categoria_display": "Sistemas De Amarre",
+            "categoria_display": "Sistemas de Amarre",
             "descripcion_corta": "POLEA REENVIO VMS de alta resistencia.",
             "descripcion_larga": "Descripción para POLEA REENVIO VMS (pendiente extraer de docx)",
             "stock": "disponible",
@@ -241,10 +241,10 @@
             },
             "relacionados": [],
             "imagenes": [
-                "polea-reenvio-vms-2.jpg",
                 "polea-reenvio-vms-3.jpg",
-                "polea-reenvio-vms-1.jpg",
-                "polea-reenvio-vms-4.jpg"
+                "polea-reenvio-vms-2.jpg",
+                "polea-reenvio-vms-4.jpg",
+                "polea-reenvio-vms-1.jpg"
             ]
         },
         {
@@ -252,7 +252,7 @@
             "nombre": "POLEA REENVIO 17 TN",
             "slug": "polea-reenvio-17-tn",
             "categoria": "sistemas-de-amarre",
-            "categoria_display": "Sistemas De Amarre",
+            "categoria_display": "Sistemas de Amarre",
             "descripcion_corta": "POLEA REENVIO 17 TN de alta resistencia.",
             "descripcion_larga": "Polea de reenvío profesional con capacidad de 17 toneladas. Construcción robusta para operaciones de rescate pesado.",
             "stock": "disponible",
@@ -269,10 +269,10 @@
             },
             "relacionados": [],
             "imagenes": [
-                "polea-17-tn-2.jpg",
                 "polea-17-tn-4.jpg",
                 "polea-17-tn-1.jpg",
-                "polea-17-tn-3.jpg"
+                "polea-17-tn-3.jpg",
+                "polea-17-tn-2.jpg"
             ]
         },
         {
@@ -280,7 +280,7 @@
             "nombre": "TOPE DE RUEDA PARA GRUAS",
             "slug": "tope-de-rueda-para-gruas",
             "categoria": "sistemas-de-amarre",
-            "categoria_display": "Sistemas De Amarre",
+            "categoria_display": "Sistemas de Amarre",
             "descripcion_corta": "TOPE DE RUEDA PARA GRUAS de alta resistencia industrial.",
             "descripcion_larga": "Descripción completa para TOPE DE RUEDA PARA GRUAS. Equipamiento profesional de alta calidad.",
             "stock": "disponible",
@@ -305,7 +305,7 @@
             "nombre": "TOPE DE RUEDA PARA GONDALAS – PORTAMAQUINAS",
             "slug": "tope-de-rueda-para-gondalas-portamaquinas",
             "categoria": "sistemas-de-amarre",
-            "categoria_display": "Sistemas De Amarre",
+            "categoria_display": "Sistemas de Amarre",
             "descripcion_corta": "TOPE DE RUEDA PARA GONDALAS – PORTAMAQUINAS de alta resistencia industrial.",
             "descripcion_larga": "Descripción completa para TOPE DE RUEDA PARA GONDALAS – PORTAMAQUINAS. Equipamiento profesional de alta calidad.",
             "stock": "disponible",
@@ -322,9 +322,9 @@
             },
             "relacionados": [],
             "imagenes": [
-                "tope-de-rueda-para-gondalas-portamaquinas-1.jpg",
+                "tope-de-rueda-para-gondalas-portamaquinas-3.jpg",
                 "tope-de-rueda-para-gondalas-portamaquinas-2.jpg",
-                "tope-de-rueda-para-gondalas-portamaquinas-3.jpg"
+                "tope-de-rueda-para-gondalas-portamaquinas-1.jpg"
             ]
         },
         {
@@ -332,7 +332,7 @@
             "nombre": "GUIAS RODILLOS PARA CABRESTANTES",
             "slug": "guias-rodillos-para-cabrestantes",
             "categoria": "sistemas-de-amarre",
-            "categoria_display": "Sistemas De Amarre",
+            "categoria_display": "Sistemas de Amarre",
             "descripcion_corta": "GUIAS RODILLOS PARA CABRESTANTES de alta resistencia industrial.",
             "descripcion_larga": "Descripción completa para GUIAS RODILLOS PARA CABRESTANTES. Equipamiento profesional de alta calidad.",
             "stock": "disponible",
@@ -357,7 +357,7 @@
             "nombre": "PLACA DE RESCATE",
             "slug": "placa-de-rescate",
             "categoria": "u-til-rescate-pesados",
-            "categoria_display": "U Til Rescate Pesados",
+            "categoria_display": "Útil Rescate Pesados",
             "descripcion_corta": "PLACA DE RESCATE de alta resistencia industrial.",
             "descripcion_larga": "Descripción completa para PLACA DE RESCATE. Equipamiento profesional de alta calidad.",
             "stock": "disponible",
@@ -374,8 +374,8 @@
             },
             "relacionados": [],
             "imagenes": [
-                "placa-de-rescate-1.jpg",
-                "placa-de-rescate-2.jpg"
+                "placa-de-rescate-2.jpg",
+                "placa-de-rescate-1.jpg"
             ]
         },
         {
@@ -383,7 +383,7 @@
             "nombre": "SISTEMA DE RESCATE PARA VEHICULOS INDUSTRIALES",
             "slug": "sistema-de-rescate-para-vehiculos-industriales",
             "categoria": "u-til-rescate-pesados",
-            "categoria_display": "U Til Rescate Pesados",
+            "categoria_display": "Útil Rescate Pesados",
             "descripcion_corta": "SISTEMA DE RESCATE PARA VEHICULOS INDUSTRIALES de alta resistencia industrial.",
             "descripcion_larga": "Descripción completa para SISTEMA DE RESCATE PARA VEHICULOS INDUSTRIALES. Equipamiento profesional de alta calidad.",
             "stock": "disponible",
@@ -400,12 +400,12 @@
             },
             "relacionados": [],
             "imagenes": [
-                "sistema-de-rescate-para-vehiculos-industriales-2.jpg",
-                "sistema-de-rescate-para-vehiculos-industriales-4.jpg",
-                "sistema-de-rescate-para-vehiculos-industriales-6.jpg",
-                "sistema-de-rescate-para-vehiculos-industriales-1.jpg",
                 "sistema-de-rescate-para-vehiculos-industriales-3.jpg",
-                "sistema-de-rescate-para-vehiculos-industriales-5.jpg"
+                "sistema-de-rescate-para-vehiculos-industriales-5.jpg",
+                "sistema-de-rescate-para-vehiculos-industriales-6.jpg",
+                "sistema-de-rescate-para-vehiculos-industriales-4.jpg",
+                "sistema-de-rescate-para-vehiculos-industriales-1.jpg",
+                "sistema-de-rescate-para-vehiculos-industriales-2.jpg"
             ]
         },
         {
@@ -413,7 +413,7 @@
             "nombre": "TENSOR MANGO ANCHO 50 MM",
             "slug": "tensor-mango-ancho-50-mm",
             "categoria": "sistemas-de-amarre",
-            "categoria_display": "Sistemas De Amarre",
+            "categoria_display": "Sistemas de Amarre",
             "descripcion_corta": "TENSOR MANGO ANCHO 50 MM de alta resistencia industrial.",
             "descripcion_larga": "Descripción completa para TENSOR MANGO ANCHO 50 MM. Equipamiento profesional de alta calidad.",
             "stock": "disponible",
@@ -438,7 +438,7 @@
             "nombre": "CONJUNTO ESLINGA GRAN TONELAJE",
             "slug": "conjunto-eslinga-gran-tonelaje",
             "categoria": "sistemas-de-amarre",
-            "categoria_display": "Sistemas De Amarre",
+            "categoria_display": "Sistemas de Amarre",
             "descripcion_corta": "CONJUNTO ESLINGA GRAN TONELAJE de alta resistencia industrial.",
             "descripcion_larga": "Descripción completa para CONJUNTO ESLINGA GRAN TONELAJE. Equipamiento profesional de alta calidad.",
             "stock": "disponible",
@@ -464,7 +464,7 @@
             "nombre": "PETACA 50MM X 5OCM",
             "slug": "petaca-50mm-x-5ocm",
             "categoria": "sistemas-de-amarre",
-            "categoria_display": "Sistemas De Amarre",
+            "categoria_display": "Sistemas de Amarre",
             "descripcion_corta": "PETACA 50MM X 5OCM de alta resistencia industrial.",
             "descripcion_larga": "Descripción completa para PETACA 50MM X 5OCM. Equipamiento profesional de alta calidad.",
             "stock": "disponible",
@@ -489,7 +489,7 @@
             "nombre": "ESLINGA AMARRE MAQUINARIA ",
             "slug": "eslinga-amarre-maquinaria",
             "categoria": "sistemas-de-amarre",
-            "categoria_display": "Sistemas De Amarre",
+            "categoria_display": "Sistemas de Amarre",
             "descripcion_corta": "ESLINGA AMARRE MAQUINARIA  de alta resistencia industrial.",
             "descripcion_larga": "Descripción completa para ESLINGA AMARRE MAQUINARIA . Equipamiento profesional de alta calidad.",
             "stock": "disponible",
@@ -506,9 +506,9 @@
             },
             "relacionados": [],
             "imagenes": [
-                "eslinga-amarre-maquinaria-3.jpg",
+                "eslinga-amarre-maquinaria-1.jpg",
                 "eslinga-amarre-maquinaria-2.jpg",
-                "eslinga-amarre-maquinaria-1.jpg"
+                "eslinga-amarre-maquinaria-3.jpg"
             ]
         },
         {
@@ -516,7 +516,7 @@
             "nombre": "CONJUNTO ESLINGA REMOLCADOR SIMPLE",
             "slug": "conjunto-eslinga-remolcador-simple",
             "categoria": "sistemas-de-amarre",
-            "categoria_display": "Sistemas De Amarre",
+            "categoria_display": "Sistemas de Amarre",
             "descripcion_corta": "CONJUNTO ESLINGA REMOLCADOR SIMPLE de alta resistencia industrial.",
             "descripcion_larga": "Descripción completa para CONJUNTO ESLINGA REMOLCADOR SIMPLE. Equipamiento profesional de alta calidad.",
             "stock": "disponible",
@@ -533,9 +533,9 @@
             },
             "relacionados": [],
             "imagenes": [
+                "conjunto-eslinga-remolcador-simple-3.jpg",
                 "conjunto-eslinga-remolcador-simple-1.jpg",
-                "conjunto-eslinga-remolcador-simple-2.jpg",
-                "conjunto-eslinga-remolcador-simple-3.jpg"
+                "conjunto-eslinga-remolcador-simple-2.jpg"
             ]
         },
         {
@@ -543,7 +543,7 @@
             "nombre": "GANCHO GIRATORIO 50 MM",
             "slug": "gancho-giratorio-50-mm",
             "categoria": "sistemas-de-amarre",
-            "categoria_display": "Sistemas De Amarre",
+            "categoria_display": "Sistemas de Amarre",
             "descripcion_corta": "GANCHO GIRATORIO 50 MM de alta resistencia industrial.",
             "descripcion_larga": "Descripción completa para GANCHO GIRATORIO 50 MM. Equipamiento profesional de alta calidad.",
             "stock": "disponible",
@@ -568,7 +568,7 @@
             "nombre": "TACO 50 MM",
             "slug": "taco-50-mm",
             "categoria": "sistemas-de-amarre",
-            "categoria_display": "Sistemas De Amarre",
+            "categoria_display": "Sistemas de Amarre",
             "descripcion_corta": "TACO 50 MM de alta resistencia industrial.",
             "descripcion_larga": "Descripción completa para TACO 50 MM. Equipamiento profesional de alta calidad.",
             "stock": "disponible",
@@ -593,7 +593,7 @@
             "nombre": "GANCHO REDUCTOR",
             "slug": "gancho-reductor",
             "categoria": "sistemas-de-amarre",
-            "categoria_display": "Sistemas De Amarre",
+            "categoria_display": "Sistemas de Amarre",
             "descripcion_corta": "GANCHO REDUCTOR de alta resistencia industrial.",
             "descripcion_larga": "Descripción completa para GANCHO REDUCTOR. Equipamiento profesional de alta calidad.",
             "stock": "disponible",
@@ -618,7 +618,7 @@
             "nombre": "CONJUNTO AMARRE PALAS",
             "slug": "conjunto-amarre-palas",
             "categoria": "sistemas-de-amarre",
-            "categoria_display": "Sistemas De Amarre",
+            "categoria_display": "Sistemas de Amarre",
             "descripcion_corta": "CONJUNTO AMARRE PALAS de alta resistencia industrial.",
             "descripcion_larga": "Descripción completa para CONJUNTO AMARRE PALAS. Equipamiento profesional de alta calidad.",
             "stock": "disponible",
@@ -643,7 +643,7 @@
             "nombre": "CONJUNTO ESLINGA REMOLCADOR",
             "slug": "conjunto-eslinga-remolcador",
             "categoria": "sistemas-de-amarre",
-            "categoria_display": "Sistemas De Amarre",
+            "categoria_display": "Sistemas de Amarre",
             "descripcion_corta": "CONJUNTO ESLINGA REMOLCADOR de alta resistencia industrial.",
             "descripcion_larga": "Descripción completa para CONJUNTO ESLINGA REMOLCADOR. Equipamiento profesional de alta calidad.",
             "stock": "disponible",
@@ -660,9 +660,9 @@
             },
             "relacionados": [],
             "imagenes": [
+                "conjunto-eslinga-remolcador-3.png",
                 "conjunto-eslinga-remolcador-1.jpg",
                 "conjunto-eslinga-remolcador-4.jpg",
-                "conjunto-eslinga-remolcador-3.png",
                 "conjunto-eslinga-remolcador-2.jpg"
             ]
         },
@@ -671,7 +671,7 @@
             "nombre": "TENSOR MANGO ERGONÓMICO 50 MM",
             "slug": "tensor-mango-ergono-mico-50-mm",
             "categoria": "sistemas-de-amarre",
-            "categoria_display": "Sistemas De Amarre",
+            "categoria_display": "Sistemas de Amarre",
             "descripcion_corta": "TENSOR MANGO ERGONÓMICO 50 MM de alta resistencia industrial.",
             "descripcion_larga": "Descripción completa para TENSOR MANGO ERGONÓMICO 50 MM. Equipamiento profesional de alta calidad.",
             "stock": "disponible",
@@ -696,7 +696,7 @@
             "nombre": "PULPO DE RESCATE",
             "slug": "pulpo-de-rescate",
             "categoria": "sistemas-de-amarre",
-            "categoria_display": "Sistemas De Amarre",
+            "categoria_display": "Sistemas de Amarre",
             "descripcion_corta": "PULPO DE RESCATE de alta resistencia industrial.",
             "descripcion_larga": "Descripción completa para PULPO DE RESCATE. Equipamiento profesional de alta calidad.",
             "stock": "disponible",
@@ -721,7 +721,7 @@
             "nombre": "ESLINGAS DOBLE OJAL",
             "slug": "eslingas-doble-ojal",
             "categoria": "sistemas-de-amarre",
-            "categoria_display": "Sistemas De Amarre",
+            "categoria_display": "Sistemas de Amarre",
             "descripcion_corta": "ESLINGAS DOBLE OJAL de alta resistencia industrial.",
             "descripcion_larga": "Descripción completa para ESLINGAS DOBLE OJAL. Equipamiento profesional de alta calidad.",
             "stock": "disponible",
@@ -746,7 +746,7 @@
             "nombre": "CONJUNTO ESLINGA MOTOS",
             "slug": "conjunto-eslinga-motos",
             "categoria": "sistemas-de-amarre",
-            "categoria_display": "Sistemas De Amarre",
+            "categoria_display": "Sistemas de Amarre",
             "descripcion_corta": "CONJUNTO ESLINGA MOTOS de alta resistencia industrial.",
             "descripcion_larga": "Descripción completa para CONJUNTO ESLINGA MOTOS. Equipamiento profesional de alta calidad.",
             "stock": "disponible",
@@ -763,8 +763,8 @@
             },
             "relacionados": [],
             "imagenes": [
-                "conjunto-eslinga-motos-1.jpg",
-                "conjunto-eslinga-moto-2.jpg"
+                "conjunto-eslinga-moto-2.jpg",
+                "conjunto-eslinga-motos-1.jpg"
             ]
         },
         {
@@ -772,7 +772,7 @@
             "nombre": "CABLES DE ACERO",
             "slug": "cables-de-acero",
             "categoria": "sistemas-de-amarre",
-            "categoria_display": "Sistemas De Amarre",
+            "categoria_display": "Sistemas de Amarre",
             "descripcion_corta": "CABLES DE ACERO de alta resistencia industrial.",
             "descripcion_larga": "Descripción completa para CABLES DE ACERO. Equipamiento profesional de alta calidad.",
             "stock": "disponible",
@@ -797,7 +797,7 @@
             "nombre": "ESLINGA HT MOTOS PAREJA",
             "slug": "eslinga-ht-motos-pareja",
             "categoria": "sistemas-de-amarre",
-            "categoria_display": "Sistemas De Amarre",
+            "categoria_display": "Sistemas de Amarre",
             "descripcion_corta": "ESLINGA HT MOTOS PAREJA de alta resistencia industrial.",
             "descripcion_larga": "Descripción completa para ESLINGA HT MOTOS PAREJA. Equipamiento profesional de alta calidad.",
             "stock": "disponible",
@@ -822,7 +822,7 @@
             "nombre": "CONJUNTO ESLINGA COCHES",
             "slug": "conjunto-eslinga-coches",
             "categoria": "sistemas-de-amarre",
-            "categoria_display": "Sistemas De Amarre",
+            "categoria_display": "Sistemas de Amarre",
             "descripcion_corta": "CONJUNTO ESLINGA COCHES de alta resistencia industrial.",
             "descripcion_larga": "Descripción completa para CONJUNTO ESLINGA COCHES. Equipamiento profesional de alta calidad.",
             "stock": "disponible",
@@ -848,7 +848,7 @@
             "nombre": "SOPORTE DE LUCES TRASERAS LED PARA  REMOLCADORES",
             "slug": "soporte-de-luces-traseras-led-para-remolcadores",
             "categoria": "u-til-rescate-pesados",
-            "categoria_display": "U Til Rescate Pesados",
+            "categoria_display": "Útil Rescate Pesados",
             "descripcion_corta": "SOPORTE DE LUCES TRASERAS LED PARA  REMOLCADORES de alta resistencia industrial.",
             "descripcion_larga": "Descripción completa para SOPORTE DE LUCES TRASERAS LED PARA  REMOLCADORES. Equipamiento profesional de alta calidad.",
             "stock": "disponible",
@@ -865,9 +865,9 @@
             },
             "relacionados": [],
             "imagenes": [
-                "soporte-de-luces-traseras-led-para-remolcadores-4.jpg",
-                "soporte-de-luces-traseras-led-para-remolcadores-2.jpg",
                 "soporte-de-luces-traseras-led-para-remolcadores.jpg",
+                "soporte-de-luces-traseras-led-para-remolcadores-2.jpg",
+                "soporte-de-luces-traseras-led-para-remolcadores-4.jpg",
                 "soporte-de-luces-traseras-led-para-remolcadores-3.jpg"
             ]
         },
@@ -876,7 +876,7 @@
             "nombre": "SOPORTE DE LUCES LED PARA PALAS TRASERAS",
             "slug": "soporte-de-luces-led-para-palas-traseras",
             "categoria": "u-til-rescate-pesados",
-            "categoria_display": "U Til Rescate Pesados",
+            "categoria_display": "Útil Rescate Pesados",
             "descripcion_corta": "SOPORTE DE LUCES LED PARA PALAS TRASERAS de alta resistencia industrial.",
             "descripcion_larga": "Descripción completa para SOPORTE DE LUCES LED PARA PALAS TRASERAS. Equipamiento profesional de alta calidad.",
             "stock": "disponible",
@@ -893,9 +893,9 @@
             },
             "relacionados": [],
             "imagenes": [
-                "soporte-de-luces-led-para-palas-traseras-2.jpg",
-                "soporte-de-luces-led-para-palas-traseras-4.jpg",
                 "soporte-de-luces-led-para-palas-traseras-3.jpg",
+                "soporte-de-luces-led-para-palas-traseras-4.jpg",
+                "soporte-de-luces-led-para-palas-traseras-2.jpg",
                 "soporte-de-luces-led-para-palas-traseras.jpg"
             ]
         },
@@ -904,7 +904,7 @@
             "nombre": "TENSORES",
             "slug": "tensores",
             "categoria": "sistemas-de-amarre",
-            "categoria_display": "Sistemas De Amarre",
+            "categoria_display": "Sistemas de Amarre",
             "descripcion_corta": "TENSORES de alta resistencia industrial.",
             "descripcion_larga": "Descripción completa para TENSORES. Equipamiento profesional de alta calidad.",
             "stock": "disponible",
@@ -929,7 +929,7 @@
             "nombre": "CADENA GRADO 80",
             "slug": "cadena-grado-80",
             "categoria": "sistemas-de-amarre",
-            "categoria_display": "Sistemas De Amarre",
+            "categoria_display": "Sistemas de Amarre",
             "descripcion_corta": "CADENA GRADO 80 de alta resistencia industrial.",
             "descripcion_larga": "Descripción completa para CADENA GRADO 80. Equipamiento profesional de alta calidad.",
             "stock": "disponible",
@@ -954,7 +954,7 @@
             "nombre": "UNIÓN DOBLE CADENA",
             "slug": "unio-n-doble-cadena",
             "categoria": "sistemas-de-amarre",
-            "categoria_display": "Sistemas De Amarre",
+            "categoria_display": "Sistemas de Amarre",
             "descripcion_corta": "UNIÓN DOBLE CADENA de alta resistencia industrial.",
             "descripcion_larga": "Descripción completa para UNIÓN DOBLE CADENA. Equipamiento profesional de alta calidad.",
             "stock": "disponible",
@@ -979,7 +979,7 @@
             "nombre": "GANCHO ACORTADOR",
             "slug": "gancho-acortador",
             "categoria": "sistemas-de-amarre",
-            "categoria_display": "Sistemas De Amarre",
+            "categoria_display": "Sistemas de Amarre",
             "descripcion_corta": "GANCHO ACORTADOR de alta resistencia industrial.",
             "descripcion_larga": "Descripción completa para GANCHO ACORTADOR. Equipamiento profesional de alta calidad.",
             "stock": "disponible",
@@ -1029,7 +1029,7 @@
             "nombre": "BOCAS DESMONTADORAS",
             "slug": "bocas-desmontadoras",
             "categoria": "sistemas-de-amarre",
-            "categoria_display": "Sistemas De Amarre",
+            "categoria_display": "Sistemas de Amarre",
             "descripcion_corta": "BOCAS DESMONTADORAS de alta resistencia industrial.",
             "descripcion_larga": "Descripción completa para BOCAS DESMONTADORAS. Equipamiento profesional de alta calidad.",
             "stock": "disponible",
@@ -1080,7 +1080,7 @@
             "nombre": "KIT REPARAPINCHAZOS RI 70",
             "slug": "kit-reparapinchazos-ri-70",
             "categoria": "sistemas-de-amarre",
-            "categoria_display": "Sistemas De Amarre",
+            "categoria_display": "Sistemas de Amarre",
             "descripcion_corta": "KIT REPARAPINCHAZOS RI 70 de alta resistencia industrial.",
             "descripcion_larga": "Descripción completa para KIT REPARAPINCHAZOS RI 70. Equipamiento profesional de alta calidad.",
             "stock": "disponible",
@@ -1130,7 +1130,7 @@
             "nombre": "RUEDA MACIZA DE 160 M:M ",
             "slug": "rueda-maciza-de-160-m-m",
             "categoria": "ruedas-para-carros",
-            "categoria_display": "Ruedas Para Carros",
+            "categoria_display": "Ruedas para Carros",
             "descripcion_corta": "RUEDA MACIZA DE 160 M:M  de alta resistencia industrial.",
             "descripcion_larga": "Descripción completa para RUEDA MACIZA DE 160 M:M . Equipamiento profesional de alta calidad.",
             "stock": "disponible",
@@ -1155,7 +1155,7 @@
             "nombre": "RUEDA GIRATORIA DE 80 M:M REFORZADA",
             "slug": "rueda-giratoria-de-80-m-m-reforzada",
             "categoria": "ruedas-para-carros",
-            "categoria_display": "Ruedas Para Carros",
+            "categoria_display": "Ruedas para Carros",
             "descripcion_corta": "RUEDA GIRATORIA DE 80 M:M REFORZADA de alta resistencia industrial.",
             "descripcion_larga": "Descripción completa para RUEDA GIRATORIA DE 80 M:M REFORZADA. Equipamiento profesional de alta calidad.",
             "stock": "disponible",
@@ -1180,7 +1180,7 @@
             "nombre": "RUEDA DE 260 M:M MACIZA",
             "slug": "rueda-de-260-m-m-maciza",
             "categoria": "ruedas-para-carros",
-            "categoria_display": "Ruedas Para Carros",
+            "categoria_display": "Ruedas para Carros",
             "descripcion_corta": "RUEDA DE 260 M:M MACIZA de alta resistencia industrial.",
             "descripcion_larga": "Descripción completa para RUEDA DE 260 M:M MACIZA. Equipamiento profesional de alta calidad.",
             "stock": "disponible",
@@ -1205,7 +1205,7 @@
             "nombre": "RUEDA NEUMATICA  260 M:M",
             "slug": "rueda-neumatica-260-m-m",
             "categoria": "ruedas-para-carros",
-            "categoria_display": "Ruedas Para Carros",
+            "categoria_display": "Ruedas para Carros",
             "descripcion_corta": "RUEDA NEUMATICA  260 M:M de alta resistencia industrial.",
             "descripcion_larga": "Descripción completa para RUEDA NEUMATICA  260 M:M. Equipamiento profesional de alta calidad.",
             "stock": "disponible",
@@ -1255,7 +1255,7 @@
             "nombre": "BARRAS DIRECCIONALES 2",
             "slug": "barras-direccionales-2",
             "categoria": "auxilio-en-carretera",
-            "categoria_display": "Auxilio En Carretera",
+            "categoria_display": "Auxilio en carretera",
             "descripcion_corta": "BARRAS DIRECCIONALES 2 de alta resistencia industrial.",
             "descripcion_larga": "Descripción completa para BARRAS DIRECCIONALES 2. Equipamiento profesional de alta calidad.",
             "stock": "disponible",
@@ -1280,7 +1280,7 @@
             "nombre": "FOCO TRABAJO LED + FLASH",
             "slug": "foco-trabajo-led-flash",
             "categoria": "auxilio-en-carretera",
-            "categoria_display": "Auxilio En Carretera",
+            "categoria_display": "Auxilio en carretera",
             "descripcion_corta": "FOCO TRABAJO LED + FLASH de alta resistencia industrial.",
             "descripcion_larga": "Descripción completa para FOCO TRABAJO LED + FLASH. Equipamiento profesional de alta calidad.",
             "stock": "disponible",
@@ -1305,7 +1305,7 @@
             "nombre": "BARRAS DIRECCIONALES 3",
             "slug": "barras-direccionales-3",
             "categoria": "auxilio-en-carretera",
-            "categoria_display": "Auxilio En Carretera",
+            "categoria_display": "Auxilio en carretera",
             "descripcion_corta": "BARRAS DIRECCIONALES 3 de alta resistencia industrial.",
             "descripcion_larga": "Descripción completa para BARRAS DIRECCIONALES 3. Equipamiento profesional de alta calidad.",
             "stock": "disponible",
@@ -1330,7 +1330,7 @@
             "nombre": "CINTA DE REFLECTANTE DE 50 M_M",
             "slug": "cinta-de-reflectante-de-50-m-m",
             "categoria": "auxilio-en-carretera",
-            "categoria_display": "Auxilio En Carretera",
+            "categoria_display": "Auxilio en carretera",
             "descripcion_corta": "CINTA DE REFLECTANTE DE 50 M_M de alta resistencia industrial.",
             "descripcion_larga": "Descripción completa para CINTA DE REFLECTANTE DE 50 M_M. Equipamiento profesional de alta calidad.",
             "stock": "disponible",
@@ -1355,7 +1355,7 @@
             "nombre": "PLACA AUXILIO EN CARRETERA V-24",
             "slug": "placa-auxilio-en-carretera-v-24",
             "categoria": "auxilio-en-carretera",
-            "categoria_display": "Auxilio En Carretera",
+            "categoria_display": "Auxilio en carretera",
             "descripcion_corta": "PLACA AUXILIO EN CARRETERA V-24 de alta resistencia industrial.",
             "descripcion_larga": "Descripción completa para PLACA AUXILIO EN CARRETERA V-24. Equipamiento profesional de alta calidad.",
             "stock": "disponible",
@@ -1380,7 +1380,7 @@
             "nombre": "CONOS DE SEÑALIZACION",
             "slug": "conos-de-sen-alizacion",
             "categoria": "auxilio-en-carretera",
-            "categoria_display": "Auxilio En Carretera",
+            "categoria_display": "Auxilio en carretera",
             "descripcion_corta": "CONOS DE SEÑALIZACION de alta resistencia industrial.",
             "descripcion_larga": "Descripción completa para CONOS DE SEÑALIZACION. Equipamiento profesional de alta calidad.",
             "stock": "disponible",
@@ -1405,7 +1405,7 @@
             "nombre": "PUENTE DE LUCES 2",
             "slug": "puente-de-luces-2",
             "categoria": "auxilio-en-carretera",
-            "categoria_display": "Auxilio En Carretera",
+            "categoria_display": "Auxilio en carretera",
             "descripcion_corta": "PUENTE DE LUCES 2 de alta resistencia industrial.",
             "descripcion_larga": "Descripción completa para PUENTE DE LUCES 2. Equipamiento profesional de alta calidad.",
             "stock": "disponible",
@@ -1430,7 +1430,7 @@
             "nombre": "PUENTE DE LUCES 1",
             "slug": "puente-de-luces-1",
             "categoria": "auxilio-en-carretera",
-            "categoria_display": "Auxilio En Carretera",
+            "categoria_display": "Auxilio en carretera",
             "descripcion_corta": "PUENTE DE LUCES 1 de alta resistencia industrial.",
             "descripcion_larga": "Descripción completa para PUENTE DE LUCES 1. Equipamiento profesional de alta calidad.",
             "stock": "disponible",
@@ -1455,7 +1455,7 @@
             "nombre": "BARRAS DIRECCIONALES",
             "slug": "barras-direccionales",
             "categoria": "auxilio-en-carretera",
-            "categoria_display": "Auxilio En Carretera",
+            "categoria_display": "Auxilio en carretera",
             "descripcion_corta": "BARRAS DIRECCIONALES de alta resistencia industrial.",
             "descripcion_larga": "Descripción completa para BARRAS DIRECCIONALES. Equipamiento profesional de alta calidad.",
             "stock": "disponible",
@@ -1472,9 +1472,9 @@
             },
             "relacionados": [],
             "imagenes": [
-                "barras-direccionales-2.jpg",
+                "barras-direccionales-3.jpg",
                 "barras-direccionales.jpg",
-                "barras-direccionales-3.jpg"
+                "barras-direccionales-2.jpg"
             ]
         },
         {
@@ -1482,7 +1482,7 @@
             "nombre": "FOCO DE TRABAJO LED ",
             "slug": "foco-de-trabajo-led",
             "categoria": "auxilio-en-carretera",
-            "categoria_display": "Auxilio En Carretera",
+            "categoria_display": "Auxilio en carretera",
             "descripcion_corta": "FOCO DE TRABAJO LED  de alta resistencia industrial.",
             "descripcion_larga": "Descripción completa para FOCO DE TRABAJO LED . Equipamiento profesional de alta calidad.",
             "stock": "disponible",
@@ -1507,7 +1507,7 @@
             "nombre": "CINTA DE MARCAJE DERECHA-IZQUIERDA",
             "slug": "cinta-de-marcaje-derecha-izquierda",
             "categoria": "auxilio-en-carretera",
-            "categoria_display": "Auxilio En Carretera",
+            "categoria_display": "Auxilio en carretera",
             "descripcion_corta": "CINTA DE MARCAJE DERECHA-IZQUIERDA de alta resistencia industrial.",
             "descripcion_larga": "Descripción completa para CINTA DE MARCAJE DERECHA-IZQUIERDA. Equipamiento profesional de alta calidad.",
             "stock": "disponible",
@@ -1532,7 +1532,7 @@
             "nombre": "BARRAS DE LUZ DE TRABAJO LED",
             "slug": "barras-de-luz-de-trabajo-led",
             "categoria": "auxilio-en-carretera",
-            "categoria_display": "Auxilio En Carretera",
+            "categoria_display": "Auxilio en carretera",
             "descripcion_corta": "BARRAS DE LUZ DE TRABAJO LED de alta resistencia industrial.",
             "descripcion_larga": "Descripción completa para BARRAS DE LUZ DE TRABAJO LED. Equipamiento profesional de alta calidad.",
             "stock": "disponible",
@@ -1557,7 +1557,7 @@
             "nombre": "PLACA SEÑAL V-20",
             "slug": "placa-sen-al-v-20",
             "categoria": "auxilio-en-carretera",
-            "categoria_display": "Auxilio En Carretera",
+            "categoria_display": "Auxilio en carretera",
             "descripcion_corta": "PLACA SEÑAL V-20 de alta resistencia industrial.",
             "descripcion_larga": "Descripción completa para PLACA SEÑAL V-20. Equipamiento profesional de alta calidad.",
             "stock": "disponible",
@@ -1582,7 +1582,7 @@
             "nombre": "BOTONERAS",
             "slug": "botoneras",
             "categoria": "auxilio-en-carretera",
-            "categoria_display": "Auxilio En Carretera",
+            "categoria_display": "Auxilio en carretera",
             "descripcion_corta": "BOTONERAS de alta resistencia industrial.",
             "descripcion_larga": "Descripción completa para BOTONERAS. Equipamiento profesional de alta calidad.",
             "stock": "disponible",
@@ -1683,7 +1683,7 @@
             "nombre": "MEDIDOR DE GALIBO",
             "slug": "medidor-de-galibo",
             "categoria": "galibo",
-            "categoria_display": "Galibo",
+            "categoria_display": "Medidor de Gálibo",
             "descripcion_corta": "MEDIDOR DE GALIBO de alta resistencia industrial.",
             "descripcion_larga": "Descripción completa para MEDIDOR DE GALIBO. Equipamiento profesional de alta calidad.",
             "stock": "disponible",
@@ -1700,9 +1700,9 @@
             },
             "relacionados": [],
             "imagenes": [
-                "medidor-de-galibo-2.jpg",
+                "medidor-de-galibo-3.jpg",
                 "medidor-de-galibo.jpg",
-                "medidor-de-galibo-3.jpg"
+                "medidor-de-galibo-2.jpg"
             ]
         },
         {
@@ -1727,11 +1727,11 @@
             },
             "relacionados": [],
             "imagenes": [
+                "cabrestantes-3.jpg",
                 "cabrestantes-1.jpg",
-                "cabrestantes-2.jpg",
-                "cabrestantes-4.jpg",
                 "cabrestantes-5.jpg",
-                "cabrestantes-3.jpg"
+                "cabrestantes-4.jpg",
+                "cabrestantes-2.jpg"
             ]
         },
         {
@@ -1756,25 +1756,25 @@
             },
             "relacionados": [],
             "imagenes": [
-                "reparacio-n-de-gru-as-y-gondolas-7.jpg",
-                "reparacio-n-de-gru-as-y-gondolas-12.jpg",
-                "reparacio-n-de-gru-as-y-gondolas-6.jpg",
-                "reparacio-n-de-gru-as-y-gondolas-3.jpg",
+                "reparacio-n-de-gru-as-y-gondolas-9.jpg",
                 "reparacio-n-de-gru-as-y-gondolas-2.jpg",
                 "reparacio-n-de-gru-as-y-gondolas-10.jpg",
-                "reparacio-n-de-gru-as-y-gondolas-5.jpg",
-                "reparacio-n-de-gru-as-y-gondolas-9.jpg",
+                "reparacio-n-de-gru-as-y-gondolas-3.jpg",
                 "reparacio-n-de-gru-as-y-gondolas.jpg",
-                "reparacio-n-de-gru-as-y-gondolas-8.jpg",
                 "reparacio-n-de-gru-as-y-gondolas-4.jpg",
-                "reparacio-n-de-gru-as-y-gondolas-11.jpg"
+                "reparacio-n-de-gru-as-y-gondolas-8.jpg",
+                "reparacio-n-de-gru-as-y-gondolas-6.jpg",
+                "reparacio-n-de-gru-as-y-gondolas-5.jpg",
+                "reparacio-n-de-gru-as-y-gondolas-12.jpg",
+                "reparacio-n-de-gru-as-y-gondolas-11.jpg",
+                "reparacio-n-de-gru-as-y-gondolas-7.jpg"
             ]
         }
     ],
     "categorias": [
         {
             "id": "estanterias",
-            "nombre": "Estanterías",
+            "nombre": "Estanterías y Almacenaje",
             "icono": "fa-pallet"
         },
         {
@@ -1784,12 +1784,12 @@
         },
         {
             "id": "sistemas-de-amarre",
-            "nombre": "Sistemas De Amarre",
+            "nombre": "Sistemas de Amarre",
             "icono": "fa-folder-open"
         },
         {
             "id": "u-til-rescate-pesados",
-            "nombre": "U Til Rescate Pesados",
+            "nombre": "Útil Rescate Pesados",
             "icono": "fa-folder-open"
         },
         {
@@ -1804,12 +1804,12 @@
         },
         {
             "id": "ruedas-para-carros",
-            "nombre": "Ruedas Para Carros",
+            "nombre": "Ruedas para Carros",
             "icono": "fa-folder-open"
         },
         {
             "id": "auxilio-en-carretera",
-            "nombre": "Auxilio En Carretera",
+            "nombre": "Auxilio en carretera",
             "icono": "fa-folder-open"
         },
         {
@@ -1830,7 +1830,7 @@
     ],
     "meta": {
         "version": "1.0",
-        "ultima_actualizacion": "2026-03-09 12:32:21",
+        "ultima_actualizacion": "2026-03-09 12:40:21",
         "total_productos": 68
     }
 }
