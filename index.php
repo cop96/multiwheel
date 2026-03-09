@@ -374,8 +374,7 @@
     </div>
 </section>
 
-<!-- SECTION 5: GALERÍA PROYECTOS PREVIEW (Oculto temporalmente) -->
-<!-- 
+<?php if (false): // SECTION 5: GALERÍA PROYECTOS PREVIEW (Oculto temporalmente) ?>
 <section class="py-16 md:py-24 bg-white">
     <div class="container mx-auto px-4">
         <!-- Intro -->
@@ -464,7 +463,9 @@
         Ver todos los proyectos
     </a>
 </div>
-</div>
+</section>
+<?php
+endif; ?>
 
 <!-- SECTION 6: CTA FINAL -->
 <section class="py-20 md:py-32 bg-gradient-to-br from-[#1e3a5f] to-[#1e3a8a] text-white relative overflow-hidden">
