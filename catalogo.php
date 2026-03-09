@@ -41,17 +41,12 @@ $categorias = $products_data['categorias'] ?? [];
 endforeach; ?>
         </div>
 
-        <!-- PDF Download Button -->
-        <div class="flex flex-col md:flex-row justify-end gap-3 mb-8">
-            <a href="pdf/generar-catalogo.php" target="_blank"
-                class="inline-flex items-center gap-2 bg-gray-100 hover:bg-gray-200 text-gray-700 px-4 py-2 rounded font-semibold transition">
-                <i class="fas fa-download"></i>
-                Descarga Directa PDF
-            </a>
+        <!-- PDF Print Section -->
+        <div class="flex justify-end mb-8">
             <a href="vista-catalogo-imprimir.php" target="_blank"
-                class="inline-flex items-center gap-2 bg-multiwheel-blue hover:bg-blue-800 text-white px-4 py-2 rounded font-semibold transition shadow-md">
-                <i class="fas fa-print"></i>
-                Catálogo Premium (Vista para Imprimir)
+                class="inline-flex items-center gap-2 bg-multiwheel-blue hover:bg-blue-800 text-white px-6 py-3 rounded font-semibold transition shadow-md group">
+                <i class="fas fa-print group-hover:scale-110 transition"></i>
+                Catálogo Premium (Vista para Imprimir / Guardar PDF)
             </a>
         </div>
 

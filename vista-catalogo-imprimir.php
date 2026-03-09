@@ -49,13 +49,16 @@ $products_data = json_decode(file_get_contents($products_file), true);
                 display: none;
             }
 
+            html,
             body {
-                padding: 0;
                 background: white;
+                margin: 0;
+                padding: 0;
             }
 
             .page-break {
                 page-break-after: always;
+                clear: both;
             }
 
             .catalog-container {
@@ -69,13 +72,19 @@ $products_data = json_decode(file_get_contents($products_file), true);
                 box-shadow: none !important;
                 border: none !important;
                 margin: 0 !important;
-                padding: 1.5cm !important;
+                padding: 1cm !important;
+                width: 100%;
+                height: 100vh;
+                /* Force sheet to take available page height */
+                overflow: hidden;
+                /* Avoid spill over */
             }
         }
 
         .product-sheet {
             background: white;
-            min-height: 29.7cm;
+            min-height: 28cm;
+            /* Slightly less than A4 to avoid overflow */
             padding: 1.5cm;
             margin-bottom: 2rem;
             box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1);
