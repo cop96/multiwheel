@@ -44,10 +44,9 @@ endif; ?>
                     <div>
                         <h3 class="font-rajdhani font-bold text-lg text-multiwheel-blue mb-1">Dirección</h3>
                         <p class="text-industrial-gray">
-                            Pol. Ind. La Red<br>
-                            Calle 12 Nave 14<br>
-                            41500 Alcalá de Guadaíra<br>
-                            Sevilla, Andalucía
+                            POLIGONO INDUSTRIAL LA RED<br>
+                            CALLE 12 –NAVE 14<br>
+                            41500 Alcalá de Guadaíra, Sevilla
                         </p>
                     </div>
                 </div>
@@ -110,8 +109,7 @@ endif; ?>
                         <h3 class="font-rajdhani font-bold text-lg text-multiwheel-blue mb-1">Horario</h3>
                         <div class="text-industrial-gray">
                             <p><strong>Lunes - Viernes:</strong> 8:00 - 18:00h</p>
-                            <p><strong>Sábado:</strong> 9:00 - 14:00h</p>
-                            <p><strong>Domingo:</strong> Cerrado</p>
+                            <p><strong>Sábado y Domingo:</strong> Cerrado</p>
                         </div>
                     </div>
                 </div>

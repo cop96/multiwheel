@@ -143,10 +143,9 @@
                     <li class="flex items-start gap-3">
                         <i class="fas fa-map-marker-alt mt-1 text-multiwheel-orange"></i>
                         <span class="text-gray-300">
-                            Pol. Ind. La Red<br>
-                            Calle 12 Nave 14<br>
-                            41500 Alcalá de Guadaíra<br>
-                            Sevilla, Andalucía
+                            POLIGONO INDUSTRIAL LA RED<br>
+                            CALLE 12 –NAVE 14<br>
+                            41500 Alcalá de Guadaíra, Sevilla
                         </span>
                     </li>
                     <li class="flex items-center gap-3">
@@ -171,8 +170,7 @@
                         <i class="fas fa-clock mr-1"></i>Horario
                     </h4>
                     <p class="text-gray-300 text-xs">Lunes - Viernes: 8:00 - 18:00h</p>
-                    <p class="text-gray-300 text-xs">Sábado: 9:00 - 14:00h</p>
-                    <p class="text-gray-400 text-xs mt-1">Domingo: Cerrado</p>
+                    <p class="text-gray-400 text-xs mt-1">Sábado y Domingo: Cerrado</p>
                 </div>
 
                 <!-- Quick CTA -->
@@ -204,42 +202,26 @@
 
 <!-- JavaScript for Mobile Menu -->
 <script>
-    document.addEventListener('DOMContentLoaded', function () {
-        const mobileMenuBtn = document.getElementById('mobile-menu-btn');
-        const mobileMenuClose = document.getElementById('mobile-menu-close');
-        const mobileMenu = document.getElementById('mobile-menu');
-        const mobileMenuOverlay = document.getElementById('mobile-menu-overlay');
+      nt.addEventListener('DOMContentLoaded', function () {
+              ileMenuBtn = document.getElementById('mobile-menu-btn');
+        c        enuClose = document.getElementById('mobile-menu-close');
+        const        = document.getElementById('mobile-menu');
+        const mob        ay = document.getElementById('mobile-menu-overlay');
 
-        function openMobileMenu() {
-            mobileMenu.classList.remove('hidden');
-            mobileMenu.classList.add('visible');
-            mobileMenuOverlay.classList.remove('hidden');
-            document.body.style.overflow = 'hidden';
+        function ope)           mobileMenu.classList.remo                      mobileMenu.classList.add('vis                mobileMenuOverlay.classList.remov                     document.body.style.overflow = 'hidde                   function closeMobileMenu() {
+             eMt        ');
+            mobileMenu.cl            visible');
+            mobileMenuOve            dd('hidden');
+            document.body.             '';
         }
 
-        function closeMobileMenu() {
-            mobileMenu.classList.add('hidden');
-            mobileMenu.classList.remove('visible');
-            mobileMenuOverlay.classList.add('hidden');
-            document.body.style.overflow = '';
+        if (mobileMenuBtn)             bileMenuBtn.addEventListener('click        eM         if (mobileMenuClose)             bileMenuClose.addEventListener('click', closeMobileMenu);          b        ay) {
+            mobil            EventListener('click', closeMobileMenu);
         }
 
-        if (mobileMenuBtn) {
-            mobileMenuBtn.addEventListener('click', openMobileMenu);
-        }
-
-        if (mobileMenuClose) {
-            mobileMenuClose.addEventListener('click', closeMobileMenu);
-        }
-
-        if (mobileMenuOverlay) {
-            mobileMenuOverlay.addEventListener('click', closeMobileMenu);
-        }
-
-        // Close menu on link click
-        const mobileLinks = mobileMenu.querySelectorAll('a');
+                u k        st mobileLinks = mobileMe            All('a');
         mobileLinks.forEach(function (link) {
-            link.addEventListener('click', closeMobileMenu);
+              ddr    oseMobileMenu);
         });
     });
 </script>
