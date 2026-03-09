@@ -22,8 +22,8 @@
             },
             "relacionados": [],
             "imagenes": [
-                "CUÑA DE CARGA 1.JPEG",
-                "CUÑA DE CARGA 2.JPEG"
+                "cuna-de-carga-1.jpg",
+                "cuna-de-carga-2.jpg"
             ]
         },
         {
@@ -151,7 +151,7 @@
             "instalacion_incluida": true,
             "garantia": "2 años",
             "precio": {
-                "base": "450.00",
+                "base": "Consultar",
                 "moneda": "EUR"
             },
             "especificaciones": {
