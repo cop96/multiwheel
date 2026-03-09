@@ -159,4 +159,11 @@ endforeach; ?>
                 Consultar disponibilidad
             </a>
             <a href="https://wa.me/34620531511?text=Hola,%20quiero%20información%20sobre%20los%20productos%20del%20catálogo"
-                target="_blank" class="bg-gree
+                target="_blank"
+                class="bg-green-500 hover:bg-green-600 text-white px-8 py-3 rounded font-semibold transition flex items-center gap-2">
+                <i class="fab fa-whatsapp"></i>
+                WhatsApp
+            </a>
+        </div>
+    </div>
+</section>

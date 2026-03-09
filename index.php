@@ -374,98 +374,97 @@
     </div>
 </section>
 
-<!-- SECTION 5: GALERÍA PROYECTOS PREVIEW -->
+<!-- SECTION 5: GALERÍA PROYECTOS PREVIEW (Oculto temporalmente) -->
+<!-- 
 <section class="py-16 md:py-24 bg-white">
     <div class="container mx-auto px-4">
         <!-- Intro -->
-        <div class="text-center mb-12">
-            <p class="text-multiwheel-orange font-semibold uppercase tracking-wider text-sm mb-2">
-                Nuestros proyectos
-            </p>
-            <h2 class="font-rajdhani font-bold text-4xl md:text-5xl text-multiwheel-blue mb-4">
-                Equipamientos realizados
-            </h2>
-            <p class="text-steel-gray text-lg max-w-2xl mx-auto">
-                Cada proyecto es único. Descubre cómo transformamos vehículos comerciales en herramientas profesionales
-            </p>
-        </div>
+<div class="text-center mb-12">
+    <p class="text-multiwheel-orange font-semibold uppercase tracking-wider text-sm mb-2">
+        Nuestros proyectos
+    </p>
+    <h2 class="font-rajdhani font-bold text-4xl md:text-5xl text-multiwheel-blue mb-4">
+        Equipamientos realizados
+    </h2>
+    <p class="text-steel-gray text-lg max-w-2xl mx-auto">
+        Cada proyecto es único. Descubre cómo transformamos vehículos comerciales en herramientas profesionales
+    </p>
+</div>
 
-        <!-- Gallery Grid -->
-        <div class="grid grid-cols-2 md:grid-cols-3 gap-4 mb-10">
-            <!-- Image 1 -->
-            <div class="relative aspect-square overflow-hidden group cursor-pointer">
-                <img src="https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=600&q=80"
-                    alt="Work van interior"
-                    class="w-full h-full object-cover group-hover:scale-110 transition duration-500">
-                <div
-                    class="absolute inset-0 bg-multiwheel-blue/80 opacity-0 group-hover:opacity-100 transition duration-300 flex items-center justify-center">
-                    <span class="text-white font-rajdhani font-bold text-lg">Ver proyecto</span>
-                </div>
-            </div>
-
-            <!-- Image 2 -->
-            <div class="relative aspect-square overflow-hidden group cursor-pointer">
-                <img src="https://images.unsplash.com/photo-1605218427360-4736e2d82375?w=600&q=80"
-                    alt="Commercial vehicle equipment"
-                    class="w-full h-full object-cover group-hover:scale-110 transition duration-500">
-                <div
-                    class="absolute inset-0 bg-multiwheel-blue/80 opacity-0 group-hover:opacity-100 transition duration-300 flex items-center justify-center">
-                    <span class="text-white font-rajdhani font-bold text-lg">Ver proyecto</span>
-                </div>
-            </div>
-
-            <!-- Image 3 -->
-            <div class="relative aspect-square overflow-hidden group cursor-pointer">
-                <img src="https://images.unsplash.com/photo-1581092921461-eab6245b0262?w=600&q=80" alt="Mobile workshop"
-                    class="w-full h-full object-cover group-hover:scale-110 transition duration-500">
-                <div
-                    class="absolute inset-0 bg-multiwheel-blue/80 opacity-0 group-hover:opacity-100 transition duration-300 flex items-center justify-center">
-                    <span class="text-white font-rajdhani font-bold text-lg">Ver proyecto</span>
-                </div>
-            </div>
-
-            <!-- Image 4 -->
-            <div class="relative aspect-square overflow-hidden group cursor-pointer">
-                <img src="https://images.unsplash.com/photo-1565043666747-69f6646db940?w=600&q=80" alt="Tow truck"
-                    class="w-full h-full object-cover group-hover:scale-110 transition duration-500">
-                <div
-                    class="absolute inset-0 bg-multiwheel-blue/80 opacity-0 group-hover:opacity-100 transition duration-300 flex items-center justify-center">
-                    <span class="text-white font-rajdhani font-bold text-lg">Ver proyecto</span>
-                </div>
-            </div>
-
-            <!-- Image 5 -->
-            <div class="relative aspect-square overflow-hidden group cursor-pointer">
-                <img src="https://images.unsplash.com/photo-1599940824399-b87987ceb72a?w=600&q=80"
-                    alt="Van shelving system"
-                    class="w-full h-full object-cover group-hover:scale-110 transition duration-500">
-                <div
-                    class="absolute inset-0 bg-multiwheel-blue/80 opacity-0 group-hover:opacity-100 transition duration-300 flex items-center justify-center">
-                    <span class="text-white font-rajdhani font-bold text-lg">Ver proyecto</span>
-                </div>
-            </div>
-
-            <!-- Image 6 -->
-            <div class="relative aspect-square overflow-hidden group cursor-pointer">
-                <img src="https://images.unsplash.com/photo-1503376763036-066120622c74?w=600&q=80"
-                    alt="Professional van conversion"
-                    class="w-full h-full object-cover group-hover:scale-110 transition duration-500">
-                <div
-                    class="absolute inset-0 bg-multiwheel-blue/80 opacity-0 group-hover:opacity-100 transition duration-300 flex items-center justify-center">
-                    <span class="text-white font-rajdhani font-bold text-lg">Ver proyecto</span>
-                </div>
-            </div>
-        </div>
-
-        <!-- CTA -->
-        <div class="text-center">
-            <a href="proyectos.php"
-                class="inline-flex items-center gap-2 bg-multiwheel-red hover:bg-red-700 text-white px-8 py-3 rounded font-semibold transition">
-                <i class="fas fa-images"></i>
-                Ver todos los proyectos
-            </a>
+<!-- Gallery Grid -->
+<div class="grid grid-cols-2 md:grid-cols-3 gap-4 mb-10">
+    <!-- Image 1 -->
+    <div class="relative aspect-square overflow-hidden group cursor-pointer">
+        <img src="https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=600&q=80" alt="Work van interior"
+            class="w-full h-full object-cover group-hover:scale-110 transition duration-500">
+        <div
+            class="absolute inset-0 bg-multiwheel-blue/80 opacity-0 group-hover:opacity-100 transition duration-300 flex items-center justify-center">
+            <span class="text-white font-rajdhani font-bold text-lg">Ver proyecto</span>
         </div>
     </div>
+
+    <!-- Image 2 -->
+    <div class="relative aspect-square overflow-hidden group cursor-pointer">
+        <img src="https://images.unsplash.com/photo-1605218427360-4736e2d82375?w=600&q=80"
+            alt="Commercial vehicle equipment"
+            class="w-full h-full object-cover group-hover:scale-110 transition duration-500">
+        <div
+            class="absolute inset-0 bg-multiwheel-blue/80 opacity-0 group-hover:opacity-100 transition duration-300 flex items-center justify-center">
+            <span class="text-white font-rajdhani font-bold text-lg">Ver proyecto</span>
+        </div>
+    </div>
+
+    <!-- Image 3 -->
+    <div class="relative aspect-square overflow-hidden group cursor-pointer">
+        <img src="https://images.unsplash.com/photo-1581092921461-eab6245b0262?w=600&q=80" alt="Mobile workshop"
+            class="w-full h-full object-cover group-hover:scale-110 transition duration-500">
+        <div
+            class="absolute inset-0 bg-multiwheel-blue/80 opacity-0 group-hover:opacity-100 transition duration-300 flex items-center justify-center">
+            <span class="text-white font-rajdhani font-bold text-lg">Ver proyecto</span>
+        </div>
+    </div>
+
+    <!-- Image 4 -->
+    <div class="relative aspect-square overflow-hidden group cursor-pointer">
+        <img src="https://images.unsplash.com/photo-1565043666747-69f6646db940?w=600&q=80" alt="Tow truck"
+            class="w-full h-full object-cover group-hover:scale-110 transition duration-500">
+        <div
+            class="absolute inset-0 bg-multiwheel-blue/80 opacity-0 group-hover:opacity-100 transition duration-300 flex items-center justify-center">
+            <span class="text-white font-rajdhani font-bold text-lg">Ver proyecto</span>
+        </div>
+    </div>
+
+    <!-- Image 5 -->
+    <div class="relative aspect-square overflow-hidden group cursor-pointer">
+        <img src="https://images.unsplash.com/photo-1599940824399-b87987ceb72a?w=600&q=80" alt="Van shelving system"
+            class="w-full h-full object-cover group-hover:scale-110 transition duration-500">
+        <div
+            class="absolute inset-0 bg-multiwheel-blue/80 opacity-0 group-hover:opacity-100 transition duration-300 flex items-center justify-center">
+            <span class="text-white font-rajdhani font-bold text-lg">Ver proyecto</span>
+        </div>
+    </div>
+
+    <!-- Image 6 -->
+    <div class="relative aspect-square overflow-hidden group cursor-pointer">
+        <img src="https://images.unsplash.com/photo-1503376763036-066120622c74?w=600&q=80"
+            alt="Professional van conversion"
+            class="w-full h-full object-cover group-hover:scale-110 transition duration-500">
+        <div
+            class="absolute inset-0 bg-multiwheel-blue/80 opacity-0 group-hover:opacity-100 transition duration-300 flex items-center justify-center">
+            <span class="text-white font-rajdhani font-bold text-lg">Ver proyecto</span>
+        </div>
+    </div>
+</div>
+
+<!-- CTA -->
+<div class="text-center">
+    <a href="proyectos.php"
+        class="inline-flex items-center gap-2 bg-multiwheel-red hover:bg-red-700 text-white px-8 py-3 rounded font-semibold transition">
+        <i class="fas fa-images"></i>
+        Ver todos los proyectos
+    </a>
+</div>
+</div>
 </section>
 
 <!-- SECTION 6: CTA FINAL -->

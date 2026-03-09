@@ -6,7 +6,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title><?php wp_title('|', true, 'right'); ?>Multiwheel - Equipamiento Profesional de Vehículos</title>
+    <title>
+        <?php wp_title('|', true, 'right'); ?>Multiwheel - Equipamiento Profesional de Vehículos
+    </title>
 
     <!-- Meta Description -->
     <meta name="description"
@@ -147,8 +149,6 @@
                         class="text-industrial-gray hover:text-multiwheel-red font-semibold transition">Inicio</a>
                     <a href="servicios.php"
                         class="text-industrial-gray hover:text-multiwheel-red font-semibold transition">Servicios</a>
-                    <a href="proyectos.php"
-                        class="text-industrial-gray hover:text-multiwheel-red font-semibold transition">Proyectos</a>
                     <a href="catalogo.php"
                         class="text-industrial-gray hover:text-multiwheel-red font-semibold transition">Catálogo</a>
                     <a href="contacto.php"
@@ -202,10 +202,6 @@
                     <a href="servicios.php"
                         class="block py-3 px-4 text-industrial-gray hover:bg-workshop-white hover:text-multiwheel-red rounded font-semibold transition">
                         <i class="fas fa-cogs w-6"></i> Servicios
-                    </a>
-                    <a href="proyectos.php"
-                        class="block py-3 px-4 text-industrial-gray hover:bg-workshop-white hover:text-multiwheel-red rounded font-semibold transition">
-                        <i class="fas fa-images w-6"></i> Proyectos
                     </a>
                     <a href="catalogo.php"
                         class="block py-3 px-4 text-industrial-gray hover:bg-workshop-white hover:text-multiwheel-red rounded font-semibold transition">
