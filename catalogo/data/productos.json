@@ -1,6 +1,40 @@
 {
     "productos": [
         {
+            "id": "TB-001",
+            "nombre": "TOTALBRAKE",
+            "slug": "totalbrake",
+            "categoria": "total-bracket",
+            "categoria_display": "Total Bracket",
+            "descripcion_corta": "SISTEMA DE FRENADO REMOTO EN VEHÍCULO REMOLCADO.",
+            "descripcion_larga": "SISTEMA DE FRENADO AUXILIAR PARA VEHICULOS REMOLCADOS MEDIANTE ACCIONAMIENTO NEUMATICO.\n- BRIDA ESPECIAL PARA FIJACIÓN AL VOLANTE\n- BARRAS DE DIFERENTES MEDIDAS\n- ACOPLE EN “T” PARA FIJAR AL SILLÓN EN CASOS DE REMOLCADO CON BARRA.\n- SOPORTE ÚNICO PARA FIJACIÓN AL PEDAL DEL FRENO (REGULABLE).\n- DISEÑO PRÁCTICO Y RÁPIDO DE MONTAR.\n- SISTEMA PATENTADO Y HOMOLOGADO SEGÚN DIRECTIVA 2006 / 42 / CE\n- INCLUYE MANUAL DE INSTRUCCIONES",
+            "stock": "disponible",
+            "plazo_entrega": "Consultar",
+            "instalacion_incluida": false,
+            "garantia": "2 años",
+            "precio": {
+                "base": "Consultar",
+                "moneda": "EUR"
+            },
+            "especificaciones": {
+                "Sistema": "Neumático",
+                "Homologación": "Directiva 2006 / 42 / CE",
+                "Uso": "Vehículo remolcado"
+            },
+            "relacionados": [],
+            "imagenes": [
+                "1.jpg",
+                "2.jpg",
+                "3.jpg",
+                "4.jpg",
+                "5.jpg",
+                "6.jpg",
+                "9.jpg",
+                "7-vehiculo-remolcador.jpg",
+                "8-vehiculo-remolcado.jpg"
+            ]
+        },
+        {
             "id": "REAL-CUN957",
             "nombre": "Cuña de carga",
             "slug": "cun-a-de-carga",
@@ -2001,6 +2035,11 @@
     ],
     "categorias": [
         {
+            "id": "total-bracket",
+            "nombre": "Total Bracket",
+            "icono": "fa-brackets-curly"
+        },
+        {
             "id": "estanterias",
             "nombre": "Estanterías y Almacenaje",
             "icono": "fa-pallet"
@@ -2064,6 +2103,6 @@
     "meta": {
         "version": "1.0",
         "ultima_actualizacion": "2026-03-09 13:07:14",
-        "total_productos": 76
+        "total_productos": 77
     }
 }
