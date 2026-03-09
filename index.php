@@ -465,7 +465,6 @@
     </a>
 </div>
 </div>
-</section>
 
 <!-- SECTION 6: CTA FINAL -->
 <section class="py-20 md:py-32 bg-gradient-to-br from-[#1e3a5f] to-[#1e3a8a] text-white relative overflow-hidden">
