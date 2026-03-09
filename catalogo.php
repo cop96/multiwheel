@@ -42,11 +42,16 @@ endforeach; ?>
         </div>
 
         <!-- PDF Download Button -->
-        <div class="flex justify-end mb-8">
+        <div class="flex flex-col md:flex-row justify-end gap-3 mb-8">
             <a href="pdf/generar-catalogo.php" target="_blank"
-                class="inline-flex items-center gap-2 bg-red-600 hover:bg-red-700 text-white px-4 py-2 rounded font-semibold transition">
-                <i class="fas fa-file-pdf"></i>
-                Descargar catálogo PDF
+                class="inline-flex items-center gap-2 bg-gray-100 hover:bg-gray-200 text-gray-700 px-4 py-2 rounded font-semibold transition">
+                <i class="fas fa-download"></i>
+                Descarga Directa PDF
+            </a>
+            <a href="vista-catalogo-imprimir.php" target="_blank"
+                class="inline-flex items-center gap-2 bg-multiwheel-blue hover:bg-blue-800 text-white px-4 py-2 rounded font-semibold transition shadow-md">
+                <i class="fas fa-print"></i>
+                Catálogo Premium (Vista para Imprimir)
             </a>
         </div>
 
