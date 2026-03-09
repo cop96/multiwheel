@@ -351,7 +351,7 @@
             <!-- Testimonio 3 -->
             <div class="bg-white/10 backdrop-blur-sm border border-white/20 p-6 rounded-lg">
                 <div class="flex items-center gap-4 mb-4">
-                    <img src="https://i.pravatar.cc/80?img=25" alt="Ana Martínez"
+                    <img src="images/ana-martinez.png" alt="Ana Martínez"
                         class="w-16 h-16 rounded-full border-2 border-multiwheel-orange">
                     <div>
                         <h4 class="font-rajdhani font-bold text-lg">Ana Martínez</h4>
