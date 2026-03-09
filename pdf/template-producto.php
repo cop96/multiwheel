@@ -152,7 +152,7 @@ function generar_html_producto($producto, $is_pdf = false)
         <h2 class="section-title">Descripción</h2>
         <div class="description-list">';
 
-    $lines = explode("\n", $producto['description_larga'] ?? $producto['description_corta']);
+    $lines = explode("\n", $producto['descripcion_larga'] ?? $producto['descripcion_corta'] ?? '');
     $html .= '<ul>';
     foreach ($lines as $line) {
         if (!empty(trim($line))) {

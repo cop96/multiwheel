@@ -11,9 +11,9 @@ if (!file_exists($tcpdf_path)) {
     die('Error: TCPDF no encontrado en ' . $tcpdf_path);
 }
 
-// Enable error reporting for debugging
-error_reporting(E_ALL);
-ini_set('display_errors', 1);
+// Disable error reporting for production output
+error_reporting(E_ALL & ~E_DEPRECATED);
+ini_set('display_errors', 0);
 
 require_once($tcpdf_path);
 require_once(__DIR__ . '/template-producto.php');
