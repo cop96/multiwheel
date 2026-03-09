@@ -181,4 +181,17 @@ function generar_html_producto($producto, $is_pdf = false)
             <div class="price-value">' . ($producto['precio']['base'] ?? 'Consultar') . ' ' . ($producto['precio']['moneda'] ?? 'EUR') . '</div>
             <div style="font-size: 9pt; margin-top: 10px; opacity: 0.8;">
                 IVA no incluido | Plazo de entrega: ' . ($producto['plazo_entrega'] ?? 'Consultar') . '
- 
+            </div>
+        </div>
+
+        <!-- Footer -->
+        <div class="footer-info">
+            <p><strong>MULTIWHEEL EQUIPOS Y SISTEMAS S.L.</strong></p>
+            <p>Pol. Ind. La Red, C/ 12 - Nave 14 | 41500 Alcalá de Guadaíra, Sevilla</p>
+            <p>Telf: 620 531 511 | Email: info@multiwheel.es | www.multiwheel.es</p>
+            <p style="margin-top: 10px;">Generado automáticamente - ' . date('d/m/Y') . '</p>
+        </div>
+    </div>';
+
+    return $html;
+}
