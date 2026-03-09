@@ -1054,8 +1054,8 @@
             "id": "REAL-NEW-GATO-A-20",
             "nombre": "GATO ALUMINIO 1,5 TN",
             "slug": "gato-aluminio-1-5-tn",
-            "categoria": "gato-alumino-1-5-tn",
-            "categoria_display": "Gato Alumino 1 5 Tn",
+            "categoria": "gatos-de-carretilla",
+            "categoria_display": "Gatos De Carretilla",
             "descripcion_corta": "GATO ALUMINIO 1,5 TN de alta resistencia industrial.",
             "descripcion_larga": "Descripción completa para GATO ALUMINIO 1,5 TN. Equipamiento profesional de alta calidad.",
             "stock": "disponible",
@@ -1124,31 +1124,6 @@
             "imagenes": [
                 "GATO 3 TN.png"
             ]
-        },
-        {
-            "id": "REAL-NEW-GATO-A-23",
-            "nombre": "GATO ALUMINO 1,5 TN",
-            "slug": "gato-alumino-1-5-tn",
-            "categoria": "gatos-de-carretilla",
-            "categoria_display": "Gatos De Carretilla",
-            "descripcion_corta": "GATO ALUMINO 1,5 TN de alta resistencia industrial.",
-            "descripcion_larga": "Descripción completa para GATO ALUMINO 1,5 TN. Equipamiento profesional de alta calidad.",
-            "stock": "disponible",
-            "plazo_entrega": "5-7 días",
-            "instalacion_incluida": false,
-            "garantia": "2 años",
-            "precio": {
-                "base": "Consultar",
-                "moneda": "EUR"
-            },
-            "especificaciones": {
-                "Material": "Acero",
-                "Tipo": "Profesional"
-            },
-            "relacionados": [],
-            "imagenes": [
-                "GATO ALUMINIO 1,5 TN.png"
-            ]
         }
     ],
     "categorias": [
@@ -1175,11 +1150,6 @@
         {
             "id": "bocas-desmontadoras",
             "nombre": "Bocas Desmontadoras",
-            "icono": "fa-folder-open"
-        },
-        {
-            "id": "gato-alumino-1-5-tn",
-            "nombre": "Gato Alumino 1 5 Tn",
             "icono": "fa-folder-open"
         },
         {
