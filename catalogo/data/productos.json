@@ -187,8 +187,8 @@
             },
             "relacionados": [],
             "imagenes": [
-                "POLEA REENVIO 2 TN 1.jpeg",
                 "POLEA REENVIO 2 TN 3.jpeg",
+                "POLEA REENVIO 2 TN 1.jpeg",
                 "POLEA REENVIO 2 TN 2.jpeg"
             ]
         },
@@ -214,8 +214,8 @@
             },
             "relacionados": [],
             "imagenes": [
-                "POLEA REENVIO TRASERO 3.jpeg",
                 "POLEA REENVIO TRASERO 1.jpeg",
+                "POLEA REENVIO TRASERO 3.jpeg",
                 "POLEA REENVIO TRASERO 2.jpeg"
             ]
         },
@@ -242,9 +242,9 @@
             "relacionados": [],
             "imagenes": [
                 "POLEA REENVIO VMS 2.JPG",
-                "POLEA REENVIO VMS 1.JPG",
+                "POLEA REENVIO VMS 4.JPG",
                 "POLEA REENVIO VMS 3.JPG",
-                "POLEA REENVIO VMS 4.JPG"
+                "POLEA REENVIO VMS 1.JPG"
             ]
         },
         {
@@ -269,10 +269,10 @@
             },
             "relacionados": [],
             "imagenes": [
-                "POLEA 17 TN 2.jpeg",
                 "POLEA 17 TN 3.jpeg",
-                "POLEA 17 TN 4.jpeg",
-                "POLEA 17 TN 1.jpeg"
+                "POLEA 17 TN 2.jpeg",
+                "POLEA 17 TN 1.jpeg",
+                "POLEA 17 TN 4.jpeg"
             ]
         },
         {
@@ -322,9 +322,9 @@
             },
             "relacionados": [],
             "imagenes": [
-                "TOPE DE RUEDA PARA GONDALAS – PORTAMAQUINAS 1.jpg",
                 "TOPE DE RUEDA PARA GONDALAS – PORTAMAQUINAS 2.jpg",
-                "TOPE DE RUEDA PARA GONDALAS – PORTAMAQUINAS 3.jpg"
+                "TOPE DE RUEDA PARA GONDALAS – PORTAMAQUINAS 3.jpg",
+                "TOPE DE RUEDA PARA GONDALAS – PORTAMAQUINAS 1.jpg"
             ]
         },
         {
@@ -400,12 +400,12 @@
             },
             "relacionados": [],
             "imagenes": [
-                "SISTEMA DE RESCATE PARA VEHICULOS INDUSTRIALES 6.jpeg",
-                "SISTEMA DE RESCATE PARA VEHICULOS INDUSTRIALES 3.jpeg",
                 "SISTEMA DE RESCATE PARA VEHICULOS INDUSTRIALES 4.jpeg",
-                "SISTEMA DE RESCATE PARA VEHICULOS INDUSTRIALES 1.JPEG",
+                "SISTEMA DE RESCATE PARA VEHICULOS INDUSTRIALES 3.jpeg",
                 "SISTEMA DE RESCATE PARA VEHICULOS INDUSTRIALES 2.JPEG",
-                "SISTEMA DE RESCATE PARA VEHICULOS INDUSTRIALES 5.jpeg"
+                "SISTEMA DE RESCATE PARA VEHICULOS INDUSTRIALES 6.jpeg",
+                "SISTEMA DE RESCATE PARA VEHICULOS INDUSTRIALES 5.jpeg",
+                "SISTEMA DE RESCATE PARA VEHICULOS INDUSTRIALES 1.JPEG"
             ]
         },
         {
@@ -455,8 +455,8 @@
             },
             "relacionados": [],
             "imagenes": [
-                "CONJUNTO ESLINGA GRAN TONELAJE 1.jpg",
-                "CONJUNTO ESLINGA GRAN TONELAJE 2.jpg"
+                "CONJUNTO ESLINGA GRAN TONELAJE 2.jpg",
+                "CONJUNTO ESLINGA GRAN TONELAJE 1.jpg"
             ]
         },
         {
@@ -506,9 +506,9 @@
             },
             "relacionados": [],
             "imagenes": [
-                "ESLINGA AMARRE MAQUINARIA 2.jpg",
                 "ESLINGA AMARRE MAQUINARIA 3.jpg",
-                "ESLINGA AMARRE MAQUINARIA 1.jpg"
+                "ESLINGA AMARRE MAQUINARIA 1.jpg",
+                "ESLINGA AMARRE MAQUINARIA 2.jpg"
             ]
         },
         {
@@ -533,8 +533,8 @@
             },
             "relacionados": [],
             "imagenes": [
-                "CONJUNTO ESLINGA REMOLCADOR SIMPLE 1.jpg",
                 "CONJUNTO ESLINGA REMOLCADOR SIMPLE 3.jpg",
+                "CONJUNTO ESLINGA REMOLCADOR SIMPLE 1.jpg",
                 "CONJUNTO ESLINGA REMOLCADOR SIMPLE 2.jpg"
             ]
         },
@@ -660,10 +660,10 @@
             },
             "relacionados": [],
             "imagenes": [
-                "CONJUNTO ESLINGA REMOLCADOR 1.jpg",
-                "CONJUNTO ESLINGA REMOLCADOR 2.jpg",
                 "CONJUNTO ESLINGA REMOLCADOR 4.jpg",
-                "CONJUNTO ESLINGA REMOLCADOR 3.png"
+                "CONJUNTO ESLINGA REMOLCADOR 1.jpg",
+                "CONJUNTO ESLINGA REMOLCADOR 3.png",
+                "CONJUNTO ESLINGA REMOLCADOR 2.jpg"
             ]
         },
         {
@@ -763,8 +763,8 @@
             },
             "relacionados": [],
             "imagenes": [
-                "CONJUNTO ESLINGA MOTOS 1.jpeg",
-                "CONJUNTO ESLINGA MOTO 2.jpg"
+                "CONJUNTO ESLINGA MOTO 2.jpg",
+                "CONJUNTO ESLINGA MOTOS 1.jpeg"
             ]
         },
         {
@@ -865,9 +865,9 @@
             },
             "relacionados": [],
             "imagenes": [
+                "SOPORTE DE LUCES TRASERAS LED PARA  REMOLCADORES.jpeg",
                 "SOPORTE DE LUCES TRASERAS LED PARA  REMOLCADORES 3.jpeg",
                 "SOPORTE DE LUCES TRASERAS LED PARA  REMOLCADORES 2.jpeg",
-                "SOPORTE DE LUCES TRASERAS LED PARA  REMOLCADORES.jpeg",
                 "SOPORTE DE LUCES TRASERAS LED PARA  REMOLCADORES 4.jpeg"
             ]
         },
@@ -1249,6 +1249,358 @@
             "imagenes": [
                 "GATO ALUMINIO 1,5 TN.png"
             ]
+        },
+        {
+            "id": "REAL-NEW-BARRAS-35",
+            "nombre": "BARRAS DIRECCIONALES 2",
+            "slug": "barras-direccionales-2",
+            "categoria": "auxilio-en-carretera",
+            "categoria_display": "Auxilio En Carretera",
+            "descripcion_corta": "BARRAS DIRECCIONALES 2 de alta resistencia industrial.",
+            "descripcion_larga": "Descripción completa para BARRAS DIRECCIONALES 2. Equipamiento profesional de alta calidad.",
+            "stock": "disponible",
+            "plazo_entrega": "5-7 días",
+            "instalacion_incluida": false,
+            "garantia": "2 años",
+            "precio": {
+                "base": "Consultar",
+                "moneda": "EUR"
+            },
+            "especificaciones": {
+                "Material": "Acero",
+                "Tipo": "Profesional"
+            },
+            "relacionados": [],
+            "imagenes": [
+                "BARRAS DIRECCIONALES 2.JPG"
+            ]
+        },
+        {
+            "id": "REAL-NEW-FOCO-T-35",
+            "nombre": "FOCO TRABAJO LED + FLASH",
+            "slug": "foco-trabajo-led-flash",
+            "categoria": "auxilio-en-carretera",
+            "categoria_display": "Auxilio En Carretera",
+            "descripcion_corta": "FOCO TRABAJO LED + FLASH de alta resistencia industrial.",
+            "descripcion_larga": "Descripción completa para FOCO TRABAJO LED + FLASH. Equipamiento profesional de alta calidad.",
+            "stock": "disponible",
+            "plazo_entrega": "5-7 días",
+            "instalacion_incluida": false,
+            "garantia": "2 años",
+            "precio": {
+                "base": "Consultar",
+                "moneda": "EUR"
+            },
+            "especificaciones": {
+                "Material": "Acero",
+                "Tipo": "Profesional"
+            },
+            "relacionados": [],
+            "imagenes": [
+                "FOCO TRABAJO LED + FLASH.JPEG"
+            ]
+        },
+        {
+            "id": "REAL-NEW-BARRAS-35",
+            "nombre": "BARRAS DIRECCIONALES 3",
+            "slug": "barras-direccionales-3",
+            "categoria": "auxilio-en-carretera",
+            "categoria_display": "Auxilio En Carretera",
+            "descripcion_corta": "BARRAS DIRECCIONALES 3 de alta resistencia industrial.",
+            "descripcion_larga": "Descripción completa para BARRAS DIRECCIONALES 3. Equipamiento profesional de alta calidad.",
+            "stock": "disponible",
+            "plazo_entrega": "5-7 días",
+            "instalacion_incluida": false,
+            "garantia": "2 años",
+            "precio": {
+                "base": "Consultar",
+                "moneda": "EUR"
+            },
+            "especificaciones": {
+                "Material": "Acero",
+                "Tipo": "Profesional"
+            },
+            "relacionados": [],
+            "imagenes": [
+                "BARRAS DIRECCIONALES 3.JPG"
+            ]
+        },
+        {
+            "id": "REAL-NEW-CINTA--35",
+            "nombre": "CINTA DE REFLECTANTE DE 50 M_M",
+            "slug": "cinta-de-reflectante-de-50-m-m",
+            "categoria": "auxilio-en-carretera",
+            "categoria_display": "Auxilio En Carretera",
+            "descripcion_corta": "CINTA DE REFLECTANTE DE 50 M_M de alta resistencia industrial.",
+            "descripcion_larga": "Descripción completa para CINTA DE REFLECTANTE DE 50 M_M. Equipamiento profesional de alta calidad.",
+            "stock": "disponible",
+            "plazo_entrega": "5-7 días",
+            "instalacion_incluida": false,
+            "garantia": "2 años",
+            "precio": {
+                "base": "Consultar",
+                "moneda": "EUR"
+            },
+            "especificaciones": {
+                "Material": "Acero",
+                "Tipo": "Profesional"
+            },
+            "relacionados": [],
+            "imagenes": [
+                "CINTA DE REFLECTANTE DE 50 M_M.jpg"
+            ]
+        },
+        {
+            "id": "REAL-NEW-PLACA--35",
+            "nombre": "PLACA AUXILIO EN CARRETERA V-24",
+            "slug": "placa-auxilio-en-carretera-v-24",
+            "categoria": "auxilio-en-carretera",
+            "categoria_display": "Auxilio En Carretera",
+            "descripcion_corta": "PLACA AUXILIO EN CARRETERA V-24 de alta resistencia industrial.",
+            "descripcion_larga": "Descripción completa para PLACA AUXILIO EN CARRETERA V-24. Equipamiento profesional de alta calidad.",
+            "stock": "disponible",
+            "plazo_entrega": "5-7 días",
+            "instalacion_incluida": false,
+            "garantia": "2 años",
+            "precio": {
+                "base": "Consultar",
+                "moneda": "EUR"
+            },
+            "especificaciones": {
+                "Material": "Acero",
+                "Tipo": "Profesional"
+            },
+            "relacionados": [],
+            "imagenes": [
+                "PLACA AUXILIO EN CARRETERA V-24.jpg"
+            ]
+        },
+        {
+            "id": "REAL-NEW-CONOS--35",
+            "nombre": "CONOS DE SEÑALIZACION",
+            "slug": "conos-de-sen-alizacion",
+            "categoria": "auxilio-en-carretera",
+            "categoria_display": "Auxilio En Carretera",
+            "descripcion_corta": "CONOS DE SEÑALIZACION de alta resistencia industrial.",
+            "descripcion_larga": "Descripción completa para CONOS DE SEÑALIZACION. Equipamiento profesional de alta calidad.",
+            "stock": "disponible",
+            "plazo_entrega": "5-7 días",
+            "instalacion_incluida": false,
+            "garantia": "2 años",
+            "precio": {
+                "base": "Consultar",
+                "moneda": "EUR"
+            },
+            "especificaciones": {
+                "Material": "Acero",
+                "Tipo": "Profesional"
+            },
+            "relacionados": [],
+            "imagenes": [
+                "CONOS DE SEÑALIZACION.jpg"
+            ]
+        },
+        {
+            "id": "REAL-NEW-PUENTE-35",
+            "nombre": "PUENTE DE LUCES 2",
+            "slug": "puente-de-luces-2",
+            "categoria": "auxilio-en-carretera",
+            "categoria_display": "Auxilio En Carretera",
+            "descripcion_corta": "PUENTE DE LUCES 2 de alta resistencia industrial.",
+            "descripcion_larga": "Descripción completa para PUENTE DE LUCES 2. Equipamiento profesional de alta calidad.",
+            "stock": "disponible",
+            "plazo_entrega": "5-7 días",
+            "instalacion_incluida": false,
+            "garantia": "2 años",
+            "precio": {
+                "base": "Consultar",
+                "moneda": "EUR"
+            },
+            "especificaciones": {
+                "Material": "Acero",
+                "Tipo": "Profesional"
+            },
+            "relacionados": [],
+            "imagenes": [
+                "PUENTE DE LUCES 2.JPEG"
+            ]
+        },
+        {
+            "id": "REAL-NEW-PUENTE-35",
+            "nombre": "PUENTE DE LUCES 1",
+            "slug": "puente-de-luces-1",
+            "categoria": "auxilio-en-carretera",
+            "categoria_display": "Auxilio En Carretera",
+            "descripcion_corta": "PUENTE DE LUCES 1 de alta resistencia industrial.",
+            "descripcion_larga": "Descripción completa para PUENTE DE LUCES 1. Equipamiento profesional de alta calidad.",
+            "stock": "disponible",
+            "plazo_entrega": "5-7 días",
+            "instalacion_incluida": false,
+            "garantia": "2 años",
+            "precio": {
+                "base": "Consultar",
+                "moneda": "EUR"
+            },
+            "especificaciones": {
+                "Material": "Acero",
+                "Tipo": "Profesional"
+            },
+            "relacionados": [],
+            "imagenes": [
+                "PUENTE DE LUCES 1.JPG"
+            ]
+        },
+        {
+            "id": "REAL-NEW-BARRAS-35",
+            "nombre": "BARRAS DIRECCIONALES",
+            "slug": "barras-direccionales",
+            "categoria": "auxilio-en-carretera",
+            "categoria_display": "Auxilio En Carretera",
+            "descripcion_corta": "BARRAS DIRECCIONALES de alta resistencia industrial.",
+            "descripcion_larga": "Descripción completa para BARRAS DIRECCIONALES. Equipamiento profesional de alta calidad.",
+            "stock": "disponible",
+            "plazo_entrega": "5-7 días",
+            "instalacion_incluida": false,
+            "garantia": "2 años",
+            "precio": {
+                "base": "Consultar",
+                "moneda": "EUR"
+            },
+            "especificaciones": {
+                "Material": "Acero",
+                "Tipo": "Profesional"
+            },
+            "relacionados": [],
+            "imagenes": [
+                "BARRAS DIRECCIONALES 2.JPG",
+                "BARRAS DIRECCIONALES 3.JPG",
+                "BARRAS DIRECCIONALES.jpg"
+            ]
+        },
+        {
+            "id": "REAL-NEW-FOCO-D-35",
+            "nombre": "FOCO DE TRABAJO LED ",
+            "slug": "foco-de-trabajo-led",
+            "categoria": "auxilio-en-carretera",
+            "categoria_display": "Auxilio En Carretera",
+            "descripcion_corta": "FOCO DE TRABAJO LED  de alta resistencia industrial.",
+            "descripcion_larga": "Descripción completa para FOCO DE TRABAJO LED . Equipamiento profesional de alta calidad.",
+            "stock": "disponible",
+            "plazo_entrega": "5-7 días",
+            "instalacion_incluida": false,
+            "garantia": "2 años",
+            "precio": {
+                "base": "Consultar",
+                "moneda": "EUR"
+            },
+            "especificaciones": {
+                "Material": "Acero",
+                "Tipo": "Profesional"
+            },
+            "relacionados": [],
+            "imagenes": [
+                "FOCO DE TRABAJO LED .jpg"
+            ]
+        },
+        {
+            "id": "REAL-NEW-CINTA--35",
+            "nombre": "CINTA DE MARCAJE DERECHA-IZQUIERDA",
+            "slug": "cinta-de-marcaje-derecha-izquierda",
+            "categoria": "auxilio-en-carretera",
+            "categoria_display": "Auxilio En Carretera",
+            "descripcion_corta": "CINTA DE MARCAJE DERECHA-IZQUIERDA de alta resistencia industrial.",
+            "descripcion_larga": "Descripción completa para CINTA DE MARCAJE DERECHA-IZQUIERDA. Equipamiento profesional de alta calidad.",
+            "stock": "disponible",
+            "plazo_entrega": "5-7 días",
+            "instalacion_incluida": false,
+            "garantia": "2 años",
+            "precio": {
+                "base": "Consultar",
+                "moneda": "EUR"
+            },
+            "especificaciones": {
+                "Material": "Acero",
+                "Tipo": "Profesional"
+            },
+            "relacionados": [],
+            "imagenes": [
+                "CINTA DE MARCAJE DERECHA-IZQUIERDA.jpg"
+            ]
+        },
+        {
+            "id": "REAL-NEW-BARRAS-35",
+            "nombre": "BARRAS DE LUZ DE TRABAJO LED",
+            "slug": "barras-de-luz-de-trabajo-led",
+            "categoria": "auxilio-en-carretera",
+            "categoria_display": "Auxilio En Carretera",
+            "descripcion_corta": "BARRAS DE LUZ DE TRABAJO LED de alta resistencia industrial.",
+            "descripcion_larga": "Descripción completa para BARRAS DE LUZ DE TRABAJO LED. Equipamiento profesional de alta calidad.",
+            "stock": "disponible",
+            "plazo_entrega": "5-7 días",
+            "instalacion_incluida": false,
+            "garantia": "2 años",
+            "precio": {
+                "base": "Consultar",
+                "moneda": "EUR"
+            },
+            "especificaciones": {
+                "Material": "Acero",
+                "Tipo": "Profesional"
+            },
+            "relacionados": [],
+            "imagenes": [
+                "BARRAS DE LUZ DE TRABAJO LED.jpg"
+            ]
+        },
+        {
+            "id": "REAL-NEW-PLACA--35",
+            "nombre": "PLACA SEÑAL V-20",
+            "slug": "placa-sen-al-v-20",
+            "categoria": "auxilio-en-carretera",
+            "categoria_display": "Auxilio En Carretera",
+            "descripcion_corta": "PLACA SEÑAL V-20 de alta resistencia industrial.",
+            "descripcion_larga": "Descripción completa para PLACA SEÑAL V-20. Equipamiento profesional de alta calidad.",
+            "stock": "disponible",
+            "plazo_entrega": "5-7 días",
+            "instalacion_incluida": false,
+            "garantia": "2 años",
+            "precio": {
+                "base": "Consultar",
+                "moneda": "EUR"
+            },
+            "especificaciones": {
+                "Material": "Acero",
+                "Tipo": "Profesional"
+            },
+            "relacionados": [],
+            "imagenes": [
+                "PLACA SEÑAL V-20.jpg"
+            ]
+        },
+        {
+            "id": "REAL-NEW-BOTONE-35",
+            "nombre": "BOTONERAS",
+            "slug": "botoneras",
+            "categoria": "auxilio-en-carretera",
+            "categoria_display": "Auxilio En Carretera",
+            "descripcion_corta": "BOTONERAS de alta resistencia industrial.",
+            "descripcion_larga": "Descripción completa para BOTONERAS. Equipamiento profesional de alta calidad.",
+            "stock": "disponible",
+            "plazo_entrega": "5-7 días",
+            "instalacion_incluida": false,
+            "garantia": "2 años",
+            "precio": {
+                "base": "Consultar",
+                "moneda": "EUR"
+            },
+            "especificaciones": {
+                "Material": "Acero",
+                "Tipo": "Profesional"
+            },
+            "relacionados": [],
+            "imagenes": [
+                "BOTONERAS.jpeg"
+            ]
         }
     ],
     "categorias": [
@@ -1286,11 +1638,16 @@
             "id": "ruedas-para-carros",
             "nombre": "Ruedas Para Carros",
             "icono": "fa-folder-open"
+        },
+        {
+            "id": "auxilio-en-carretera",
+            "nombre": "Auxilio En Carretera",
+            "icono": "fa-folder-open"
         }
     ],
     "meta": {
         "version": "1.0",
-        "ultima_actualizacion": "2026-03-09 11:38:00",
-        "total_productos": 48
+        "ultima_actualizacion": "2026-03-09 12:10:35",
+        "total_productos": 62
     }
 }
