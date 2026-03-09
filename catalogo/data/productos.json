@@ -187,9 +187,9 @@
             },
             "relacionados": [],
             "imagenes": [
-                "POLEA REENVIO 2 TN 2.jpeg",
+                "POLEA REENVIO 2 TN 3.jpeg",
                 "POLEA REENVIO 2 TN 1.jpeg",
-                "POLEA REENVIO 2 TN 3.jpeg"
+                "POLEA REENVIO 2 TN 2.jpeg"
             ]
         },
         {
@@ -215,8 +215,8 @@
             "relacionados": [],
             "imagenes": [
                 "POLEA REENVIO TRASERO 3.jpeg",
-                "POLEA REENVIO TRASERO 1.jpeg",
-                "POLEA REENVIO TRASERO 2.jpeg"
+                "POLEA REENVIO TRASERO 2.jpeg",
+                "POLEA REENVIO TRASERO 1.jpeg"
             ]
         },
         {
@@ -241,8 +241,8 @@
             },
             "relacionados": [],
             "imagenes": [
-                "POLEA REENVIO VMS 4.JPG",
                 "POLEA REENVIO VMS 1.JPG",
+                "POLEA REENVIO VMS 4.JPG",
                 "POLEA REENVIO VMS 2.JPG",
                 "POLEA REENVIO VMS 3.JPG"
             ]
@@ -269,10 +269,10 @@
             },
             "relacionados": [],
             "imagenes": [
-                "POLEA 17 TN 1.jpeg",
+                "POLEA 17 TN 4.jpeg",
                 "POLEA 17 TN 2.jpeg",
-                "POLEA 17 TN 3.jpeg",
-                "POLEA 17 TN 4.jpeg"
+                "POLEA 17 TN 1.jpeg",
+                "POLEA 17 TN 3.jpeg"
             ]
         },
         {
@@ -323,8 +323,8 @@
             "relacionados": [],
             "imagenes": [
                 "TOPE DE RUEDA PARA GONDALAS – PORTAMAQUINAS 3.jpg",
-                "TOPE DE RUEDA PARA GONDALAS – PORTAMAQUINAS 2.jpg",
-                "TOPE DE RUEDA PARA GONDALAS – PORTAMAQUINAS 1.jpg"
+                "TOPE DE RUEDA PARA GONDALAS – PORTAMAQUINAS 1.jpg",
+                "TOPE DE RUEDA PARA GONDALAS – PORTAMAQUINAS 2.jpg"
             ]
         },
         {
@@ -400,12 +400,12 @@
             },
             "relacionados": [],
             "imagenes": [
-                "SISTEMA DE RESCATE PARA VEHICULOS INDUSTRIALES 1.JPEG",
                 "SISTEMA DE RESCATE PARA VEHICULOS INDUSTRIALES 3.jpeg",
-                "SISTEMA DE RESCATE PARA VEHICULOS INDUSTRIALES 4.jpeg",
+                "SISTEMA DE RESCATE PARA VEHICULOS INDUSTRIALES 1.JPEG",
+                "SISTEMA DE RESCATE PARA VEHICULOS INDUSTRIALES 2.JPEG",
                 "SISTEMA DE RESCATE PARA VEHICULOS INDUSTRIALES 6.jpeg",
                 "SISTEMA DE RESCATE PARA VEHICULOS INDUSTRIALES 5.jpeg",
-                "SISTEMA DE RESCATE PARA VEHICULOS INDUSTRIALES 2.JPEG"
+                "SISTEMA DE RESCATE PARA VEHICULOS INDUSTRIALES 4.jpeg"
             ]
         },
         {
@@ -506,9 +506,9 @@
             },
             "relacionados": [],
             "imagenes": [
-                "ESLINGA AMARRE MAQUINARIA 2.jpg",
+                "ESLINGA AMARRE MAQUINARIA 1.jpg",
                 "ESLINGA AMARRE MAQUINARIA 3.jpg",
-                "ESLINGA AMARRE MAQUINARIA 1.jpg"
+                "ESLINGA AMARRE MAQUINARIA 2.jpg"
             ]
         },
         {
@@ -533,8 +533,8 @@
             },
             "relacionados": [],
             "imagenes": [
-                "CONJUNTO ESLINGA REMOLCADOR SIMPLE 2.jpg",
                 "CONJUNTO ESLINGA REMOLCADOR SIMPLE 1.jpg",
+                "CONJUNTO ESLINGA REMOLCADOR SIMPLE 2.jpg",
                 "CONJUNTO ESLINGA REMOLCADOR SIMPLE 3.jpg"
             ]
         },
@@ -661,8 +661,8 @@
             "relacionados": [],
             "imagenes": [
                 "CONJUNTO ESLINGA REMOLCADOR 4.jpg",
-                "CONJUNTO ESLINGA REMOLCADOR 2.jpg",
                 "CONJUNTO ESLINGA REMOLCADOR 3.png",
+                "CONJUNTO ESLINGA REMOLCADOR 2.jpg",
                 "CONJUNTO ESLINGA REMOLCADOR 1.jpg"
             ]
         },
@@ -763,8 +763,8 @@
             },
             "relacionados": [],
             "imagenes": [
-                "CONJUNTO ESLINGA MOTO 2.jpg",
-                "CONJUNTO ESLINGA MOTOS 1.jpeg"
+                "CONJUNTO ESLINGA MOTOS 1.jpeg",
+                "CONJUNTO ESLINGA MOTO 2.jpg"
             ]
         },
         {
@@ -865,10 +865,10 @@
             },
             "relacionados": [],
             "imagenes": [
-                "SOPORTE DE LUCES TRASERAS LED PARA  REMOLCADORES 4.jpeg",
                 "SOPORTE DE LUCES TRASERAS LED PARA  REMOLCADORES 3.jpeg",
+                "SOPORTE DE LUCES TRASERAS LED PARA  REMOLCADORES.jpeg",
                 "SOPORTE DE LUCES TRASERAS LED PARA  REMOLCADORES 2.jpeg",
-                "SOPORTE DE LUCES TRASERAS LED PARA  REMOLCADORES.jpeg"
+                "SOPORTE DE LUCES TRASERAS LED PARA  REMOLCADORES 4.jpeg"
             ]
         },
         {
@@ -895,8 +895,8 @@
             "imagenes": [
                 "SOPORTE DE LUCES LED PARA PALAS TRASERAS.JPG",
                 "SOPORTE DE LUCES LED PARA PALAS TRASERAS 4.JPG",
-                "SOPORTE DE LUCES LED PARA PALAS TRASERAS 3.JPG",
-                "SOPORTE DE LUCES LED PARA PALAS TRASERAS 2.JPG"
+                "SOPORTE DE LUCES LED PARA PALAS TRASERAS 2.JPG",
+                "SOPORTE DE LUCES LED PARA PALAS TRASERAS 3.JPG"
             ]
         },
         {
@@ -1046,8 +1046,8 @@
             },
             "relacionados": [],
             "imagenes": [
-                "BOCAS DESMONTADORAS.jpg",
-                "BOCAS DESMONTADORAS 2.png"
+                "BOCAS DESMONTADORAS 2.png",
+                "BOCAS DESMONTADORAS.jpg"
             ]
         },
         {
@@ -1163,11 +1163,6 @@
             "icono": "fa-cogs"
         },
         {
-            "id": "rescate",
-            "nombre": "Rescate",
-            "icono": "fa-truck-pickup"
-        },
-        {
             "id": "sistemas-de-amarre",
             "nombre": "Sistemas De Amarre",
             "icono": "fa-folder-open"
@@ -1175,11 +1170,6 @@
         {
             "id": "u-til-rescate-pesados",
             "nombre": "U Til Rescate Pesados",
-            "icono": "fa-folder-open"
-        },
-        {
-            "id": "soporte-de-luces-traseras",
-            "nombre": "Soporte De Luces Traseras",
             "icono": "fa-folder-open"
         },
         {
@@ -1193,16 +1183,6 @@
             "icono": "fa-folder-open"
         },
         {
-            "id": "kit-reparapinchazos-ri-70",
-            "nombre": "Kit Reparapinchazos Ri 70",
-            "icono": "fa-folder-open"
-        },
-        {
-            "id": "gato-3-tn",
-            "nombre": "Gato 3 Tn",
-            "icono": "fa-folder-open"
-        },
-        {
             "id": "gatos-de-carretilla",
             "nombre": "Gatos De Carretilla",
             "icono": "fa-folder-open"
@@ -1210,7 +1190,7 @@
     ],
     "meta": {
         "version": "1.0",
-        "ultima_actualizacion": "2026-03-09 11:24:23",
+        "ultima_actualizacion": "2026-03-09 11:25:02",
         "total_productos": 44
     }
 }
